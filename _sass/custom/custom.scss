@@ -1,0 +1,15 @@
+// _sass/custom/custom.scss
+
+// Example custom colors
+$blueish: #007acc;
+$greenish: #2e8540;
+$yellowish: #ffcc00;
+$reddish: #cc3300;
+$creamish: #fdf6e3;
+
+// Override callout colors (based on JTD variable structure)
+$callout-note-color: $blueish;
+$callout-tip-color: $greenish;
+$callout-important-color: $yellowish;
+$callout-warning-color: $reddish;
+$callout-example-color: $creamish;

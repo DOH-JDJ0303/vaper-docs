@@ -57,7 +57,7 @@ sample02,sample02_R1_001.fastq.gz,sample02_R2_001.fastq.gz
 |Column Name|Description|
 |:-|:-|
 |`sample`|Sample name|
-|`fastq_1`|Absolute path to the forward (R1) Illumina read file. Must be supplied with `fastq_2`. Cannot be supplied with `sra` column.||
+|`fastq_1`|Absolute path to the forward (R1) Illumina read file. Must be supplied with `fastq_2`. Cannot be supplied with `sra` column.|
 |`fastq_2`|Absolute path to the forward (R2) Illumina read file. Must be supplied with `fastq_1`. Cannot be supplied with `sra` column.|
 |`sra`|NCBI SRA accession number. Cannot be supplied the `fastq_1` or `fastq_2` columns.|
 |`reference`|Semicolon separated list of reference genomes to use for reference-based genome assembly. This can include absolute file paths to a FASTA file or the reference name(s) in the reference set supplied to `--refs` |
@@ -65,6 +65,7 @@ sample02,sample02_R1_001.fastq.gz,sample02_R2_001.fastq.gz
 ## `--refs`
 Path to a reference set
 
+- Options: Path to a `tar.gz` or `.csv` file containing reference info.
 - Default: `${baseDir}/assets/reference_sets/EPITOME_*.tar.gz`
 
 > Learn more about reference sets [here](overview.html#reference-sets).
