@@ -22,7 +22,8 @@ VAPER was originally created by the Washington State Department of Health (WA DO
 - [NW PGCoE](https://nwpage.org/)
 
 <script>
-  fetch('/assets/data/taxon_jsons/taxon_list.json')
+  const baseurl = '{{ site.baseurl }}';
+  fetch(`${baseurl}/assets/data/taxon_jsons/taxon_list.json`)
     .then(response => response.json())
     .then(data => {
       const count = data.length;
