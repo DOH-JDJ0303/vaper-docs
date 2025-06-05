@@ -2,22 +2,23 @@
 title: Inputs
 layout: page
 nav_order: 4
+parent: Usage Guide
 ---
 
-# **{{ page.title }}**
+# {{ page.title }}
 {: .no_toc}
 
 1. TOC
 {:toc}
 
-# **Overview**
+# Overview
 Pipeline parameters can be adjusted using the following methods:
 
 1. At the command line using `--{parameter_name}` (e.g., `--input`)
 2. In the `nextflow.config` file
 3. In a JSON file via the `-params-file` parameter
 
-It is also possible pass arguments directly to a pipeline process using the `ext.args` variable in `conf/modules.config` (see example below):
+It is also possible to pass arguments directly to a pipeline process using the `ext.args` variable in `conf/modules.config` (see example below):
 ```
     withName: 'IVAR_CONSENSUS' {
         ext.args            = "-n 'N' -k"
@@ -37,7 +38,7 @@ It is also possible pass arguments directly to a pipeline process using the `ext
     }
 ```
 
-# **Input Options**
+# Input Options
 ## `--input`
 Path to the samplesheet. 
 
@@ -51,16 +52,16 @@ sample02,sample02_R1_001.fastq.gz,sample02_R2_001.fastq.gz
 ### Samplesheet columns
 
 {: .note}
-- **Required columns:** `sample`, and `fastq_1` + `fastq_2` or `sra` 
-- Absolute files paths must be used in the samplesheet.
+- Required columns: `sample`, and `fastq_1` + `fastq_2` or `sra` 
+- All file paths in the samplesheet must be absolute.
 
 |Column Name|Description|
 |:-|:-|
 |`sample`|Sample name|
 |`fastq_1`|Absolute path to the forward (R1) Illumina read file. Must be supplied with `fastq_2`. Cannot be supplied with `sra` column.|
 |`fastq_2`|Absolute path to the forward (R2) Illumina read file. Must be supplied with `fastq_1`. Cannot be supplied with `sra` column.|
-|`sra`|NCBI SRA accession number. Cannot be supplied the `fastq_1` or `fastq_2` columns.|
-|`reference`|Semicolon separated list of reference genomes to use for reference-based genome assembly. This can include absolute file paths to a FASTA file or the reference name(s) in the reference set supplied to `--refs` |
+|`sra`|NCBI SRA accession number. Cannot be used with `fastq_1` or `fastq_2`.|
+|`reference`|Semicolon-separated list of reference genomes to use for reference-based genome assembly. This can include absolute file paths to a FASTA file or the reference name(s) in the reference set supplied to `--refs` |
 
 ## `--refs`
 Path to a reference set
@@ -78,7 +79,7 @@ The maximum number of reads to include in the analysis.
 
 > Samples with more than this number of reads will be randomly down-sampled using `seqtk sample`. Read counts are based on the sum of the forward and reverse reads.
 
-# **Classification Options**
+# Classification Options
 ## `--ref_mode`
 Reference selection mode
 
@@ -101,7 +102,7 @@ Create reference coverage plots.
 - Options: `true` or `false`
 - Default: `false`
 
-> Only applies to `accurate` reference selection mode.
+> Only applies when `--ref_mode` is `accurate`.
 
 ## `--ref_denovo_assembler`
 De novo assembler to use for accurate reference selection.
@@ -127,7 +128,7 @@ Minimum length for a contig to be retained in the de novo assembly.
 
 > Only applies to `accurate` reference selection mode.
 
-# **Assembly Options**
+# Assembly Options
 ## `--cons_assembler`
 Reference-based assembler
 
@@ -143,7 +144,7 @@ Method used for creating the reference-based assembly.
 > This option only applies to IRMA (ignored by iVar).
 
 ## `--cons_assembly_elong`
-Use IRMA "elongation" feature.
+Enables IRMA's optional elongation feature to extend assembled contigs.
 
 - Options: `true` or `false`
 - Default: `false`
@@ -186,7 +187,7 @@ Average nucleotide difference used to condense duplicate assemblies (`1 - ( % AN
 {: .note}
 Use `--cons_condist 0` to return all duplicated assemblies.
 
-# **Quality Control**
+# Quality Control
 ## `--qc_depth`
 Minimum average depth of coverage used for quality assessment of reference-based assemblies.
 
@@ -200,4 +201,4 @@ Minimum genome fraction used for quality assessment of reference-based assemblie
 - Default: `0.8`
 
 {: .note}
-This differs from the minimum genome fraction used for reference selection (i.e., `--ref_genfrac`).
+This is separate from the minimum genome fraction used for reference selection (i.e., `--ref_genfrac`) and applies only to the final quality assessment step.

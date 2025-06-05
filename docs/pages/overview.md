@@ -2,18 +2,38 @@
 title: Overview
 layout: page
 nav_order: 3
+parent: Usage Guide
 ---
 
-# **{{ page.title }}**
+# {{ page.title }}
 {: .no_toc }
 
 1. TOC
 {:toc}
 
-# **Flowchart**
+# What is VAPER?
+## Flowchart
 ![](../media/VAPER-1.0.drawio.png)
 
-# **Inputs**
+## Key Features
+VAPER (<ins>V</ins>iral <ins>A</ins>ssembly from <ins>P</ins>robe-based <ins>E</ins>n<ins>r</ins>ichment) is a viral (meta-)assembly pipeline that can:
+
+<div style="padding: 1em; margin: 1em 0;">
+🧬 Assemble genomes from complex samples, supporting multiple assemblies per sample (e.g., co-infections)<br>
+🧬 Automatically detect and select reference genomes<br>
+🧬 Predict the taxonomy of each assembly, with an optional viral metagenomic summary<br>
+🧬 Export reads associated with each assembly for downstream use<br>
+</div>
+
+While VAPER was originally designed for hybrid capture data (e.g., [Illumina VSP](https://www.illumina.com/products/by-type/sequencing-kits/library-prep-kits/viral-surveillance-panel.html) or [Twist CVRP](https://www.twistbioscience.com/products/ngs/fixed-panels/comprehensive-viral-research-panel)), it has also been used with shotgun metagenomic and tile-amplicon data. It comes stock with comprehensive reference sets for <span id="taxon-count">[loading]</span> taxa, including influenza A, SARS-CoV-2, and Monkeypox ([full list](ref_search.html)). Keep on reading to learn more!
+
+## Contributors
+VAPER was originally created by the Washington State Department of Health (WA DOH) as part of the Pathogen Genomics Center of Excellence (PGCoE). Check out the links below to learn more:
+- [VAPER developers](https://github.com/DOH-JDJ0303/vaper/graphs/contributors)
+- [Other contributors](https://github.com/DOH-JDJ0303/vaper?tab=readme-ov-file#acknowledgements)
+- [NW PGCoE](https://nwpage.org/)
+
+# Inputs
 VAPER performs basic quality control on the reads prior to reference selection and genome assembly. References are <ins>not</ins> quality controlled.
 
 ## Read Quality
@@ -34,7 +54,7 @@ sample01,SRR28460430
 {: .note}
 These must be paired-end Illumina reads.
 
-# **Reference Selection**
+# Reference Selection
 VAPER can automatically select references for you and/or you can tell VAPER which references to use.
  
 ## Automated Reference Selection
@@ -76,7 +96,7 @@ sample,fastq_1,fastq_2,reference
 sample01,sample01_R1.fastq.gz,sample01_R2.fastq.gz,Betacoronavirus-wg-1
 ``` 
 ### *Example:* Multiple references
-Multiple references can be supplied for each sample using a semi-colin (`;`). You can supply file paths and reference names at the same time 🙌!
+Multiple references can be supplied for each sample using a semicolon (`;`). You can supply file paths and reference names at the same time 🙌!
 
 `samplesheet.csv:`
 ```
@@ -84,7 +104,7 @@ sample,fastq_1,fastq_2,reference
 sample01,sample01_R1.fastq.gz,sample01_R2.fastq.gz,Betacoronavirus-wg-1;/path/to/ref.fa.gz
 ```
 
-# **Genome Assembly**
+# Genome Assembly
 VAPER creates genome assemblies by aligning reads to a reference genome and calling the consensus or plurality at each reference position (default: consensus). This can be accomplished using either `ivar` or `irma` (default: `--cons_assembler ivar`).
 
 {: .note}
@@ -114,7 +134,10 @@ Another important difference with IRMA is that is produces multiple different as
 {: .important}
 iVar and IRMA can perform differently depending on the input data. Learn  more [here](examples/eg_test.html).
 
-# **Metagenomic Classification**
+## *Condensing* Duplicate Assemblies
+VAPER will occasionally produce multiple, *near*-identical assemblies (often >99.9% identity). This generally occurs when fragmented contigs from the de novo assembly map to multiple, closely related references (`--ref_mode accurate` only). VAPER uses a custom process (see [vaper-condense.py](https://github.com/DOH-JDJ0303/vaper/blob/main/bin/vaper-condense.py)) to identify and merge assemblies that are highly similar, helping reduce redundancy in the final output. This process uses MinHash-based comparisons (via Sourmash) to calculate pairwise distances between assemblies and groups them using hierarchical clustering. Assemblies within a user-defined similarity threshold (default 98% ANI;  `--cons_condist`) are grouped, and the most complete and supported representative (based on coverage × depth) is selected from each cluster. The result is a condensed set of assemblies that preserves diversity while removing near-identical entries. This improves efficiency and interpretability in downstream analyses.
+
+# Metagenomic Classification
 VAPER performs a basic viral _metagenomic_ analysis using `sourmash gather` and `sourmash tax metagenome` with the [21-mer viral GenBank database](https://sourmash.readthedocs.io/en/latest/databases.html#genbank-viral). You can supply alternative database files using `--sm_db` and `--sm_taxa`.
 
 {: .note}
@@ -135,7 +158,18 @@ Explore the interactive plot [here](../media/metagenomics.krona_example.html).
 |:-|
 |91.2% Influenza A virus; 6.4% Escherichia virus P1; 6.4% uncultured human fecal virus|
 
-
+<script>
+  const baseurl = '{{ site.baseurl }}';
+  fetch(`${baseurl}/assets/data/taxon_jsons/taxon_list.json`)
+    .then(response => response.json())
+    .then(data => {
+      const count = data.length;
+      document.getElementById('taxon-count').textContent = count;
+    })
+    .catch(() => {
+      document.getElementById('taxon-count').textContent = 'an unknown number of';
+    });
+</script>
 
 
 
