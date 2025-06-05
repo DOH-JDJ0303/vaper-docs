@@ -66,7 +66,7 @@ nav_order: 9
   let dataTable = null;
 
   async function loadTaxonList() {
-    const res = await fetch('/assets/data/taxon_jsons/taxon_list.json');
+    const res = await fetch('../../assets/data/taxon_jsons/taxon_list.json');
     const taxonList = await res.json();
 
     taxonList.forEach(taxon => {
@@ -84,7 +84,7 @@ nav_order: 9
   }
 
   async function loadTaxonData(taxon) {
-    const url = `/assets/data/taxon_jsons/${taxon}.json`;
+    const url = `../../assets/data/taxon_jsons/${taxon}.json`;
     const res = await fetch(url);
     const json = await res.json();
 
