@@ -17,9 +17,12 @@ taxon_groups = {}
 for entry in raw_data:
     taxon = entry.get("taxon", "Unknown").strip().replace(" ", "_")
     
-    # Rename 'assembly' to 'reference' and keep only basename
+    # Rename 'assembly' to 'reference' and remove ".fa.gz" suffix
     if 'assembly' in entry:
-        entry['reference'] = os.path.basename(entry['assembly'])
+        base_name = os.path.basename(entry['assembly'])
+        if base_name.endswith(".fa.gz"):
+            base_name = base_name[:-6]  # Remove '.fa.gz'
+        entry['reference'] = base_name
         del entry['assembly']
     
     taxon_groups.setdefault(taxon, []).append(entry)
