@@ -30,69 +30,74 @@ Below are some general pointers for how to run Nextflow workflows.
 ## Specifying the workflow version
 There are two general ways you can specify which version of VAPER you want to run:
 1. Tell Nextflow which version you want to use
-```
-nextflow run doh-jdj0303/vaper \
-    -r v1.0 \
-    -profile docker \
-    --input samplesheet.csv \
-    --outdir results
-```
+
+    ```
+    nextflow run doh-jdj0303/vaper \
+        -r v1.0 \
+        -profile docker \
+        --input samplesheet.csv \
+        --outdir results
+    ```
+
+2. Clone the workflow version manually
+    ```
+    git clone https://github.com/doh-jdj0303/vaper.git -b v1.0 
+    ```
+    ```
+    nextflow run vaper/main.nf \
+        -profile docker \
+        --input samplesheet.csv \
+        --outdir results
+    ```
+
 {: .tip}
 Nextflow caches repos in ~/.nextflow/assets/ by default. Removing this cache can be helpful when running into version-related issues.
 
-2. Clone the workflow version manually
-```
-git clone https://github.com/doh-jdj0303/vaper.git -b v1.0 
-```
-```
-nextflow run vaper/main.nf \
-    -profile docker \
-    --input samplesheet.csv \
-    --outdir results
-```
 ## Specifying resource limits
 We recommend adjusting the maximum resource limits that Nextflow can use. Setting these limits too high will cause the workflow to fail. There are four general ways to achieve this:
 1. Set limits via command-line parameters
-```
-nextflow run doh-jdj0303/vaper \
-    -r main \
-    -profile docker \
-    --input samplesheet.csv \
-    --outdir results \
-    --max_cpus 8 \
-    --max_memory 12.GB 
-```
+    ```
+    nextflow run doh-jdj0303/vaper \
+        -r main \
+        -profile docker \
+        --input samplesheet.csv \
+        --outdir results \
+        --max_cpus 8 \
+        --max_memory 12.GB 
+    ```
 2. Set limits in the [nextflow.config](https://github.com/DOH-JDJ0303/vaper/blob/main/nextflow.config) config file
-```
-    // Max resource options
-    // Defaults only, expecting to be overwritten
-    max_memory                 = '128.GB'
-    max_cpus                   = 16
-    max_time                   = '240.h'
-```
+    ```
+        // Max resource options
+        // Defaults only, expecting to be overwritten
+        max_memory                 = '128.GB'
+        max_cpus                   = 16
+        max_time                   = '240.h'
+    ```
 
 3. Set limits via a custom config file
-`custom.config`
-```
-process {
-  // Default maximum resources allowed per process
-  withName: '*' {
-    maxCpus = 16         // set your desired max CPUs
-    maxMemory = '64 GB'  // set your desired max memory
-  }
-}
-```
-```
-nextflow run doh-jdj0303/vaper \
-    -r main \
-    -c custom.config \
-    -profile docker \
-    --input samplesheet.csv \
-    --outdir results
-```
+    `custom.config`
+    ```
+    process {
+    // Default maximum resources allowed per process
+    withName: '*' {
+        maxCpus = 16         // set your desired max CPUs
+        maxMemory = '64 GB'  // set your desired max memory
+    }
+    }
+    ```
+    ```
+    nextflow run doh-jdj0303/vaper \
+        -r main \
+        -c custom.config \
+        -profile docker \
+        --input samplesheet.csv \
+        --outdir results
+    ```
 
 {: .tip}
 *All* parameters can be supplied via a custom config file, including `input` and `outdir`.
+
+---
 
 ## Resuming a run
 Nextflow can resume a run. This comes in handy when a workflow fails or when you need to make small parameter adjustments. Below is an example of how you can resume a workflow run:
