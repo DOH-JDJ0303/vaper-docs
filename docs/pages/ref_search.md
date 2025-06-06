@@ -62,6 +62,12 @@ nav_order: 9
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
 
+<!-- DataTables Buttons Extension -->
+<link rel="stylesheet" href="https://cdn.datatables.net/buttons/2.4.1/css/buttons.dataTables.min.css">
+<script src="https://cdn.datatables.net/buttons/2.4.1/js/dataTables.buttons.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/2.4.1/js/buttons.html5.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+
 <script>
   let dataTable = null;
 
@@ -90,7 +96,12 @@ nav_order: 9
     const res = await fetch(url);
     const json = await res.json();
 
-    const headers = Object.keys(json[0] || {});
+    if (!json || json.length === 0) return;
+
+    const allKeys = Object.keys(json[0]);
+    const preferredOrder = ["reference", "species", "segment"];
+    const remainingKeys = allKeys.filter(k => !preferredOrder.includes(k) && k !== "taxon");
+    const headers = [...preferredOrder.filter(k => allKeys.includes(k)), ...remainingKeys];
 
     if (dataTable) {
       dataTable.destroy();
@@ -110,7 +121,18 @@ nav_order: 9
     $('#data-table').show();
     dataTable = $('#data-table').DataTable({
       responsive: true,
-      pageLength: 10
+      pageLength: 10,
+      dom: 'Bfrtip',
+      buttons: [
+        {
+          extend: 'csvHtml5',
+          text: 'Download CSV',
+          title: `VAPER_${taxon}_references`,
+          exportOptions: {
+            columns: ':visible'
+          }
+        }
+      ]
     });
   }
 
