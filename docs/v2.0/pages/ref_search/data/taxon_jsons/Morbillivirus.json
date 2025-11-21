@@ -1,0 +1,4824 @@
+[
+  {
+    "metadata": {
+      "accessions": [
+        "AY649446.1",
+        "AY466011.2",
+        "AY542312.2",
+        "AY443350.1",
+        "EU716337.1",
+        "AF164967.1",
+        "KJ123771.1",
+        "AY445077.2"
+      ],
+      "collection_date": {
+        "max": 2004,
+        "min": 2004
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Procyon lotor",
+        "Canis lupus familiaris"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-21"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN632598.1",
+        "MN632599.1"
+      ],
+      "collection_date": {
+        "max": 1958,
+        "min": 1958
+      },
+      "geographic_region": [
+        "Africa"
+      ],
+      "host": [
+        "Bos taurus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus pecoris"
+      ],
+      "tax_id": [
+        "3052346"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-101"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OR086108.1"
+      ],
+      "collection_date": {
+        "max": 2011,
+        "min": 2011
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus felis"
+      ],
+      "tax_id": [
+        "3047832"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-103"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC655226.1"
+      ],
+      "collection_date": {
+        "max": 1993,
+        "min": 1993
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus hominis"
+      ],
+      "tax_id": [
+        "3052345"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-104"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MF678816.1"
+      ],
+      "collection_date": {
+        "max": 2017,
+        "min": 2017
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Capra nubiana"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus caprinae"
+      ],
+      "tax_id": [
+        "3052343"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-108"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KR014147.1"
+      ],
+      "collection_date": {
+        "max": 2013,
+        "min": 2013
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus felis"
+      ],
+      "tax_id": [
+        "3047832"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-109"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "EU267274.1",
+        "ON707027.1"
+      ],
+      "collection_date": {
+        "max": 1992,
+        "min": 1976
+      },
+      "geographic_region": [
+        "Africa"
+      ],
+      "host": [
+        "Capra hircus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus caprinae"
+      ],
+      "tax_id": [
+        "3052343"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-114"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MW557651.1"
+      ],
+      "collection_date": {
+        "max": 2013,
+        "min": 2013
+      },
+      "geographic_region": [
+        "South America"
+      ],
+      "host": [
+        "Myotis riparius"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus myotis"
+      ],
+      "tax_id": [
+        "3430944"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-112"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF914669.1",
+        "PQ584613.1",
+        "KX024708.1",
+        "KX024709.1",
+        "KX774415.1",
+        "MN267063.1",
+        "OR506461.1"
+      ],
+      "collection_date": {
+        "max": 2022,
+        "min": 1988
+      },
+      "geographic_region": [
+        "Europe",
+        "Asia"
+      ],
+      "host": [
+        "Canis lupus familiaris",
+        "Mustelidae",
+        "Meles meles",
+        "Panthera tigris altaica",
+        "Pusa sibirica",
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-40"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OL310688.1",
+        "OP066374.1",
+        "KR140086.1",
+        "OL310697.1",
+        "MN121838.1",
+        "MF443351.1",
+        "MF443344.1",
+        "KT270355.1",
+        "KT633939.1",
+        "MF443336.1",
+        "MF443353.1",
+        "MK991798.1",
+        "MN920707.1",
+        "KP868655.1",
+        "KF727981.2",
+        "MF443345.1",
+        "ON110960.1",
+        "MF443341.1",
+        "PV385049.1",
+        "MZ061722.1",
+        "OL741725.1",
+        "KY967610.1",
+        "MF443354.1",
+        "KM816619.1",
+        "OL310700.1",
+        "PP937138.1",
+        "PQ310780.1",
+        "OL310702.1",
+        "MF443342.1",
+        "MK991799.1",
+        "PV110162.1",
+        "OL310703.1",
+        "MF443338.1",
+        "KX354359.1",
+        "KR261605.1",
+        "KJ867541.1",
+        "KM089830.1",
+        "JF939201.1",
+        "KT860065.1",
+        "KM089831.1",
+        "MW344288.1",
+        "PQ310779.1",
+        "KJ867542.1",
+        "KT860063.1",
+        "PV110159.1",
+        "KX421385.1",
+        "MF443340.1",
+        "KX033350.1",
+        "KX421388.1",
+        "MK991800.1",
+        "OL310693.1",
+        "OL310692.1",
+        "MF443352.1",
+        "PV385050.1",
+        "FJ905304.1",
+        "OL310698.1",
+        "KM091959.1",
+        "MF737202.1",
+        "OR286504.1",
+        "PV385051.1",
+        "MF443347.1",
+        "KX421386.1",
+        "MF443343.1",
+        "OL310690.1",
+        "OL310691.1",
+        "OL310694.1",
+        "OL310695.1",
+        "OL310701.1",
+        "AJ849636.2",
+        "NC_006383.2",
+        "KC594074.1",
+        "KM089832.1",
+        "KP260624.1",
+        "KX421384.1",
+        "KX421387.1",
+        "KY888168.1",
+        "MF443335.1",
+        "MF443337.1",
+        "MF443339.1",
+        "MF443346.1",
+        "MF443348.1",
+        "MF443349.1",
+        "MF443350.1",
+        "MZ061719.1",
+        "MZ061720.1",
+        "OL310687.1",
+        "JX217850.1",
+        "OL310704.1",
+        "MN920706.1",
+        "KT860064.1",
+        "OL310689.1",
+        "KY967608.1",
+        "KY885100.1",
+        "MN369542.1",
+        "OL310696.1",
+        "OL310699.1",
+        "OK274214.1",
+        "MG581412.1",
+        "OK274213.1"
+      ],
+      "collection_date": {
+        "max": 2024,
+        "min": 1994
+      },
+      "genotype": [
+        "IV",
+        "4",
+        "lineage IV",
+        "Lineage IV"
+      ],
+      "geographic_region": [
+        "Asia",
+        "Africa",
+        "Europe"
+      ],
+      "host": [
+        "Capra hircus",
+        "Procapra przewalskii",
+        "Ovis aries",
+        "Capra ibex",
+        "Gazella subgutturosa",
+        "Pseudois nayaur",
+        "Saiga tatarica mongolica",
+        "Gazella gazella"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "serotype": [
+        "IV"
+      ],
+      "species": [
+        "Morbillivirus caprinae"
+      ],
+      "tax_id": [
+        "3052343"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-3"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JF791787.1"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus hominis"
+      ],
+      "tax_id": [
+        "3052345"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-119"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KJ755974.1"
+      ],
+      "genotype": [
+        "H1"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus hominis"
+      ],
+      "tax_id": [
+        "3052345"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-122"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KU666057.1"
+      ],
+      "collection_date": {
+        "max": 2012,
+        "min": 2012
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Procyon lotor"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-126"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KY967609.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "genotype": [
+        "IV"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Capra hircus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus caprinae"
+      ],
+      "tax_id": [
+        "3052343"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-127"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC342298.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2016
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Procyon lotor"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-128"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MG563820.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2016
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus felis"
+      ],
+      "tax_id": [
+        "3047832"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-129"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH349541.1",
+        "KX434626.1",
+        "MH382872.1",
+        "KM280689.1",
+        "MW460905.1",
+        "MF437053.1",
+        "AY386316.1",
+        "AY386315.1",
+        "MH362795.1",
+        "MH426739.1"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 2012
+      },
+      "genotype": [
+        "Europe/South America-1"
+      ],
+      "geographic_region": [
+        "South America",
+        "Africa"
+      ],
+      "host": [
+        "Canis lupus familiaris",
+        "Cerdocyon thous"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-97"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MK188754.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2016
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus felis"
+      ],
+      "tax_id": [
+        "3047832"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-130"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MW876862.2"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 2019
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-132"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MZ493944.1"
+      ],
+      "collection_date": {
+        "max": 2021,
+        "min": 2021
+      },
+      "genotype": [
+        "1"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus felis"
+      ],
+      "tax_id": [
+        "3047832"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-133"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OP628168.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "geographic_region": [
+        "South America"
+      ],
+      "host": [
+        "Molossus rufus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Molossid bat morbillivirus"
+      ],
+      "tax_id": [
+        "3397074"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-134"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OR777862.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2018
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Canis lupus familiaris"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-136"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "PP188031.1"
+      ],
+      "collection_date": {
+        "max": 2020,
+        "min": 2020
+      },
+      "genotype": [
+        "Lineage 3"
+      ],
+      "geographic_region": [
+        "Africa"
+      ],
+      "host": [
+        "Capra hircus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus caprinae"
+      ],
+      "tax_id": [
+        "3052343"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-137"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "PQ464015.1"
+      ],
+      "collection_date": {
+        "max": 2022,
+        "min": 2022
+      },
+      "geographic_region": [
+        "South America"
+      ],
+      "host": [
+        "Callithrix sp."
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-138"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "PV167795.1"
+      ],
+      "collection_date": {
+        "max": 2024,
+        "min": 2024
+      },
+      "genotype": [
+        "IV"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Capra hircus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus caprinae"
+      ],
+      "tax_id": [
+        "3052343"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-139"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN632584.1",
+        "MN632585.1",
+        "MN632635.1",
+        "MN632648.1"
+      ],
+      "collection_date": {
+        "max": 1995,
+        "min": 1995
+      },
+      "geographic_region": [
+        "Africa"
+      ],
+      "host": [
+        "Tragelaphus imberbis"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus pecoris"
+      ],
+      "tax_id": [
+        "3052346"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-15"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN657232.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2018
+      },
+      "genotype": [
+        "Lineage IV"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Ovis aries"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus caprinae"
+      ],
+      "tax_id": [
+        "3052343"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-17"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KY971532.1",
+        "KY971528.1"
+      ],
+      "collection_date": {
+        "max": 2017,
+        "min": 2016
+      },
+      "genotype": [
+        "South Africa"
+      ],
+      "geographic_region": [
+        "Africa"
+      ],
+      "host": [
+        "Crocuta crocuta",
+        "Lycaon pictus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-25"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN632558.1",
+        "MN632626.1",
+        "MN632654.1",
+        "MN632559.1",
+        "MN632616.1",
+        "MN632629.1",
+        "MN632631.1",
+        "MN632668.1",
+        "MN632669.1",
+        "MN632625.1",
+        "MN632603.1",
+        "MN632607.1",
+        "MN632561.1",
+        "MN632552.1",
+        "MN632597.1",
+        "MN632577.1",
+        "MN632639.1",
+        "MN632578.1",
+        "MN632579.1",
+        "MN632560.1",
+        "MN632611.1",
+        "MN632624.1",
+        "MN632647.1",
+        "MN632595.1",
+        "MN632569.1",
+        "MN632617.1",
+        "MN632645.1",
+        "MN632638.1",
+        "MN632593.1",
+        "MN632581.1",
+        "MN632666.1",
+        "MN632667.1",
+        "MN632594.1",
+        "MN632591.1",
+        "MN632592.1",
+        "MN632596.1",
+        "MN632664.1",
+        "MN632665.1"
+      ],
+      "collection_date": {
+        "max": 1995,
+        "min": 1949
+      },
+      "geographic_region": [
+        "Asia",
+        "Europe"
+      ],
+      "host": [
+        "Bos taurus",
+        "Bos grunniens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus pecoris"
+      ],
+      "tax_id": [
+        "3052346"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-19"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MG912591.1"
+      ],
+      "collection_date": {
+        "max": 2013,
+        "min": 2013
+      },
+      "genotype": [
+        "G3"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus hominis"
+      ],
+      "tax_id": [
+        "3052345"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-35"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JN635410.1"
+      ],
+      "collection_date": {
+        "max": 2003,
+        "min": 2003
+      },
+      "genotype": [
+        "D7"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus hominis"
+      ],
+      "tax_id": [
+        "3052345"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-41"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MK513610.1",
+        "MK513600.1",
+        "OR290098.1",
+        "MK513612.1",
+        "OQ096322.1",
+        "HM439386.1",
+        "OQ096297.1",
+        "PP446317.1",
+        "MT789798.1",
+        "MT789788.1",
+        "MT789789.1",
+        "MT789790.1",
+        "MK513607.1",
+        "MK513614.1",
+        "MK513605.1",
+        "MT789808.1",
+        "OQ096275.1",
+        "OQ096325.1",
+        "KT732221.1",
+        "KX838946.2",
+        "MT789796.1",
+        "OP951102.1",
+        "MZ031231.1",
+        "KT732215.1",
+        "KT732220.1",
+        "MT789820.1",
+        "MN630023.1",
+        "OR854813.1",
+        "OQ096321.1",
+        "PV931736.1",
+        "OP951099.1",
+        "MK513608.1",
+        "OQ096285.1",
+        "OQ096280.1",
+        "PQ287423.1",
+        "ON642799.1",
+        "MT789791.1",
+        "MK513606.1",
+        "KT732224.1",
+        "OP951096.1",
+        "OP951100.1",
+        "OP951101.1",
+        "OP951103.1",
+        "KT732222.1",
+        "OQ096320.1",
+        "OQ096316.1",
+        "MT789819.1",
+        "MK513602.1",
+        "MK513598.1",
+        "MK513601.1",
+        "MK513604.1",
+        "MK513611.1",
+        "MK513613.1",
+        "MK513617.1",
+        "MT789816.1",
+        "MT789793.1",
+        "MZ031226.1",
+        "KY969481.1",
+        "MT789813.1",
+        "MK513622.1",
+        "MT789812.1",
+        "MT789815.1",
+        "MT789794.1",
+        "OQ096315.1",
+        "OQ096330.1",
+        "KT732219.1",
+        "OQ096299.1",
+        "MN893225.1",
+        "OQ096266.1",
+        "OP951097.1",
+        "KT732218.1",
+        "JN635408.1",
+        "MZ031258.1",
+        "KT732216.1",
+        "MK513615.1",
+        "PV686488.1",
+        "ON642796.1",
+        "PQ287420.1",
+        "KT732217.1",
+        "KY969478.1",
+        "KT732223.1",
+        "MZ712082.1",
+        "OQ096293.1",
+        "ON024067.1",
+        "MT789792.1",
+        "MT789795.1",
+        "MT789799.1",
+        "MT789800.1",
+        "MT789804.1",
+        "MT789805.1",
+        "MT789818.1",
+        "KY969477.1",
+        "MG912590.1",
+        "MK513599.1",
+        "MK513603.1",
+        "MK513609.1",
+        "MK513616.1",
+        "MK513618.1",
+        "MK513620.1",
+        "MK513621.1",
+        "MK513619.1",
+        "MT789797.1",
+        "MT789801.1",
+        "MT789802.1",
+        "MT789803.1",
+        "MT789814.1",
+        "MT789806.1",
+        "MT789807.1",
+        "MT789809.1",
+        "MT789810.1",
+        "MT789811.1",
+        "MT789817.1",
+        "MZ031229.1",
+        "MZ031241.1",
+        "ON035975.1",
+        "ON642795.1",
+        "OP951098.1",
+        "OQ096264.1",
+        "OQ096276.1",
+        "OQ096277.1",
+        "OQ096278.1",
+        "OQ096310.1",
+        "OQ096339.1",
+        "PP446318.1",
+        "PQ287424.1",
+        "PV931737.1",
+        "KT732214.1"
+      ],
+      "collection_date": {
+        "max": 2025,
+        "min": 1997
+      },
+      "genotype": [
+        "B3",
+        "D8"
+      ],
+      "geographic_region": [
+        "Europe",
+        "North America",
+        "Africa",
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus hominis"
+      ],
+      "tax_id": [
+        "3052345"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-6"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "PV110161.1"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 2019
+      },
+      "geographic_region": [
+        "Africa"
+      ],
+      "host": [
+        "Capra hircus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus caprinae"
+      ],
+      "tax_id": [
+        "3052343"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-52"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JQ411014.1",
+        "NC_039196.1"
+      ],
+      "collection_date": {
+        "max": 2009,
+        "min": 2009
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus felis"
+      ],
+      "tax_id": [
+        "3047832"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-57"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH484613.1"
+      ],
+      "collection_date": {
+        "max": 2017,
+        "min": 2017
+      },
+      "genotype": [
+        "Europe/South America-1"
+      ],
+      "geographic_region": [
+        "South America"
+      ],
+      "host": [
+        "Canis lupus familiaris"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-59"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "HQ660188.2"
+      ],
+      "collection_date": {
+        "max": 2008,
+        "min": 2008
+      },
+      "geographic_region": [
+        "South America"
+      ],
+      "host": [
+        "Desmodus rotundus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Vampire bat morbillivirus 2"
+      ],
+      "tax_id": [
+        "2986077"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-60"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JQ411015.1"
+      ],
+      "collection_date": {
+        "max": 2009,
+        "min": 2009
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus felis"
+      ],
+      "tax_id": [
+        "3047832"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-61"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN017369.1"
+      ],
+      "collection_date": {
+        "max": 2009,
+        "min": 2009
+      },
+      "genotype": [
+        "D11"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus hominis"
+      ],
+      "tax_id": [
+        "3052345"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-65"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC655229.1"
+      ],
+      "collection_date": {
+        "max": 1995,
+        "min": 1995
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus hominis"
+      ],
+      "tax_id": [
+        "3052345"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-67"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MG912589.1"
+      ],
+      "collection_date": {
+        "max": 1991,
+        "min": 1991
+      },
+      "genotype": [
+        "C2"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus hominis"
+      ],
+      "tax_id": [
+        "3052345"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-72"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OR286488.1",
+        "OR286491.1",
+        "OR286480.1",
+        "OR286479.1",
+        "KR781451.1",
+        "OR286486.1",
+        "OR286483.1",
+        "OR286477.1",
+        "OR286495.1",
+        "OR286503.1",
+        "OR286493.1",
+        "OR286499.1",
+        "OR286487.1",
+        "OR286497.1",
+        "MF741712.1",
+        "KJ466104.1",
+        "OR286490.1",
+        "OR286484.1",
+        "OR286478.1",
+        "OR286496.1",
+        "OR286489.1",
+        "OR286494.1",
+        "OR286482.1",
+        "KM212177.1",
+        "KU236379.1",
+        "OR286476.1",
+        "OR286481.1",
+        "OR286485.1",
+        "OR286492.1",
+        "OR286500.1",
+        "OR286498.1",
+        "KR828814.1",
+        "KR781449.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 1999
+      },
+      "genotype": [
+        "Lineage II",
+        "II"
+      ],
+      "geographic_region": [
+        "Africa"
+      ],
+      "host": [
+        "Capra hircus",
+        "Ovis aries"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus caprinae"
+      ],
+      "tax_id": [
+        "3052343"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-9"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN632649.1"
+      ],
+      "collection_date": {
+        "max": 1993,
+        "min": 1993
+      },
+      "geographic_region": [
+        "Africa"
+      ],
+      "host": [
+        "Bos taurus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus pecoris"
+      ],
+      "tax_id": [
+        "3052346"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-74"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB547189.1"
+      ],
+      "host": [
+        "Bos taurus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus pecoris"
+      ],
+      "tax_id": [
+        "3052346"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-75"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT811954.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2016
+      },
+      "geographic_region": [
+        "South America"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus felis"
+      ],
+      "tax_id": [
+        "3047832"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-84"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KC164758.1"
+      ],
+      "collection_date": {
+        "max": 2011,
+        "min": 2011
+      },
+      "genotype": [
+        "G3"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus hominis"
+      ],
+      "tax_id": [
+        "3052345"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-85"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OP628167.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "geographic_region": [
+        "South America"
+      ],
+      "host": [
+        "Myotis cf. nigricans"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus myotis"
+      ],
+      "tax_id": [
+        "3430944"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-86"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT905031.1"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Canis lupus familiaris"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-87"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MZ031196.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2018
+      },
+      "genotype": [
+        "D8"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus hominis"
+      ],
+      "tax_id": [
+        "3052345"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-88"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KT825132.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus felis"
+      ],
+      "tax_id": [
+        "3047832"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-90"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT511667.1"
+      ],
+      "collection_date": {
+        "max": 2020,
+        "min": 2020
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus suis"
+      ],
+      "tax_id": [
+        "3430946"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-91"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN296413.1"
+      ],
+      "collection_date": {
+        "max": 2011,
+        "min": 2011
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Canis lupus familiaris"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-92"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT448054.1",
+        "KF640687.1",
+        "MN365662.1"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 2005
+      },
+      "geographic_region": [
+        "Asia",
+        "North America",
+        "South America"
+      ],
+      "host": [
+        "Paguma larvata",
+        "Canis lupus familiaris"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-71"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "PV102958.1"
+      ],
+      "collection_date": {
+        "max": 2024,
+        "min": 2024
+      },
+      "geographic_region": [
+        "Oceania"
+      ],
+      "host": [
+        "Arctocephalus forsteri"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-96"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH316137.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2018
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Canis lupus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-98"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OM867572.1"
+      ],
+      "collection_date": {
+        "max": 2021,
+        "min": 2021
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Ammotragus lervia"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus caprinae"
+      ],
+      "tax_id": [
+        "3052343"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-99"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KJ867540.1",
+        "OR286505.1"
+      ],
+      "collection_date": {
+        "max": 1994,
+        "min": 1972
+      },
+      "genotype": [
+        "III",
+        "Lienage III"
+      ],
+      "geographic_region": [
+        "Africa"
+      ],
+      "host": [
+        "Capra hircus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus caprinae"
+      ],
+      "tax_id": [
+        "3052343"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-105"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN632612.1",
+        "MN632650.1"
+      ],
+      "collection_date": {
+        "max": 1972,
+        "min": 1972
+      },
+      "geographic_region": [
+        "Africa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus pecoris"
+      ],
+      "tax_id": [
+        "3052346"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-106"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MZ312422.1",
+        "PP850121.1"
+      ],
+      "collection_date": {
+        "max": 2022,
+        "min": 2013
+      },
+      "geographic_region": [
+        "South America"
+      ],
+      "host": [
+        "Phyllostomus hastatus",
+        "Callithrix penicillata"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus phyllostomi",
+        "Marmoset morbillivirus"
+      ],
+      "tax_id": [
+        "3430945",
+        "3117544"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-110"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JQ411016.1",
+        "MN164531.1",
+        "MF627832.1",
+        "AB924122.1",
+        "AB924121.1",
+        "MN164532.2"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2010
+      },
+      "genotype": [
+        "1"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus felis"
+      ],
+      "tax_id": [
+        "3047832"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-11"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OK424798.1",
+        "OK424797.1",
+        "OK424777.1",
+        "OK424799.1",
+        "MH356249.1",
+        "OK424848.1",
+        "OK424758.1",
+        "OK424832.1",
+        "OK424782.1",
+        "OK424760.1",
+        "OK424800.1",
+        "OK424837.1",
+        "MH356251.1",
+        "OK424772.1",
+        "OK424793.1",
+        "JN635402.1",
+        "MF449469.1",
+        "KT732225.1",
+        "OK424834.1",
+        "OK424845.1",
+        "OK424761.1",
+        "OP236009.1",
+        "OP236019.1",
+        "OK424812.1",
+        "OK424847.1",
+        "OK424839.1",
+        "KY656518.1",
+        "KT732229.1",
+        "MH356246.1",
+        "MH356238.2",
+        "OK424844.1",
+        "OK424816.1",
+        "OP236017.1",
+        "OK424783.1",
+        "OK424789.1",
+        "OP236016.1",
+        "JN635403.1",
+        "OK424835.1",
+        "OK424828.1",
+        "OK424842.1",
+        "MW916933.1",
+        "OK424840.1",
+        "MW916929.1",
+        "OK424843.1",
+        "KT732228.1",
+        "OP236020.1",
+        "KT732226.1",
+        "OK424808.1",
+        "OK424795.1",
+        "KY969479.1",
+        "OK424791.1",
+        "OK424810.1",
+        "OK424813.1",
+        "KC164757.1",
+        "KT732227.1",
+        "MG912593.1",
+        "MH356247.1",
+        "MH356248.1",
+        "MH356252.1",
+        "MH356255.1",
+        "MW916928.1",
+        "OK424759.1",
+        "OK424762.1",
+        "OK424763.1",
+        "OK424764.1",
+        "OK424765.1",
+        "OK424766.1",
+        "OK424767.1",
+        "OK424768.1",
+        "OK424780.1",
+        "OK424781.1",
+        "OK424796.1",
+        "OK424801.1",
+        "OK424802.1",
+        "OK424804.1",
+        "OK424805.1",
+        "OK424806.1",
+        "OK424807.1",
+        "OK424809.1",
+        "OK424811.1",
+        "OK424814.1",
+        "OK424815.1",
+        "OK424817.1",
+        "OK424818.1",
+        "OK424820.1",
+        "OK424822.1",
+        "OK424823.1",
+        "OK424824.1",
+        "OK424825.1",
+        "OK424826.1",
+        "OK424827.1",
+        "OK424829.1",
+        "OK424830.1",
+        "OK424831.1",
+        "OK424833.1",
+        "OK424769.1",
+        "OK424773.1",
+        "OK424776.1",
+        "OK424779.1",
+        "OK424785.1",
+        "OK424786.1",
+        "OK424770.1",
+        "OK424774.1",
+        "OK424787.1",
+        "OK424788.1",
+        "OK424771.1",
+        "OK424775.1",
+        "OK424778.1",
+        "OK424784.1",
+        "OK424790.1",
+        "OK424792.1",
+        "OK424794.1",
+        "OK424803.1",
+        "OK424819.1",
+        "OK424821.1",
+        "OK424836.1",
+        "OK424838.1",
+        "OK424841.1",
+        "OK424846.1"
+      ],
+      "collection_date": {
+        "max": 2017,
+        "min": 2007
+      },
+      "genotype": [
+        "D4"
+      ],
+      "geographic_region": [
+        "North America",
+        "Europe",
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus hominis"
+      ],
+      "tax_id": [
+        "3052345"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-1"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB254456.1",
+        "LC336599.1",
+        "JN635409.1",
+        "EU293549.1",
+        "AB481087.1",
+        "EU293552.1",
+        "GQ376026.1",
+        "GQ376027.1",
+        "AB481088.1",
+        "LC420351.1",
+        "NC_001498.1",
+        "EU293548.1",
+        "EU293550.1",
+        "EU293551.1",
+        "JN635405.1",
+        "JN635406.1"
+      ],
+      "collection_date": {
+        "max": 2008,
+        "min": 1989
+      },
+      "genotype": [
+        "D3",
+        "D5"
+      ],
+      "geographic_region": [
+        "Asia",
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus hominis"
+      ],
+      "tax_id": [
+        "3052345"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-32"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MK431532.1",
+        "MF926600.1",
+        "PQ474983.1",
+        "AB687721.2",
+        "MW239877.1",
+        "KX709880.1",
+        "KX499865.1",
+        "KP765763.1",
+        "KJ994343.1",
+        "KX347928.1",
+        "KP793921.1",
+        "MW980440.1",
+        "KP765764.1",
+        "KC427278.1",
+        "PP498905.1",
+        "MF926597.1",
+        "MH496775.1",
+        "OR514513.2",
+        "ON206669.1",
+        "OR514514.2",
+        "PP498904.1",
+        "KP738610.1",
+        "PV778033.1",
+        "MH496776.1",
+        "MF926599.1",
+        "MW020699.1",
+        "PP434477.1",
+        "KJ466106.1",
+        "AB753775.1",
+        "AB753776.1",
+        "MW600730.1",
+        "HM852904.1",
+        "OQ448874.1",
+        "MK408454.1",
+        "PP498906.1",
+        "MW713449.1",
+        "PP498903.1",
+        "JN896331.1",
+        "KJ848781.1",
+        "LC159587.1",
+        "LC338064.1",
+        "MF041963.1",
+        "MK408453.1",
+        "PP498907.1",
+        "PP498908.1",
+        "JX681125.1",
+        "MH496779.1",
+        "MN326827.1",
+        "KP677502.1",
+        "KP769803.1",
+        "MH337872.1",
+        "OL675426.1",
+        "PQ860808.1",
+        "PV645846.1",
+        "PV778034.1",
+        "KF856711.1",
+        "AB687720.2"
+      ],
+      "collection_date": {
+        "max": 2025,
+        "min": 2005
+      },
+      "genotype": [
+        "Asia-1"
+      ],
+      "geographic_region": [
+        "Asia",
+        "Africa"
+      ],
+      "host": [
+        "Canis lupus familiaris",
+        "Macaca fascicularis",
+        "Vulpes",
+        "Canidae",
+        "Nyctereutes procyonoides",
+        "Ailuropoda melanoleuca",
+        "Mustela lutreola",
+        "Macaca mulatta",
+        "Canis simensis",
+        "Neogale vison",
+        "Simiiformes"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "serotype": [
+        "Asia-1"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "subtype": [
+        "Asia-1"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-7"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OQ096286.1",
+        "OQ096288.1",
+        "OR805842.2",
+        "KT732261.1",
+        "MT789825.1",
+        "MT789829.1",
+        "MT789847.1",
+        "KT732252.1",
+        "OR830038.1",
+        "OQ096307.1",
+        "OQ096309.1",
+        "OQ096311.1",
+        "OQ096313.1",
+        "OQ096314.1",
+        "OQ096319.1",
+        "PQ287421.1",
+        "MK513627.1",
+        "KT732231.1",
+        "MT350232.1",
+        "OP609659.1",
+        "MN131124.1",
+        "MZ031269.1",
+        "PV870360.1",
+        "KT732243.1",
+        "MT789844.1",
+        "MZ031179.1",
+        "MT789826.1",
+        "OQ096331.1",
+        "OP951114.1",
+        "KT732251.1",
+        "MZ031255.1",
+        "PV870366.1",
+        "OP951108.1",
+        "PV870359.1",
+        "MH356242.1",
+        "MT789843.1",
+        "OP236014.1",
+        "OR453542.1",
+        "OQ096335.1",
+        "OQ096334.1",
+        "OQ096337.1",
+        "KT732256.1",
+        "MZ031240.1",
+        "MT789845.1",
+        "PV870342.1",
+        "MZ031253.1",
+        "MZ031257.1",
+        "MZ031197.1",
+        "MZ031218.1",
+        "KT732234.1",
+        "KY969480.1",
+        "OQ096306.1",
+        "OP609662.1",
+        "MT789842.1",
+        "MN125025.1",
+        "MW916927.1",
+        "MZ712066.1",
+        "OR830036.1",
+        "OQ096267.1",
+        "PV870339.1",
+        "MT789838.1",
+        "MT789839.1",
+        "PV870352.1",
+        "OP609651.1",
+        "PV870356.1",
+        "OQ096317.1",
+        "OP609664.1",
+        "MN125019.1",
+        "MK142916.1",
+        "OR830033.1",
+        "MK161348.1",
+        "MZ031206.1",
+        "MZ031272.1",
+        "MN125030.1",
+        "MT789841.1",
+        "MZ031234.1",
+        "MH631016.1",
+        "MF496201.1",
+        "OP609660.1",
+        "MZ712074.1",
+        "KT732241.1",
+        "OP236022.1",
+        "PP998305.1",
+        "MZ031239.1",
+        "MZ031192.1",
+        "OP609658.1",
+        "OQ096292.1",
+        "MZ712078.1",
+        "MT789828.1",
+        "OP609661.1",
+        "MN131115.1",
+        "MT789823.1",
+        "PP868388.1",
+        "MZ031205.1",
+        "MN131118.2",
+        "PV870354.1",
+        "OP951106.1",
+        "OR805843.2",
+        "OQ096282.1",
+        "OQ096312.1",
+        "OP951110.1",
+        "LC789941.1",
+        "MZ031233.1",
+        "MZ712087.1",
+        "MT789836.1",
+        "PP887450.1",
+        "MT789831.1",
+        "OQ096303.1",
+        "OR453544.1",
+        "MH631015.1",
+        "OP609652.1",
+        "MH356250.1",
+        "MT789821.1",
+        "PV870338.1",
+        "PV870345.1",
+        "PV870346.1",
+        "PV870347.1",
+        "PV870348.1",
+        "PV870350.1",
+        "OP951105.1",
+        "MZ031243.1",
+        "OQ096274.1",
+        "OQ096338.1",
+        "OR453543.1",
+        "MN125023.1",
+        "PV870361.1",
+        "MT789834.1",
+        "KU728743.1",
+        "KT732240.1",
+        "MZ031195.1",
+        "MZ712068.1",
+        "MZ712069.1",
+        "MZ712070.1",
+        "OQ096290.1",
+        "MN125026.1",
+        "KT732230.1",
+        "PV870343.1",
+        "PP626047.1",
+        "KT732258.1",
+        "MZ031232.1",
+        "MK142915.1",
+        "MZ031180.1",
+        "OQ096295.1",
+        "OP609667.1",
+        "MZ031237.1",
+        "KT732254.1",
+        "OR805844.2",
+        "MZ031267.1",
+        "OR830032.1",
+        "MW916921.1",
+        "OP951111.1",
+        "MF496202.1",
+        "PQ287422.1",
+        "MN131120.1",
+        "OP609663.1",
+        "MZ031194.1",
+        "OP609666.1",
+        "MT789830.1",
+        "MZ712073.1",
+        "MN125029.1",
+        "MN125018.1",
+        "MZ031176.1",
+        "PV870362.1",
+        "OP609655.1",
+        "OP609656.1",
+        "MT789822.1",
+        "MN131121.1",
+        "OQ096336.1",
+        "PP101942.1",
+        "PP101943.1",
+        "MH356243.2",
+        "LC769207.1",
+        "OR290100.1",
+        "OR290102.1",
+        "MZ031260.1",
+        "OP609653.1",
+        "OP609654.1",
+        "PV870344.1",
+        "MZ712071.1",
+        "MZ031225.1",
+        "MZ031228.1",
+        "JN635407.1",
+        "MZ031188.1",
+        "MZ031189.1",
+        "OQ096291.1",
+        "MW916930.1",
+        "MZ031221.1",
+        "MZ031274.1",
+        "MZ031242.1",
+        "MZ031220.1",
+        "MZ031202.1",
+        "MZ031186.1",
+        "MH356236.1",
+        "OQ096284.1",
+        "KT732249.1",
+        "KT732250.1",
+        "KT732257.1",
+        "KT732255.1",
+        "PP998306.1",
+        "OQ096294.1",
+        "MZ031178.1",
+        "OQ096269.1",
+        "MZ712075.1",
+        "MZ712076.1",
+        "MZ031244.1",
+        "OQ096265.1",
+        "MT789848.1",
+        "MT789840.1",
+        "MZ031273.1",
+        "MN131123.2",
+        "MZ031198.1",
+        "MW916932.1",
+        "MT789837.1",
+        "OP236012.1",
+        "MZ031204.1",
+        "MZ031177.1",
+        "MN131116.2",
+        "OP236018.1",
+        "OP609668.1",
+        "MZ031254.1",
+        "MZ031261.1",
+        "MZ031271.1",
+        "PV870358.1",
+        "MT789833.1",
+        "LC789940.1",
+        "MF496200.1",
+        "MH173047.1",
+        "MH356240.1",
+        "MH356241.2",
+        "MN125020.1",
+        "MN131117.1",
+        "MT738550.1",
+        "MT789827.1",
+        "MT789849.1",
+        "MW916919.1",
+        "MW916923.1",
+        "MZ031181.1",
+        "MZ031182.1",
+        "MZ031183.1",
+        "MZ031190.1",
+        "MZ031207.1",
+        "MZ031208.1",
+        "MZ031210.1",
+        "MZ031212.1",
+        "MZ031213.1",
+        "MZ031217.1",
+        "MZ031230.1",
+        "MZ031235.1",
+        "MZ031236.1",
+        "MZ031238.1",
+        "MZ031246.1",
+        "MZ031251.1",
+        "MZ031256.1",
+        "MZ031263.1",
+        "MZ031270.1",
+        "MZ712065.1",
+        "OP236021.1",
+        "OP609648.1",
+        "OP609657.1",
+        "OP951104.1",
+        "OP951113.1",
+        "OP951107.1",
+        "OP951109.1",
+        "OP951112.1",
+        "OQ096268.1",
+        "OQ096271.1",
+        "OQ096272.1",
+        "OQ096298.1",
+        "OQ096318.1",
+        "OR290099.1",
+        "OR290101.1",
+        "OR805841.2",
+        "OR830031.1",
+        "OR830034.1",
+        "OR830037.1",
+        "OR854811.1",
+        "PP998308.1",
+        "PQ453569.1",
+        "PQ590060.1",
+        "PV686489.1",
+        "PV870340.1",
+        "PV870351.1",
+        "PV870355.1",
+        "KJ410048.1",
+        "KT732237.1",
+        "KT732238.1",
+        "KT732246.1",
+        "KT732247.1",
+        "KT732259.1",
+        "KU728742.1",
+        "MH356245.1",
+        "MW916925.1",
+        "ON035860.1",
+        "OP236015.1",
+        "KT732245.1",
+        "KT732248.1",
+        "KT732260.1",
+        "MG912592.1",
+        "MH356237.1",
+        "MN125027.1",
+        "MW916920.1",
+        "OP609650.1",
+        "JN635404.1",
+        "MW916926.1",
+        "KT732235.1",
+        "KT732236.1",
+        "KT732239.1",
+        "KT732242.1",
+        "OP609665.1",
+        "MZ031187.1",
+        "MK142914.1",
+        "OP609649.1",
+        "OQ096300.1",
+        "OQ096301.1",
+        "OQ096308.1",
+        "MW916931.1",
+        "MN131122.1",
+        "MZ031262.1",
+        "PV870365.1",
+        "MN125028.1",
+        "OR854812.1",
+        "PV870353.1",
+        "OQ096324.1",
+        "OQ096326.1",
+        "OQ096327.1",
+        "OQ096329.1",
+        "KT732232.1",
+        "KT732244.1",
+        "KT732253.1",
+        "MZ031199.1",
+        "MN125021.1",
+        "MZ031216.1",
+        "MZ031223.1",
+        "OQ096333.1",
+        "MH356253.2",
+        "MZ031200.1",
+        "OP236013.1",
+        "MZ031201.1",
+        "MZ031203.1",
+        "OR830035.1",
+        "MZ031245.1",
+        "MZ031185.1",
+        "OQ096323.1",
+        "OP236011.1",
+        "MN125024.1",
+        "OQ096332.1",
+        "PV809720.1",
+        "PV870363.1",
+        "MZ031247.1",
+        "MZ712084.1",
+        "OQ096273.1",
+        "OQ096304.1",
+        "OQ096305.1",
+        "OQ096328.1",
+        "MZ031259.1",
+        "KJ018971.2",
+        "MK513624.1",
+        "MZ031219.1",
+        "OQ096270.1",
+        "MZ031215.1",
+        "MZ031250.1",
+        "MZ031209.1",
+        "PV870364.1",
+        "MK513625.1",
+        "MN125022.1",
+        "MZ031214.1",
+        "MZ031227.1",
+        "MZ712067.1",
+        "MK513626.1",
+        "MZ031184.1",
+        "PV870341.1",
+        "MT789835.1",
+        "MZ031264.1",
+        "PV870349.1",
+        "MH356244.1",
+        "MZ031266.1",
+        "MW916922.1",
+        "MN131119.1",
+        "MZ031248.1",
+        "MZ031249.1",
+        "OP236010.1",
+        "MZ031222.1",
+        "KT732233.1",
+        "MH356239.1",
+        "MH356254.2",
+        "MH638233.1",
+        "MK513623.1",
+        "MT789824.1",
+        "MT789832.1",
+        "MT789846.1",
+        "MW916924.1",
+        "MZ031191.1",
+        "MZ031193.1",
+        "MZ031211.1",
+        "MZ031224.1",
+        "MZ031252.1",
+        "MZ031265.1",
+        "MZ031268.1",
+        "MZ712072.1",
+        "MZ712079.1",
+        "MZ712083.1",
+        "MZ712085.1",
+        "OP609647.1",
+        "OP951115.1",
+        "OQ096279.1",
+        "OQ096296.1",
+        "OQ096281.1",
+        "OQ096283.1",
+        "OQ096287.1",
+        "OQ096289.1",
+        "OQ096302.1",
+        "OR290097.1",
+        "PP998307.1",
+        "PV809721.1",
+        "PV870357.1"
+      ],
+      "collection_date": {
+        "max": 2025,
+        "min": 2006
+      },
+      "genotype": [
+        "D8"
+      ],
+      "geographic_region": [
+        "North America",
+        "Asia",
+        "Europe",
+        "South America",
+        "Oceania"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus hominis"
+      ],
+      "tax_id": [
+        "3052345"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-5"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "GU138403.1",
+        "JN896987.1"
+      ],
+      "host": [
+        "Mustela putorius furo"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-118"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "ON035979.1",
+        "ON035954.1",
+        "ON035928.1",
+        "ON035885.1",
+        "MZ483898.1",
+        "MZ483884.1",
+        "MZ442634.1",
+        "MZ483924.1",
+        "MZ483904.1",
+        "MZ483923.1",
+        "MZ442629.1",
+        "MZ483889.1",
+        "MZ483926.1",
+        "MZ442628.1",
+        "ON035850.1",
+        "MZ442616.1",
+        "ON035848.1",
+        "MZ483928.1",
+        "ON035911.1",
+        "ON035866.1",
+        "ON035869.1",
+        "MZ483907.1",
+        "DQ211902.1",
+        "ON035847.1",
+        "MZ483919.1",
+        "ON035984.1",
+        "ON035927.1",
+        "ON035880.1",
+        "ON035855.1",
+        "ON035926.1",
+        "ON035882.1",
+        "ON035878.1",
+        "MZ483912.1",
+        "ON035929.1",
+        "ON035873.1",
+        "ON035886.1",
+        "MZ442626.1",
+        "MZ483905.1",
+        "MZ442615.1",
+        "ON035969.1",
+        "ON035891.1",
+        "ON035956.1",
+        "ON035941.1",
+        "ON035951.1",
+        "ON035952.1",
+        "ON035962.1",
+        "ON035989.1",
+        "MZ483883.1",
+        "ON035936.1",
+        "MZ442627.1",
+        "ON035955.1",
+        "ON035903.1",
+        "MZ483925.1",
+        "MZ483916.1",
+        "MZ483930.1",
+        "MZ483936.1",
+        "ON035913.1",
+        "ON035849.1",
+        "ON035985.1",
+        "ON035892.1",
+        "MZ483900.1",
+        "KJ755979.1",
+        "ON035980.1",
+        "ON035976.1",
+        "MZ442618.1",
+        "ON035887.1",
+        "MZ483937.1",
+        "ON035893.1",
+        "ON035981.1",
+        "MZ483909.1",
+        "MZ483918.1",
+        "MZ483902.1",
+        "ON035868.1",
+        "KJ018970.2",
+        "MZ483882.1",
+        "ON035897.1",
+        "KJ755976.1",
+        "MZ483897.1",
+        "MZ483890.1",
+        "ON035898.1",
+        "MZ442633.1",
+        "MZ483899.1",
+        "ON035922.1",
+        "ON035854.1",
+        "MZ442619.1",
+        "ON035968.1",
+        "MZ483931.1",
+        "ON035883.1",
+        "MZ483940.1",
+        "ON035874.1",
+        "ON035862.1",
+        "MZ483933.1",
+        "ON035991.1",
+        "MG972194.1",
+        "MZ483903.1",
+        "ON035919.1",
+        "ON035852.1",
+        "ON035974.1",
+        "ON035853.1",
+        "ON035856.1",
+        "ON035871.1",
+        "ON035944.1",
+        "ON035948.1",
+        "ON035872.1",
+        "MZ442622.1",
+        "MZ483892.1",
+        "ON035905.1",
+        "ON035972.1",
+        "ON035899.1",
+        "JN635411.1",
+        "KJ755980.1",
+        "ON035851.1",
+        "ON035993.1",
+        "MZ483929.1",
+        "MZ442631.1",
+        "MZ483935.1",
+        "MZ483943.1",
+        "MG912594.1",
+        "ON035938.1",
+        "ON035939.1",
+        "ON035940.1",
+        "ON035870.1",
+        "ON035901.1",
+        "ON035909.1",
+        "MZ483891.1",
+        "ON035888.1",
+        "FJ161211.1",
+        "KJ755977.1",
+        "KJ755982.1",
+        "MN630020.1",
+        "MZ442614.1",
+        "MZ442621.1",
+        "MZ442624.1",
+        "MZ442630.1",
+        "MZ483879.1",
+        "MZ483885.1",
+        "MZ483886.1",
+        "MZ483887.1",
+        "MZ483888.1",
+        "MZ483895.1",
+        "MZ483908.1",
+        "MZ483910.1",
+        "MZ483911.1",
+        "MZ483914.1",
+        "MZ483915.1",
+        "MZ483920.1",
+        "MZ483932.1",
+        "MZ483939.1",
+        "MZ483944.1",
+        "ON035857.1",
+        "ON035859.1",
+        "ON035864.1",
+        "ON035894.1",
+        "ON035895.1",
+        "ON035896.1",
+        "ON035906.1",
+        "ON035907.1",
+        "ON035917.1",
+        "ON035920.1",
+        "ON035921.1",
+        "ON035918.1",
+        "ON035923.1",
+        "ON035924.1",
+        "ON035932.1",
+        "ON035934.1",
+        "ON035935.1",
+        "ON035945.1",
+        "ON035947.1",
+        "ON035953.1",
+        "ON035957.1",
+        "ON035958.1",
+        "ON035970.1",
+        "ON035971.1",
+        "ON035973.1",
+        "ON035983.1",
+        "ON035987.1",
+        "ON035988.1",
+        "ON035902.1",
+        "ON035910.1",
+        "MZ442632.1",
+        "ON035912.1",
+        "KJ755975.1",
+        "ON035858.1",
+        "ON035904.1",
+        "MZ442623.1",
+        "ON035930.1",
+        "KT588921.1",
+        "ON035961.1",
+        "ON035933.1",
+        "MZ483917.1",
+        "ON035915.1",
+        "MZ483893.1",
+        "MZ483894.1",
+        "MZ442620.1",
+        "MZ483941.1",
+        "ON035967.1",
+        "ON035982.1",
+        "ON035949.1",
+        "ON035950.1",
+        "ON035861.1",
+        "ON035978.1",
+        "ON035946.1",
+        "ON035942.1",
+        "ON035943.1",
+        "MZ442617.1",
+        "ON035877.1",
+        "ON035900.1",
+        "MZ442625.1",
+        "MZ483906.1",
+        "ON035879.1",
+        "MZ483938.1",
+        "ON035937.1",
+        "KJ755978.1",
+        "ON035925.1",
+        "ON035959.1",
+        "ON035960.1",
+        "ON035963.1",
+        "MZ483913.1",
+        "MZ483896.1",
+        "ON035916.1",
+        "ON035908.1",
+        "ON035890.1",
+        "ON035876.1",
+        "MZ483927.1",
+        "KJ755981.1",
+        "ON035865.1",
+        "ON035884.1",
+        "ON035867.1",
+        "ON035914.1",
+        "ON035992.1",
+        "MN630021.1",
+        "MZ442613.1",
+        "MZ442635.1",
+        "MZ483880.1",
+        "MZ483881.1",
+        "MZ483901.1",
+        "MZ483921.1",
+        "MZ483922.1",
+        "MZ483934.1",
+        "MZ483942.1",
+        "ON035863.1",
+        "ON035875.1",
+        "ON035881.1",
+        "ON035889.1",
+        "ON035931.1",
+        "ON035964.1",
+        "ON035965.1",
+        "ON035966.1",
+        "ON035977.1",
+        "ON035986.1",
+        "ON035990.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 1997
+      },
+      "genotype": [
+        "H1"
+      ],
+      "geographic_region": [
+        "Asia",
+        "North America",
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "serotype": [
+        "H1"
+      ],
+      "species": [
+        "Morbillivirus hominis"
+      ],
+      "tax_id": [
+        "3052345"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-10"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB924120.1",
+        "MK088517.1",
+        "MK088516.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2013
+      },
+      "geographic_region": [
+        "Asia",
+        "Europe"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus felis"
+      ],
+      "tax_id": [
+        "3047832"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-102"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KJ747371.1",
+        "KJ747372.1"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Canidae",
+        "Canis lupus familiaris"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-107"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN632566.1",
+        "MN632602.1",
+        "MN632651.1"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Capra hircus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus pecoris"
+      ],
+      "tax_id": [
+        "3052346"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-16"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN632613.1",
+        "MN632661.1",
+        "MN632556.1",
+        "MN632614.1"
+      ],
+      "collection_date": {
+        "max": 1989,
+        "min": 1987
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Bos taurus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus pecoris"
+      ],
+      "tax_id": [
+        "3052346"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-18"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MZ388427.1",
+        "MZ388421.1",
+        "MZ388426.1",
+        "MZ388413.1",
+        "MZ388414.1",
+        "MZ388415.1",
+        "MZ388416.1",
+        "MZ388417.1",
+        "MZ388418.1",
+        "MZ388419.1",
+        "MZ388423.1",
+        "X74443.2",
+        "MZ388422.1",
+        "ON707028.1",
+        "MZ388410.1",
+        "HQ197753.1",
+        "PQ881839.1",
+        "MZ388420.1",
+        "MZ388424.1",
+        "MZ388425.1",
+        "KY628761.1",
+        "PX112974.1",
+        "KR781450.1",
+        "MZ388409.1",
+        "MZ388411.1",
+        "MZ388412.1",
+        "ON207131.1"
+      ],
+      "collection_date": {
+        "max": 2022,
+        "min": 1969
+      },
+      "genotype": [
+        "II"
+      ],
+      "geographic_region": [
+        "Africa",
+        "Asia",
+        "Europe"
+      ],
+      "host": [
+        "Capra hircus",
+        "Caprinae",
+        "Pseudois nayaur",
+        "Ovis aries"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus caprinae"
+      ],
+      "tax_id": [
+        "3052343"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-20"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OR286501.1",
+        "OR286502.1"
+      ],
+      "collection_date": {
+        "max": 1991,
+        "min": 1986
+      },
+      "genotype": [
+        "Lineage II"
+      ],
+      "geographic_region": [
+        "Africa"
+      ],
+      "host": [
+        "Capra hircus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus caprinae"
+      ],
+      "tax_id": [
+        "3052343"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-135"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AF266289.1",
+        "AF266286.1",
+        "OR835191.2",
+        "OL473966.1",
+        "KM054581.1",
+        "AF266290.1",
+        "JF727649.1",
+        "JF727650.1",
+        "AY730614.1",
+        "K01711.1",
+        "S58435.1",
+        "DQ345721.1",
+        "DQ345722.1",
+        "DQ345723.1",
+        "MN145872.1",
+        "LC655228.1",
+        "FJ416067.1",
+        "LC655230.1",
+        "MH144178.1",
+        "AY486083.1",
+        "AY486084.1",
+        "EU435017.1",
+        "AB591381.1",
+        "AF266287.1",
+        "AF266291.1",
+        "FJ211583.1",
+        "FJ211589.1",
+        "FJ211590.1",
+        "AF266288.2",
+        "LC655227.1",
+        "EF033071.1",
+        "FJ416068.1",
+        "MN822013.1"
+      ],
+      "collection_date": {
+        "max": 2022,
+        "min": 1983
+      },
+      "genotype": [
+        "A",
+        "A-vaccine"
+      ],
+      "geographic_region": [
+        "Asia",
+        "North America",
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus hominis"
+      ],
+      "tax_id": [
+        "3052345"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-28"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KJ867545.1",
+        "KJ867544.1"
+      ],
+      "collection_date": {
+        "max": 1986,
+        "min": 1983
+      },
+      "genotype": [
+        "III"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Gazella dorcas",
+        "Capra hircus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus caprinae"
+      ],
+      "tax_id": [
+        "3052343"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-14"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN267064.1",
+        "MN267065.1",
+        "MN267066.1",
+        "OQ442788.1",
+        "OQ442787.1"
+      ],
+      "collection_date": {
+        "max": 2008,
+        "min": 2000
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Pusa caspica"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-23"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB462810.1",
+        "AB474397.1",
+        "AB823707.1",
+        "AB823706.1",
+        "AB475097.1"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-22"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KU720625.1",
+        "KU720624.1",
+        "MN606005.1",
+        "MN606014.1",
+        "MN606007.1",
+        "MN606006.1",
+        "MN606003.1",
+        "MN606000.1",
+        "MH430934.1",
+        "MH430937.1",
+        "MN606010.1",
+        "MN606011.1",
+        "MN606009.1",
+        "MH430933.1",
+        "MH430938.1",
+        "MH430936.1",
+        "KU720623.1",
+        "MN606008.1",
+        "MH430932.1",
+        "MH430935.1",
+        "MH430939.1",
+        "MH430940.1",
+        "MH430941.1",
+        "MN606001.1",
+        "MN606004.1",
+        "MN606012.1",
+        "MN606013.1",
+        "MN606015.1",
+        "NC_005283.1"
+      ],
+      "collection_date": {
+        "max": 2017,
+        "min": 1990
+      },
+      "geographic_region": [
+        "North America",
+        "Europe"
+      ],
+      "host": [
+        "Tursiops truncatus",
+        "Stenella coeruleoalba",
+        "Physeter macrocephalus",
+        "Balaenoptera physalus",
+        "Stenella longirostris",
+        "Lagenorhynchus albirostris"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus ceti"
+      ],
+      "tax_id": [
+        "3052344"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-27"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "PP059214.1",
+        "PP059216.1",
+        "PP059215.1",
+        "PP059213.1",
+        "PP850120.1",
+        "PP850119.1"
+      ],
+      "collection_date": {
+        "max": 2022,
+        "min": 2017
+      },
+      "geographic_region": [
+        "South America"
+      ],
+      "host": [
+        "Callithrix jacchus",
+        "Callithrix sp."
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Marmoset morbillivirus"
+      ],
+      "tax_id": [
+        "3117544"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-33"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "DQ227321.1",
+        "MF775733.1",
+        "DQ227320.1",
+        "DQ227319.1",
+        "DQ227318.1"
+      ],
+      "collection_date": {
+        "max": 2014,
+        "min": 2014
+      },
+      "genotype": [
+        "D6"
+      ],
+      "geographic_region": [
+        "North America",
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus hominis"
+      ],
+      "tax_id": [
+        "3052345"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-34"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN267062.1",
+        "MN267061.1",
+        "MN267060.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2015
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Procyon lotor",
+        "Canidae"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-31"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MK037461.1",
+        "MK037467.1",
+        "MK037459.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2018
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Panthera leo"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-42"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MK188753.1",
+        "MK188746.1",
+        "MK188749.1",
+        "MK188751.1",
+        "MK188752.1",
+        "MK188748.1",
+        "MK188750.1",
+        "MK188747.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2016
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus felis"
+      ],
+      "tax_id": [
+        "3047832"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-39"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OL441594.1",
+        "OL441593.1",
+        "OL441592.1"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 2019
+      },
+      "geographic_region": [
+        "Oceania"
+      ],
+      "host": [
+        "Mustela putorius furo"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-45"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT136708.1",
+        "MT136706.1",
+        "KU578257.1",
+        "MT136718.1",
+        "MT136707.1",
+        "KU578253.1",
+        "KU578254.1",
+        "MT136714.1",
+        "MT136715.1",
+        "MT136713.1",
+        "MT136722.1",
+        "KU578255.1",
+        "MT136712.1",
+        "MT136705.1",
+        "MT136716.1",
+        "KU578256.1",
+        "MT136709.1",
+        "MT136710.1",
+        "MT136711.1",
+        "MT136717.1",
+        "MT136720.1",
+        "MT136723.1"
+      ],
+      "collection_date": {
+        "max": 2011,
+        "min": 1993
+      },
+      "geographic_region": [
+        "Africa"
+      ],
+      "host": [
+        "Crocuta crocuta",
+        "Canis lupus familiaris",
+        "Panthera leo",
+        "Lycaon pictus",
+        "Canis aureus",
+        "Otocyon megalotis",
+        "Hyaenidae"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-44"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN632622.1",
+        "MN632620.1",
+        "MN632640.1",
+        "MN632652.1",
+        "MN632618.1",
+        "MN632634.1",
+        "MN632601.1",
+        "MN632575.1",
+        "MN632643.1",
+        "MN632642.1",
+        "MN632646.1",
+        "MN632660.1",
+        "MN632621.1",
+        "MW915463.1",
+        "MN632641.1",
+        "MN632600.1",
+        "MN632627.1",
+        "MN632628.1",
+        "MN632662.1",
+        "NC_006296.2",
+        "X98291.3"
+      ],
+      "collection_date": {
+        "max": 1986,
+        "min": 1910
+      },
+      "geographic_region": [
+        "Africa"
+      ],
+      "host": [
+        "Bos taurus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus pecoris"
+      ],
+      "tax_id": [
+        "3052346"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-37"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KR828813.1",
+        "OR500606.1",
+        "OL310685.1"
+      ],
+      "collection_date": {
+        "max": 2023,
+        "min": 2012
+      },
+      "genotype": [
+        "IV"
+      ],
+      "geographic_region": [
+        "Africa"
+      ],
+      "host": [
+        "Capra hircus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus caprinae"
+      ],
+      "tax_id": [
+        "3052343"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-50"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN632587.1",
+        "MN632555.1",
+        "MN632615.1",
+        "MN632576.1",
+        "MN632586.1",
+        "MN632609.1",
+        "MN632589.1",
+        "MN632590.1",
+        "MN632608.1",
+        "MN632557.1",
+        "MN632580.1",
+        "MN632636.1",
+        "MN632653.1",
+        "MN632659.1",
+        "MN632610.1",
+        "MN632568.1",
+        "MN632562.1",
+        "MN632563.1",
+        "MN632588.1",
+        "MN632604.1",
+        "MN632632.1"
+      ],
+      "collection_date": {
+        "max": 1993,
+        "min": 1983
+      },
+      "geographic_region": [
+        "Africa"
+      ],
+      "host": [
+        "Bos taurus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus pecoris"
+      ],
+      "tax_id": [
+        "3052346"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-38"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MW960272.1",
+        "KM463083.1",
+        "MZ322753.1",
+        "KJ867543.1",
+        "PV110160.1",
+        "MK686066.1"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 2011
+      },
+      "genotype": [
+        "Lineage III",
+        "III"
+      ],
+      "geographic_region": [
+        "Africa"
+      ],
+      "host": [
+        "Capra hircus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus caprinae"
+      ],
+      "tax_id": [
+        "3052343"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-51"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OP628169.1",
+        "OP628170.1"
+      ],
+      "collection_date": {
+        "max": 2020,
+        "min": 2015
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Desmodus rotundus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Vampire bat morbillivirus 1"
+      ],
+      "tax_id": [
+        "2986076"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-54"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "EU267273.1",
+        "OL741724.2",
+        "OR286475.1",
+        "KP789375.1",
+        "OR286474.1"
+      ],
+      "collection_date": {
+        "max": 1995,
+        "min": 1969
+      },
+      "genotype": [
+        "Lineage I"
+      ],
+      "geographic_region": [
+        "Africa"
+      ],
+      "host": [
+        "Capra hircus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus caprinae"
+      ],
+      "tax_id": [
+        "3052343"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-47"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MW581016.1",
+        "MW504062.1",
+        "MW642077.1",
+        "MW581017.1",
+        "MW642078.1",
+        "KY629928.1",
+        "KC802221.1",
+        "NC_028249.1",
+        "MW581015.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 1988
+      },
+      "geographic_region": [
+        "North America",
+        "Europe"
+      ],
+      "host": [
+        "Phoca vitulina",
+        "Phoca groenlandica",
+        "Halichoerus grypus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus phocae"
+      ],
+      "tax_id": [
+        "3052347"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-49"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JN234008.1",
+        "MN632605.1",
+        "MN632633.1",
+        "MN632606.1",
+        "LC057619.1",
+        "MN632655.1",
+        "MN632630.1",
+        "MN632571.1",
+        "MN632567.1",
+        "LC168749.1",
+        "AB547190.1",
+        "GU168576.1",
+        "JN234009.1",
+        "JN234010.1",
+        "MN632564.1",
+        "MN632565.1",
+        "MN632570.1",
+        "MN632644.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Bos taurus",
+        "Oryctolagus cuniculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus pecoris"
+      ],
+      "tax_id": [
+        "3052346"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-46"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN632574.1",
+        "MN632670.1",
+        "MN632573.1"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Capra hircus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus pecoris"
+      ],
+      "tax_id": [
+        "3052346"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-63"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH496772.1",
+        "MH496774.1",
+        "OR514512.2",
+        "MH496773.1",
+        "MH496777.1",
+        "MH496778.1",
+        "MT149210.1"
+      ],
+      "collection_date": {
+        "max": 2021,
+        "min": 2014
+      },
+      "genotype": [
+        "Asia-4",
+        "Asia-1"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Canis lupus familiaris",
+        "Paradoxurus hermaphroditus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-55"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH430943.1",
+        "MH430945.1",
+        "MH430944.1",
+        "MH430942.1"
+      ],
+      "collection_date": {
+        "max": 1990,
+        "min": 1988
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Phocoenidae"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus ceti"
+      ],
+      "tax_id": [
+        "3052344"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-68"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN632583.1",
+        "MN632657.1",
+        "MN632619.1",
+        "MN632637.1"
+      ],
+      "collection_date": {
+        "max": 1961,
+        "min": 1961
+      },
+      "geographic_region": [
+        "Africa"
+      ],
+      "host": [
+        "Bos taurus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus pecoris"
+      ],
+      "tax_id": [
+        "3052346"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-56"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN632672.1",
+        "MN632554.1",
+        "MN632623.1",
+        "MN640708.1",
+        "MN640709.1"
+      ],
+      "geographic_region": [
+        "Africa"
+      ],
+      "host": [
+        "Capra hircus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus pecoris"
+      ],
+      "tax_id": [
+        "3052346"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-58"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN632572.1",
+        "MN632656.1",
+        "MN632663.1"
+      ],
+      "collection_date": {
+        "max": 1964,
+        "min": 1964
+      },
+      "geographic_region": [
+        "Africa"
+      ],
+      "host": [
+        "Bos taurus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus pecoris"
+      ],
+      "tax_id": [
+        "3052346"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-77"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KY969476.1",
+        "MN630022.1"
+      ],
+      "collection_date": {
+        "max": 2012,
+        "min": 2010
+      },
+      "genotype": [
+        "D9"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus hominis"
+      ],
+      "tax_id": [
+        "3052345"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-79"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN604235.1",
+        "MK182090.1",
+        "MK182089.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2012
+      },
+      "geographic_region": [
+        "North America",
+        "Europe"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus felis",
+        "Feline morbillivirus type 2"
+      ],
+      "tax_id": [
+        "3047832",
+        "2518293"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-78"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OL441596.1",
+        "HM063009.1",
+        "AF378705.1",
+        "MF926603.1",
+        "OL441595.1",
+        "OL441601.1",
+        "KM926612.1",
+        "AF305419.1",
+        "EU726268.1",
+        "HM046486.1",
+        "MF926601.1",
+        "OL441599.1",
+        "MF926602.1",
+        "OL441602.1",
+        "OL441600.1",
+        "OL441597.1",
+        "KY971530.1",
+        "KY971531.1",
+        "AF014953.1",
+        "NC_001921.1",
+        "KY971529.1",
+        "MF926604.1",
+        "OL441598.1"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 1989
+      },
+      "genotype": [
+        "America 1"
+      ],
+      "geographic_region": [
+        "Oceania",
+        "Asia",
+        "Africa"
+      ],
+      "host": [
+        "Mustela putorius furo",
+        "Mustela lutreola",
+        "Canis lupus familiaris",
+        "Mustela putorius",
+        "Phocidae"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-8"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN632658.1",
+        "MN632582.1",
+        "MN632553.1",
+        "MN632671.1"
+      ],
+      "collection_date": {
+        "max": 1966,
+        "min": 1962
+      },
+      "geographic_region": [
+        "Africa"
+      ],
+      "host": [
+        "Bos taurus",
+        "Giraffa camelopardalis"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus pecoris"
+      ],
+      "tax_id": [
+        "3052346"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-82"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MW535267.1",
+        "MW535268.1"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 2018
+      },
+      "genotype": [
+        "Asia-6"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Ailurus fulgens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus canis"
+      ],
+      "tax_id": [
+        "3052342"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-89"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "ON492026.1",
+        "ON513035.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2018
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Globicephala macrorhynchus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Morbillivirus ceti"
+      ],
+      "tax_id": [
+        "3052344"
+      ],
+      "taxon": [
+        "Morbillivirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Morbillivirus-wg-93"
+  }
+]

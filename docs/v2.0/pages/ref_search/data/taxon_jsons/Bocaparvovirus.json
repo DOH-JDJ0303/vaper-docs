@@ -1,0 +1,3962 @@
+[
+  {
+    "metadata": {
+      "accessions": [
+        "HM053694.2"
+      ],
+      "collection_date": {
+        "max": 2006,
+        "min": 2006
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus ungulate2"
+      ],
+      "tax_id": [
+        "3052046"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-10"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "ON595887.1"
+      ],
+      "collection_date": {
+        "max": 2017,
+        "min": 2017
+      },
+      "geographic_region": [
+        "Oceania"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus carnivoran5"
+      ],
+      "tax_id": [
+        "3052030"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-101"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "ON595889.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2018
+      },
+      "geographic_region": [
+        "Oceania"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus carnivoran5"
+      ],
+      "tax_id": [
+        "3052030"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-102"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OQ627713.1"
+      ],
+      "collection_date": {
+        "max": 2022,
+        "min": 2022
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Panthera uncia"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Panthera uncia bocaparvovirus"
+      ],
+      "tax_id": [
+        "3003941"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-103"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT633127.1",
+        "PP541574.1"
+      ],
+      "collection_date": {
+        "max": 2023,
+        "min": 2019
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus carnivoran5"
+      ],
+      "tax_id": [
+        "3052030"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-80"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "PP541575.1"
+      ],
+      "collection_date": {
+        "max": 2023,
+        "min": 2023
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus carnivoran5"
+      ],
+      "tax_id": [
+        "3052030"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-106"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "PP993457.1"
+      ],
+      "collection_date": {
+        "max": 2024,
+        "min": 2024
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Capra hircus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus sp."
+      ],
+      "tax_id": [
+        "1883111"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-107"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "PQ723556.1"
+      ],
+      "collection_date": {
+        "max": 2024,
+        "min": 2024
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-108"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KM402138.1",
+        "OM274029.1",
+        "OM274030.1",
+        "PX102581.1"
+      ],
+      "collection_date": {
+        "max": 2020,
+        "min": 2013
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus",
+        "Bocaparvovirus ungulate5"
+      ],
+      "tax_id": [
+        "1165907",
+        "3052049"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-44"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "HM145750.1",
+        "NC_014358.1"
+      ],
+      "collection_date": {
+        "max": 2009,
+        "min": 2009
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Gorilla gorilla"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus primate1"
+      ],
+      "tax_id": [
+        "3052040"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-11"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JF429834.1",
+        "NC_016031.1"
+      ],
+      "collection_date": {
+        "max": 2007,
+        "min": 2007
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus ungulate5"
+      ],
+      "tax_id": [
+        "3052049"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-12"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JF713714.1"
+      ],
+      "collection_date": {
+        "max": 2010,
+        "min": 2010
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus ungulate5"
+      ],
+      "tax_id": [
+        "3052049"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-14"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JF713715.1"
+      ],
+      "collection_date": {
+        "max": 2010,
+        "min": 2010
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus ungulate5"
+      ],
+      "tax_id": [
+        "3052049"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-15"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JN648103.1",
+        "NC_020499.1"
+      ],
+      "collection_date": {
+        "max": 2010,
+        "min": 2010
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Canis lupus familiaris"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus carnivoran2"
+      ],
+      "tax_id": [
+        "3052027"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-16"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JN681175.1"
+      ],
+      "collection_date": {
+        "max": 2006,
+        "min": 2006
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus ungulate5"
+      ],
+      "tax_id": [
+        "3052049"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-17"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JN831651.1",
+        "NC_016647.1"
+      ],
+      "collection_date": {
+        "max": 2011,
+        "min": 2011
+      },
+      "genotype": [
+        "5"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus 5"
+      ],
+      "tax_id": [
+        "1133653"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-18"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JQ692591.1"
+      ],
+      "collection_date": {
+        "max": 2010,
+        "min": 2010
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Canis lupus familiaris"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Canine bocavirus"
+      ],
+      "tax_id": [
+        "1108949"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-21"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JQ814850.1",
+        "NC_039045.1"
+      ],
+      "collection_date": {
+        "max": 2010,
+        "min": 2010
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Myotis myotis"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus chiropteran1"
+      ],
+      "tax_id": [
+        "3052032"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-22"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KC473563.1"
+      ],
+      "collection_date": {
+        "max": 2012,
+        "min": 2012
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus ungulate5"
+      ],
+      "tax_id": [
+        "3052049"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-23"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KC580640.1",
+        "NC_076995.1"
+      ],
+      "collection_date": {
+        "max": 2011,
+        "min": 2011
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Canis lupus familiaris"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus carnivoran7"
+      ],
+      "tax_id": [
+        "3059786"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-24"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF206154.1"
+      ],
+      "collection_date": {
+        "max": 2010,
+        "min": 2010
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Sus scrofa domesticus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-25"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF206155.1"
+      ],
+      "collection_date": {
+        "max": 2010,
+        "min": 2010
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Sus scrofa domesticus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-26"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF206156.1"
+      ],
+      "collection_date": {
+        "max": 2007,
+        "min": 2007
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Sus scrofa domesticus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-27"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF206157.1"
+      ],
+      "collection_date": {
+        "max": 2009,
+        "min": 2009
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Sus scrofa domesticus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-28"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF206158.1"
+      ],
+      "collection_date": {
+        "max": 2008,
+        "min": 2008
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Sus scrofa domesticus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-29"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF206159.1"
+      ],
+      "collection_date": {
+        "max": 2007,
+        "min": 2007
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Sus scrofa domesticus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-30"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF206160.1"
+      ],
+      "collection_date": {
+        "max": 2007,
+        "min": 2007
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Sus scrofa domesticus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-31"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF206161.1"
+      ],
+      "collection_date": {
+        "max": 2006,
+        "min": 2006
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Sus scrofa domesticus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-32"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF206162.1"
+      ],
+      "collection_date": {
+        "max": 2006,
+        "min": 2006
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Sus scrofa domesticus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-33"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF206163.1"
+      ],
+      "collection_date": {
+        "max": 2010,
+        "min": 2010
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Sus scrofa domesticus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-34"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF206164.1"
+      ],
+      "collection_date": {
+        "max": 2010,
+        "min": 2010
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Sus scrofa domesticus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-35"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF206165.1"
+      ],
+      "collection_date": {
+        "max": 2011,
+        "min": 2011
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Sus scrofa domesticus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-36"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF206166.1"
+      ],
+      "collection_date": {
+        "max": 2011,
+        "min": 2011
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Sus scrofa domesticus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-37"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF206167.1"
+      ],
+      "collection_date": {
+        "max": 2011,
+        "min": 2011
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Sus scrofa domesticus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-38"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF206168.1"
+      ],
+      "collection_date": {
+        "max": 2011,
+        "min": 2011
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Sus scrofa domesticus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-39"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF360033.1",
+        "NC_023673.1"
+      ],
+      "collection_date": {
+        "max": 2012,
+        "min": 2012
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-40"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KM017744.1",
+        "NC_039044.1"
+      ],
+      "collection_date": {
+        "max": 2013,
+        "min": 2013
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus carnivoran5"
+      ],
+      "tax_id": [
+        "3052030"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-42"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KM402137.1"
+      ],
+      "collection_date": {
+        "max": 2013,
+        "min": 2013
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-43"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KM402139.1"
+      ],
+      "collection_date": {
+        "max": 2013,
+        "min": 2013
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-45"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KP729195.1",
+        "NC_028973.1"
+      ],
+      "collection_date": {
+        "max": 2001,
+        "min": 2001
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Oryctolagus cuniculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus lagomorph1"
+      ],
+      "tax_id": [
+        "3052037"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-47"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KT241026.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Canis lupus familiaris"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus carnivoran1"
+      ],
+      "tax_id": [
+        "3052026"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-48"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KT592508.1",
+        "NC_029300.1"
+      ],
+      "collection_date": {
+        "max": 2011,
+        "min": 2011
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Aselliscus stoliczkanus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bat bocavirus"
+      ],
+      "tax_id": [
+        "1329649"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-50"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KX017193.1"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-53"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KY038922.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "genotype": [
+        "2"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Canis lupus familiaris"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Canine bocavirus"
+      ],
+      "tax_id": [
+        "1108949"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-54"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MF590243.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2016
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-59"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MF590244.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2016
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-60"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MF682922.1",
+        "NC_040623.1"
+      ],
+      "collection_date": {
+        "max": 2012,
+        "min": 2012
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Rhinolophus pusillus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Rhinolophus pusillus bocaparvovirus 1"
+      ],
+      "tax_id": [
+        "2053079"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-61"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MF682923.1",
+        "NC_040694.1"
+      ],
+      "collection_date": {
+        "max": 2012,
+        "min": 2012
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Rhinolophus pusillus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Rhinolophus pusillus bocaparvovirus 2"
+      ],
+      "tax_id": [
+        "2053080"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-62"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MF682924.1"
+      ],
+      "collection_date": {
+        "max": 2011,
+        "min": 2011
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Rhinolophus sinicus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Rhinolophus sinicus bocaparvovirus 2"
+      ],
+      "tax_id": [
+        "2053081"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-63"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MF682925.1",
+        "NC_040695.1"
+      ],
+      "collection_date": {
+        "max": 2012,
+        "min": 2012
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Rousettus leschenaultii"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus chiropteran5"
+      ],
+      "tax_id": [
+        "3052036"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-64"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MG025952.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2016
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Canis lupus familiaris"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Canine bocavirus 2"
+      ],
+      "tax_id": [
+        "2093270"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-65"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MG986723.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2016
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Rhinolophus affinis"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Rhinolophus affinis bocaparvovirus 1"
+      ],
+      "tax_id": [
+        "2488327"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-66"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH003836.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2016
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Sorex mirabilis"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus rodent3"
+      ],
+      "tax_id": [
+        "3059788"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-67"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH016288.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2016
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-68"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH454686.1"
+      ],
+      "collection_date": {
+        "max": 2017,
+        "min": 2017
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-70"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH558677.1"
+      ],
+      "collection_date": {
+        "max": 2012,
+        "min": 2012
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus ungulate2"
+      ],
+      "tax_id": [
+        "3052046"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-71"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MK014742.1",
+        "NC_076293.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2018
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Vicugna pacos"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus ungulate9"
+      ],
+      "tax_id": [
+        "3052052"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-72"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN091929.1",
+        "NC_055583.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2016
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Macaca mulatta"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus primate3"
+      ],
+      "tax_id": [
+        "3052042"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-74"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN481505.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2018
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-75"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN871711.1"
+      ],
+      "collection_date": {
+        "max": 2017,
+        "min": 2017
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Sciuridae"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Squirrel bocaparvovirus"
+      ],
+      "tax_id": [
+        "2745862"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-76"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT321513.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2018
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-77"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT321514.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2018
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-78"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT561343.1"
+      ],
+      "collection_date": {
+        "max": 2020,
+        "min": 2020
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Eptesicus fuscus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Eptesicus fuscus bocavirus"
+      ],
+      "tax_id": [
+        "2794225"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-79"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MW915584.1"
+      ],
+      "collection_date": {
+        "max": 2020,
+        "min": 2020
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Equus caballus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus ungulate10"
+      ],
+      "tax_id": [
+        "3427525"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-82"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "NC_035185.1"
+      ],
+      "collection_date": {
+        "max": 2013,
+        "min": 2013
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Camelus dromedarius"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus ungulate8"
+      ],
+      "tax_id": [
+        "3052051"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-84"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "NC_035186.1"
+      ],
+      "collection_date": {
+        "max": 2013,
+        "min": 2013
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Camelus dromedarius"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus ungulate7"
+      ],
+      "tax_id": [
+        "3052050"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-85"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "NC_038535.1"
+      ],
+      "collection_date": {
+        "max": 2010,
+        "min": 2010
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Zalophus californianus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus pinniped1"
+      ],
+      "tax_id": [
+        "3052038"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-86"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "NC_038536.1"
+      ],
+      "collection_date": {
+        "max": 2010,
+        "min": 2010
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Zalophus californianus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus pinniped2"
+      ],
+      "tax_id": [
+        "3052039"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-87"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "NC_038538.1"
+      ],
+      "collection_date": {
+        "max": 2008,
+        "min": 2008
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus ungulate4"
+      ],
+      "tax_id": [
+        "3052048"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-88"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "NC_039046.1"
+      ],
+      "collection_date": {
+        "max": 2008,
+        "min": 2008
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Miniopterus fuliginosus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus chiropteran2"
+      ],
+      "tax_id": [
+        "3052033"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-89"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "HM053693.2",
+        "NC_024453.2"
+      ],
+      "collection_date": {
+        "max": 2006,
+        "min": 2006
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus ungulate2"
+      ],
+      "tax_id": [
+        "3052046"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-9"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "NC_039047.1"
+      ],
+      "collection_date": {
+        "max": 2008,
+        "min": 2008
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Miniopterus fuliginosus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus chiropteran3"
+      ],
+      "tax_id": [
+        "3052034"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-90"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "NC_055487.1"
+      ],
+      "collection_date": {
+        "max": 2014,
+        "min": 2014
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Mus musculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus rodent2"
+      ],
+      "tax_id": [
+        "3052044"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-91"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "NC_075998.1"
+      ],
+      "collection_date": {
+        "max": 2013,
+        "min": 2013
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Camelus dromedarius"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus ungulate7"
+      ],
+      "tax_id": [
+        "3052050"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-92"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "NC_077012.1"
+      ],
+      "collection_date": {
+        "max": 2008,
+        "min": 2008
+      },
+      "geographic_region": [
+        "South America"
+      ],
+      "host": [
+        "Necromys lasiurus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus rodent3"
+      ],
+      "tax_id": [
+        "3059788"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-93"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OK546117.1"
+      ],
+      "collection_date": {
+        "max": 2011,
+        "min": 2011
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Canis lupus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus carnivoran2"
+      ],
+      "tax_id": [
+        "3052027"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-94"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OK546119.1"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 2019
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Canis lupus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus carnivoran1"
+      ],
+      "tax_id": [
+        "3052026"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-95"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OM274031.1"
+      ],
+      "collection_date": {
+        "max": 2020,
+        "min": 2020
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-96"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OM640112.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2018
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Canis lupus familiaris"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus carnivoran2"
+      ],
+      "tax_id": [
+        "3052027"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-97"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB158475.1",
+        "FJ899734.1",
+        "MH051156.1",
+        "MH051157.1",
+        "MH713703.1",
+        "MN947833.1",
+        "MN947835.1",
+        "NC_004442.1",
+        "NC_075119.1",
+        "OM640114.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 1991
+      },
+      "geographic_region": [
+        "Asia",
+        "South America",
+        "Europe",
+        "North America"
+      ],
+      "host": [
+        "Canis lupus familiaris",
+        "Canis sp."
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus carnivoran1"
+      ],
+      "tax_id": [
+        "3052026"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-1"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OR544345.1",
+        "OR544346.1"
+      ],
+      "collection_date": {
+        "max": 2022,
+        "min": 2021
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus carnivoran3"
+      ],
+      "tax_id": [
+        "3052028"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-104"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "ON595885.1",
+        "ON595886.1"
+      ],
+      "collection_date": {
+        "max": 2017,
+        "min": 2017
+      },
+      "geographic_region": [
+        "Oceania"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus carnivoran5"
+      ],
+      "tax_id": [
+        "3052030"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-100"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JQ692585.1",
+        "NC_017823.1",
+        "JQ692586.1",
+        "JQ692587.1",
+        "KM017745.1",
+        "KX228695.1",
+        "MH155946.1",
+        "MH155947.1",
+        "MH155948.1",
+        "MH155949.1",
+        "MN127776.1",
+        "MN127777.1",
+        "MN127778.1",
+        "MT577646.1",
+        "MT636880.1",
+        "ON478334.1",
+        "ON478335.1",
+        "ON478336.1",
+        "ON478337.1",
+        "ON595895.1",
+        "ON595896.1",
+        "ON595905.1",
+        "ON595906.1",
+        "ON595907.1",
+        "ON595910.1",
+        "ON595912.1",
+        "ON595913.1",
+        "OP158215.1",
+        "OR544347.1",
+        "OR544348.1",
+        "OR544349.1",
+        "OR544350.1",
+        "OR544351.1",
+        "OR544352.1",
+        "PP541560.1",
+        "PP541561.1",
+        "PP541562.1",
+        "PP541563.1",
+        "PP541564.1",
+        "PP541565.1",
+        "PP541566.1",
+        "PP541567.1",
+        "PP541568.1",
+        "PP541569.1",
+        "PP541570.1",
+        "PP592971.1",
+        "PP592972.1",
+        "PP592973.1",
+        "PP592974.1",
+        "PP592975.1",
+        "PP592976.1",
+        "PP592977.1",
+        "PP592978.1",
+        "PP592979.1",
+        "PP592980.1",
+        "PP592981.1",
+        "PP592982.1"
+      ],
+      "collection_date": {
+        "max": 2023,
+        "min": 2009
+      },
+      "genotype": [
+        "FBoV-1"
+      ],
+      "geographic_region": [
+        "Asia",
+        "North America",
+        "Oceania"
+      ],
+      "host": [
+        "Felis catus",
+        "Prionailurus bengalensis"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus carnivoran3"
+      ],
+      "tax_id": [
+        "3052028"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-19"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "DQ335247.1",
+        "NC_038895.1",
+        "M14363.1",
+        "NC_001540.1",
+        "MW032436.1",
+        "MW032437.1",
+        "PP158225.1"
+      ],
+      "collection_date": {
+        "max": 2022,
+        "min": 2020
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Bos grunniens",
+        "Bos taurus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus ungulate1"
+      ],
+      "tax_id": [
+        "3052045"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-3"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "EU082213.1",
+        "EU082214.1",
+        "FJ170279.1",
+        "FJ170280.1",
+        "FJ375129.1",
+        "FJ948860.1",
+        "FJ973558.1",
+        "FJ973559.1",
+        "FJ973560.1",
+        "GU048662.1",
+        "GU048663.1",
+        "GU048664.1",
+        "JX257046.1",
+        "KM624025.1",
+        "MF680549.1",
+        "MG383447.1",
+        "MG383450.1",
+        "MG953831.1",
+        "MZ546192.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2001
+      },
+      "genotype": [
+        "2",
+        "3"
+      ],
+      "geographic_region": [
+        "Oceania",
+        "Asia",
+        "Europe",
+        "Africa",
+        "South America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus primate2",
+        "Human bocavirus",
+        "Bocaparvovirus sp."
+      ],
+      "tax_id": [
+        "3052041",
+        "329641",
+        "1883111"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-4"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JF429835.1",
+        "NC_016032.1",
+        "JF429836.1"
+      ],
+      "collection_date": {
+        "max": 2007,
+        "min": 2007
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus ungulate5"
+      ],
+      "tax_id": [
+        "3052049"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-13"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF792837.1",
+        "NC_022800.1",
+        "MH155950.1",
+        "MH155951.1",
+        "MT633126.1",
+        "ON595890.1",
+        "ON595891.1",
+        "ON595892.1",
+        "PP541571.1",
+        "PP541572.1",
+        "PP592983.1",
+        "PP592984.1",
+        "PP592985.1"
+      ],
+      "collection_date": {
+        "max": 2023,
+        "min": 2012
+      },
+      "genotype": [
+        "FBoV-2"
+      ],
+      "geographic_region": [
+        "Europe",
+        "Asia",
+        "Oceania"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus carnivoran4",
+        "Bocaparvovirus carnivoran3",
+        "Feline bocaparvovirus 4"
+      ],
+      "tax_id": [
+        "3052029",
+        "3052028",
+        "2951171"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-41"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB480170.1",
+        "AB480171.1",
+        "AB480172.1",
+        "AB480173.1",
+        "AB480174.1",
+        "AB480175.1",
+        "AB480176.1",
+        "AB481071.1",
+        "AB481072.1",
+        "AB481073.1",
+        "AB481074.1",
+        "AB481075.1",
+        "AB481076.1",
+        "AB481077.1",
+        "AB481078.1",
+        "AB481079.1",
+        "AB481084.1",
+        "AB481080.1",
+        "AB481081.1",
+        "AB481082.1",
+        "AB481083.1",
+        "AB481085.1",
+        "AB551032.1",
+        "DQ000495.1",
+        "DQ000496.1",
+        "NC_007455.1",
+        "DQ340570.1",
+        "DQ457413.1",
+        "DQ778300.1",
+        "DQ988933.1",
+        "DQ988934.2",
+        "EF203920.1",
+        "EF203921.1",
+        "EF203922.1",
+        "EF441262.1",
+        "EF450717.1",
+        "EF450718.1",
+        "EF450719.1",
+        "EF450720.1",
+        "EF450721.1",
+        "EF450722.1",
+        "EF450723.1",
+        "EF450724.1",
+        "EF450725.1",
+        "EF450728.1",
+        "EF450737.1",
+        "EF450726.1",
+        "EF450727.1",
+        "EF450729.1",
+        "EF450730.1",
+        "EF450731.1",
+        "EF450732.1",
+        "EF450733.1",
+        "EF450734.1",
+        "EF450736.1",
+        "EF450735.1",
+        "EF450738.1",
+        "EF450739.1",
+        "EF450740.1",
+        "EF584447.1",
+        "EU262978.1",
+        "EU262979.1",
+        "EU984231.1",
+        "EU984232.1",
+        "EU984233.1",
+        "EU984234.1",
+        "EU984235.1",
+        "EU984236.1",
+        "EU984239.1",
+        "EU984237.1",
+        "EU984238.1",
+        "EU984240.1",
+        "EU984241.1",
+        "EU984242.1",
+        "EU984243.1",
+        "EU984244.1",
+        "EU984245.1",
+        "FJ375127.1",
+        "FJ375128.1",
+        "FJ496754.1",
+        "FJ695472.1",
+        "FJ858259.1",
+        "GQ455987.1",
+        "GQ455988.1",
+        "GQ925675.1",
+        "GQ926981.1",
+        "GQ926982.1",
+        "GQ926983.1",
+        "GU139423.1",
+        "GU338055.1",
+        "HQ585888.1",
+        "JF327786.1",
+        "JF327787.1",
+        "JF327788.1",
+        "JF327789.1",
+        "JF699044.1",
+        "JN128953.1",
+        "JN128954.1",
+        "JN128955.1",
+        "JN128956.1",
+        "JN387079.1",
+        "JN387080.1",
+        "JN387081.1",
+        "JN387082.1",
+        "JN387083.1",
+        "JN387084.1",
+        "JN387085.1",
+        "JN632511.1",
+        "JN632512.1",
+        "JN632513.1",
+        "JN632514.1",
+        "JN632515.1",
+        "JN632516.1",
+        "JN632517.1",
+        "JN632518.1",
+        "JN632519.1",
+        "JN794565.1",
+        "JN794566.1",
+        "JQ411251.1",
+        "JQ923422.1",
+        "NC_075120.1",
+        "JX887480.1",
+        "JX887481.1",
+        "JX887482.1",
+        "KC823115.1",
+        "KJ634207.1",
+        "KJ684065.1",
+        "KJ684066.1",
+        "KJ684067.1",
+        "KJ684068.1",
+        "KJ684069.1",
+        "KJ684070.1",
+        "KJ684071.1",
+        "KJ684072.1",
+        "KJ684073.1",
+        "KJ684074.1",
+        "KJ684075.1",
+        "KJ684076.1",
+        "KJ684077.1",
+        "KJ684078.1",
+        "KM464728.1",
+        "KM464729.1",
+        "KM464730.1",
+        "KM464731.1",
+        "KM624024.1",
+        "KP710199.1",
+        "KP710200.1",
+        "KP710201.1",
+        "KP710202.1",
+        "KP710203.1",
+        "KP710204.1",
+        "KP710205.1",
+        "KP710206.1",
+        "KP710207.1",
+        "KP710208.1",
+        "KP710209.1",
+        "KP710210.1",
+        "KP710211.1",
+        "KP710212.1",
+        "KP710213.1",
+        "KU557404.1",
+        "KU557405.1",
+        "KU557406.1",
+        "KX373884.1",
+        "KX373885.1",
+        "KY629421.1",
+        "LC651167.1",
+        "LC651168.1",
+        "LC651169.1",
+        "LC651170.1",
+        "LC651171.1",
+        "LC651172.1",
+        "LC651173.1",
+        "LC651174.1",
+        "LC651175.1",
+        "LC651176.1",
+        "LC651177.1",
+        "LC651178.1",
+        "LC651179.1",
+        "LC671301.1",
+        "LC720416.1",
+        "LC720417.1",
+        "LC720418.1",
+        "LC720419.1",
+        "LC720420.1",
+        "LC720421.1",
+        "LC720422.1",
+        "LC720423.1",
+        "LC756667.1",
+        "LC769220.1",
+        "LC823187.1",
+        "LC823188.1",
+        "LC832987.1",
+        "MF374982.1",
+        "MF376167.1",
+        "MF376168.1",
+        "MF376169.1",
+        "MF376170.1",
+        "MG383449.1",
+        "MG953829.1",
+        "MG953830.1",
+        "MH121120.1",
+        "MK034749.1",
+        "MZ546191.1",
+        "OL519569.1",
+        "OL519570.1",
+        "OL519571.1",
+        "OL519572.1",
+        "OL519573.1",
+        "OP255990.1",
+        "PP625017.1",
+        "PP625063.1",
+        "PP625018.1",
+        "PP625019.1",
+        "PP625020.1",
+        "PP625021.1",
+        "PP625022.1",
+        "PP625023.1",
+        "PP625028.1",
+        "PP625024.1",
+        "PP625025.1",
+        "PP625026.1",
+        "PP625027.1",
+        "PP625029.1",
+        "PP625030.1",
+        "PP625031.1",
+        "PP625032.1",
+        "PP625033.1",
+        "PP625034.1",
+        "PP625035.1",
+        "PP625036.1",
+        "PP625037.1",
+        "PP625038.1",
+        "PP625039.1",
+        "PP625040.1",
+        "PP625041.1",
+        "PP625042.1",
+        "PP625043.1",
+        "PP625044.1",
+        "PP625045.1",
+        "PP625046.1",
+        "PP625047.1",
+        "PP625048.1",
+        "PP625049.1",
+        "PP625097.1",
+        "PP625050.1",
+        "PP625051.1",
+        "PP625052.1",
+        "PP625053.1",
+        "PP625054.1",
+        "PP625055.1",
+        "PP625056.1",
+        "PP625057.1",
+        "PP625058.1",
+        "PP625059.1",
+        "PP625100.1",
+        "PP625060.1",
+        "PP625061.1",
+        "PP625062.1",
+        "PP625064.1",
+        "PP625065.1",
+        "PP625066.1",
+        "PP625067.1",
+        "PP625068.1",
+        "PP625069.1",
+        "PP625070.1",
+        "PP625071.1",
+        "PP625072.1",
+        "PP625075.1",
+        "PP625073.1",
+        "PP625074.1",
+        "PP625076.1",
+        "PP625077.1",
+        "PP625078.1",
+        "PP625079.1",
+        "PP625080.1",
+        "PP625081.1",
+        "PP625082.1",
+        "PP625083.1",
+        "PP625084.1",
+        "PP625085.1",
+        "PP625086.1",
+        "PP625087.1",
+        "PP625088.1",
+        "PP625089.1",
+        "PP625090.1",
+        "PP625091.1",
+        "PP625092.1",
+        "PP625093.1",
+        "PP625094.1",
+        "PP625095.1",
+        "PP625096.1",
+        "PP625098.1",
+        "PP625099.1",
+        "PP625101.1",
+        "PP625102.1",
+        "PP625103.1",
+        "PP625104.1",
+        "PP625105.1",
+        "PP625106.1",
+        "PP625107.1",
+        "PP625108.1",
+        "PP625109.1",
+        "PP625110.1",
+        "PP625111.1",
+        "PP625117.1",
+        "PP625112.1",
+        "PP625113.1",
+        "PP625114.1",
+        "PP625115.1",
+        "PP625116.1",
+        "PP625118.1",
+        "PP625119.1",
+        "PP625120.1",
+        "PP625121.1",
+        "PP625122.1",
+        "PP625123.1",
+        "PP801320.1",
+        "PP801321.1",
+        "PQ273469.1"
+      ],
+      "biotype": [
+        "Human Bocavirus 1"
+      ],
+      "collection_date": {
+        "max": 2024,
+        "min": 2004
+      },
+      "genotype": [
+        "2",
+        "HBOV1",
+        "1",
+        "HBoV1",
+        "I",
+        "HBoV-1"
+      ],
+      "geographic_region": [
+        "Asia",
+        "North America",
+        "Europe",
+        "Africa",
+        "South America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "serotype": [
+        "1"
+      ],
+      "species": [
+        "Human bocavirus",
+        "Bocaparvovirus primate1",
+        "Bocaparvovirus sp."
+      ],
+      "tax_id": [
+        "329641",
+        "3052040",
+        "1883111"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-2"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KT454512.1",
+        "KT454513.1",
+        "NC_029133.1",
+        "KT454514.1",
+        "KT454515.1",
+        "KT454516.1",
+        "KT454517.1",
+        "OM492456.1",
+        "OM492457.1",
+        "OM492458.1",
+        "OM492459.1",
+        "OM492460.1",
+        "OM492461.1",
+        "OM492462.1",
+        "OM492463.1",
+        "OM492464.1",
+        "OM492465.1",
+        "OM492466.1",
+        "OM492467.1",
+        "OM492468.1",
+        "OM492469.1",
+        "OM492470.1",
+        "OM492471.1",
+        "OM492472.1",
+        "OM492473.1",
+        "OM492474.1",
+        "OM492475.1",
+        "OM492476.1",
+        "OM492477.1",
+        "OM492478.1",
+        "OM492479.1",
+        "OM492480.1",
+        "OM524518.1",
+        "OM524519.1",
+        "OM524520.1",
+        "OM524521.1",
+        "OM524522.1",
+        "OM524523.1",
+        "OM524524.1",
+        "OM524525.1",
+        "OM524526.1",
+        "OM524527.1",
+        "OM524528.1",
+        "OM524529.1",
+        "OM524530.1",
+        "OM524531.1",
+        "OM524532.1",
+        "OM524533.1",
+        "OM524534.1",
+        "OM524535.1",
+        "OM524536.1",
+        "OM524537.1",
+        "OM524538.1",
+        "OM524539.1",
+        "OM524540.1",
+        "OM524541.1",
+        "OM524542.1",
+        "OM524543.1",
+        "OM524544.1",
+        "OM524545.1",
+        "OM524546.1",
+        "OM524547.1",
+        "OM524548.1",
+        "OM524549.1",
+        "OM524550.1",
+        "OM524551.1",
+        "OM524552.1"
+      ],
+      "collection_date": {
+        "max": 2021,
+        "min": 2010
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Rattus norvegicus",
+        "Rattus tanezumi"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus rodent1"
+      ],
+      "tax_id": [
+        "3052043"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-49"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JQ692588.1",
+        "JQ692589.1",
+        "JQ692590.1"
+      ],
+      "collection_date": {
+        "max": 2010,
+        "min": 2010
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Canis lupus familiaris"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Canine bocavirus"
+      ],
+      "tax_id": [
+        "1108949"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-20"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "EU918736.1",
+        "NC_012564.1",
+        "FJ948861.1",
+        "FJ973562.1",
+        "GU048665.1",
+        "HM132056.1",
+        "JN086998.1",
+        "KM624026.1",
+        "MG953832.1",
+        "MG953833.1",
+        "MG953834.1",
+        "OP255991.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2001
+      },
+      "genotype": [
+        "3"
+      ],
+      "geographic_region": [
+        "Oceania",
+        "Africa",
+        "Europe",
+        "Asia",
+        "North America",
+        "South America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus primate1",
+        "Human bocavirus"
+      ],
+      "tax_id": [
+        "3052040",
+        "329641"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-5"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KU172421.1",
+        "NC_030402.1",
+        "KU172422.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Bos taurus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus ungulate6"
+      ],
+      "tax_id": [
+        "3050363"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-51"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KP281713.1",
+        "KP281714.1",
+        "KP281715.1",
+        "KP281716.1",
+        "KP281717.1",
+        "KP281718.1",
+        "KP281719.1",
+        "KP281720.1"
+      ],
+      "collection_date": {
+        "max": 2014,
+        "min": 2014
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Canis lupus familiaris"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Canine bocavirus"
+      ],
+      "tax_id": [
+        "1108949"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-46"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KU321655.1",
+        "NC_031695.1",
+        "NC_039048.1"
+      ],
+      "collection_date": {
+        "max": 2013,
+        "min": 2011
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Rhinolophus sinicus",
+        "Miniopterus schreibersii"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Rhinolophus sinicus bocaparvovirus",
+        "Bocaparvovirus chiropteran4"
+      ],
+      "tax_id": [
+        "1911555",
+        "3052035"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-52"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KY214448.1",
+        "NC_040533.1",
+        "MT150090.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2011
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Canis lupus signatus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus incertum1",
+        "Rabbit bocavirus"
+      ],
+      "tax_id": [
+        "3059787",
+        "2756150"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-55"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KY927867.1",
+        "KY927868.1",
+        "KY927869.1",
+        "KY927871.1",
+        "KY927873.1",
+        "KY927874.1",
+        "KY927875.1",
+        "MF085373.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2011
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Rattus norvegicus",
+        "Rattus rattus",
+        "Mustela lutreola"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus rodent3",
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "3059788",
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-57"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KY489985.1",
+        "KY489986.1",
+        "OM274032.1"
+      ],
+      "collection_date": {
+        "max": 2020,
+        "min": 2012
+      },
+      "geographic_region": [
+        "Africa",
+        "Asia"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus ungulate2",
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "3052046",
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-56"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KY927870.1",
+        "KY927872.1"
+      ],
+      "collection_date": {
+        "max": 2014,
+        "min": 2014
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Rattus flavipectus",
+        "Rattus norvegicus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus rodent3"
+      ],
+      "tax_id": [
+        "3059788"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-58"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "FJ973561.2",
+        "NC_012729.2",
+        "KJ649741.1",
+        "KJ649742.1"
+      ],
+      "collection_date": {
+        "max": 2011,
+        "min": 2007
+      },
+      "genotype": [
+        "4"
+      ],
+      "geographic_region": [
+        "Africa",
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus primate2",
+        "Human bocavirus"
+      ],
+      "tax_id": [
+        "3052041",
+        "329641"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-7"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "GQ867666.1",
+        "GQ867667.1"
+      ],
+      "collection_date": {
+        "max": 2004,
+        "min": 2003
+      },
+      "geographic_region": [
+        "South America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus primate1"
+      ],
+      "tax_id": [
+        "3052040"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-8"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT633128.1",
+        "OR544353.1",
+        "PP541573.1"
+      ],
+      "collection_date": {
+        "max": 2023,
+        "min": 2019
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus carnivoran5",
+        "Bocaparvovirus carnivoran3"
+      ],
+      "tax_id": [
+        "3052030",
+        "3052028"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-81"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH341441.1",
+        "MW051666.1",
+        "MW051667.1",
+        "NC_038537.1",
+        "OM274033.1"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 2010
+      },
+      "geographic_region": [
+        "Asia",
+        "North America"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus ungulate3",
+        "Porcine bocavirus"
+      ],
+      "tax_id": [
+        "3052047",
+        "1165907"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-69"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "NC_030873.1",
+        "OK032607.1",
+        "ON866997.1",
+        "ON866998.1",
+        "ON866999.1",
+        "ON867000.1",
+        "ON867001.1",
+        "ON867002.1"
+      ],
+      "collection_date": {
+        "max": 2021,
+        "min": 2014
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Mustela lutreola"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus carnivoran6",
+        "Mink bocavirus"
+      ],
+      "tax_id": [
+        "3052031",
+        "1891972"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-83"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "ON478338.1",
+        "PP592986.1",
+        "PP592987.1",
+        "PP592988.1",
+        "PP592989.1"
+      ],
+      "collection_date": {
+        "max": 2022,
+        "min": 2021
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus carnivoran5"
+      ],
+      "tax_id": [
+        "3052030"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-99"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MK671304.1",
+        "MK671305.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2018
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus carnivoran6"
+      ],
+      "tax_id": [
+        "3052031"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-73"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "FJ170278.1",
+        "NC_012042.1",
+        "GQ200737.1",
+        "KM624027.1",
+        "MG383446.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2012
+      },
+      "genotype": [
+        "1",
+        "4"
+      ],
+      "geographic_region": [
+        "Asia",
+        "Africa"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Bocaparvovirus primate2",
+        "Human bocavirus"
+      ],
+      "tax_id": [
+        "3052041",
+        "329641"
+      ],
+      "taxon": [
+        "Bocaparvovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Bocaparvovirus-wg-6"
+  }
+]

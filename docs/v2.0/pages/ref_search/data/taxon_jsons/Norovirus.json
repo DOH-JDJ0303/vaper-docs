@@ -1,0 +1,10399 @@
+[
+  {
+    "metadata": {
+      "accessions": [
+        "AY741811.1",
+        "AB083781.1"
+      ],
+      "geographic_region": [
+        "Europe",
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-214"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC771967.1"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 2019
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-102"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "GQ845368.2"
+      ],
+      "collection_date": {
+        "max": 2007,
+        "min": 2007
+      },
+      "genotype": [
+        "GII.4"
+      ],
+      "geographic_region": [
+        "Oceania"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-103"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JX989075.1"
+      ],
+      "collection_date": {
+        "max": 2011,
+        "min": 2011
+      },
+      "genotype": [
+        "GII.6"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-105"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MW662289.1"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 2019
+      },
+      "genotype": [
+        "GVI.1"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Canis lupus familiaris"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-107"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MZ220331.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "genotype": [
+        "GI.1[P1]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-108"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "HQ392821.1"
+      ],
+      "collection_date": {
+        "max": 2009,
+        "min": 2009
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "group": [
+        "GII"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-109"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT028542.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2018
+      },
+      "genotype": [
+        "GII.4 Sydney[P31]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-110"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JX846925.1"
+      ],
+      "collection_date": {
+        "max": 1978,
+        "min": 1978
+      },
+      "genotype": [
+        "GII.2"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-117"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JF320653.1"
+      ],
+      "collection_date": {
+        "max": 2007,
+        "min": 2007
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Mus musculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-118"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "EU004683.1"
+      ],
+      "collection_date": {
+        "max": 2005,
+        "min": 2005
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Mus musculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-120"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LN854570.1"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-121"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MF373609.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2016
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Rhinolophus affinis"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-123"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "EU004677.1"
+      ],
+      "collection_date": {
+        "max": 2005,
+        "min": 2005
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Mus musculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-125"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "HM596590.4"
+      ],
+      "collection_date": {
+        "max": 2010,
+        "min": 2010
+      },
+      "genotype": [
+        "GII.5[P16]"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-126"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JX846924.1"
+      ],
+      "collection_date": {
+        "max": 1978,
+        "min": 1978
+      },
+      "genotype": [
+        "GII.3"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-127"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC209457.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-129"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH608286.1"
+      ],
+      "collection_date": {
+        "max": 2014,
+        "min": 2014
+      },
+      "genotype": [
+        "GI"
+      ],
+      "geographic_region": [
+        "Africa"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-13"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH218642.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "genotype": [
+        "GII.P7_GII.6"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-130"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC209440.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-132"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "GU991355.1"
+      ],
+      "collection_date": {
+        "max": 2009,
+        "min": 2009
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-133"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "EF187497.2"
+      ],
+      "genotype": [
+        "GII.4"
+      ],
+      "geographic_region": [
+        "Oceania"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-135"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MW243610.2",
+        "KU870455.1"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 2019
+      },
+      "genotype": [
+        "GII",
+        "GII.6"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-65"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KJ196291.1",
+        "NC_044046.1"
+      ],
+      "collection_date": {
+        "max": 2011,
+        "min": 2011
+      },
+      "genotype": [
+        "GII",
+        "GVIII"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-137"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "EU004679.1",
+        "EU004680.1",
+        "EU004678.1"
+      ],
+      "collection_date": {
+        "max": 2005,
+        "min": 2005
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Mus musculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-22"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "EU004667.1",
+        "EU004668.1",
+        "EU004669.1",
+        "EU004666.1",
+        "EU004665.1",
+        "KM102449.1",
+        "EU004670.1"
+      ],
+      "collection_date": {
+        "max": 2013,
+        "min": 2005
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Mus musculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-5"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OP686904.1"
+      ],
+      "collection_date": {
+        "max": 2020,
+        "min": 2020
+      },
+      "genotype": [
+        "GII.8[P8]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-14"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KC792553.1"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Mus musculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-140"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH218687.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2016
+      },
+      "genotype": [
+        "GII.P7_GII.6"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-142"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KJ196290.1",
+        "NC_044045.1"
+      ],
+      "collection_date": {
+        "max": 2007,
+        "min": 2007
+      },
+      "genotype": [
+        "GII.P15_GII.15",
+        "GIX"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-143"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "GU292831.4"
+      ],
+      "collection_date": {
+        "max": 2005,
+        "min": 2005
+      },
+      "genotype": [
+        "GII.16[P16]"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-144"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC389583.1"
+      ],
+      "collection_date": {
+        "max": 2017,
+        "min": 2017
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-145"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "EF531290.1"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Mus musculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-147"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB601769.1"
+      ],
+      "collection_date": {
+        "max": 2008,
+        "min": 2008
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Mus musculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-148"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN448477.1"
+      ],
+      "collection_date": {
+        "max": 2013,
+        "min": 2013
+      },
+      "genotype": [
+        "GI.3[P3]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-149"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KJ196288.1"
+      ],
+      "collection_date": {
+        "max": 2002,
+        "min": 2002
+      },
+      "genotype": [
+        "GII.P5_GII.5"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-150"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "EU004663.1"
+      ],
+      "collection_date": {
+        "max": 2005,
+        "min": 2005
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Mus musculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-151"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB081723.2",
+        "NC_044854.1"
+      ],
+      "collection_date": {
+        "max": 2000,
+        "min": 2000
+      },
+      "genotype": [
+        "GI.6[PNA1]"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-152"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MW018367.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2018
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Mus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-153"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AY032605.1"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-154"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JX846927.1"
+      ],
+      "collection_date": {
+        "max": 1984,
+        "min": 1984
+      },
+      "genotype": [
+        "II.6"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-156"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MW305737.1"
+      ],
+      "collection_date": {
+        "max": 1972,
+        "min": 1972
+      },
+      "genotype": [
+        "GII.6[GII.P6]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-157"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "EU004674.1"
+      ],
+      "collection_date": {
+        "max": 2005,
+        "min": 2005
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Mus musculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-158"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN122335.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2018
+      },
+      "genotype": [
+        "GIII.2"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Bos taurus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-160"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "FJ446719.1"
+      ],
+      "collection_date": {
+        "max": 2007,
+        "min": 2007
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Mus musculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-165"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF895841.2"
+      ],
+      "collection_date": {
+        "max": 2012,
+        "min": 2012
+      },
+      "genotype": [
+        "GII.3[P16]"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-166"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT372463.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2016
+      },
+      "genotype": [
+        "GI.3[P3]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-168"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LN854566.1"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-17"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JF781268.1",
+        "NC_045762.1"
+      ],
+      "collection_date": {
+        "max": 2010,
+        "min": 2010
+      },
+      "genotype": [
+        "GIV.2"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-170"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC209463.1"
+      ],
+      "collection_date": {
+        "max": 2008,
+        "min": 2008
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-171"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MG049693.1"
+      ],
+      "collection_date": {
+        "max": 2009,
+        "min": 2009
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-173"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OL898513.1",
+        "MK641589.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2016
+      },
+      "genotype": [
+        "GII.14[P7]",
+        "GII.P7-GII.14"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-174"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JX145650.1",
+        "NC_029645.1"
+      ],
+      "collection_date": {
+        "max": 2006,
+        "min": 2006
+      },
+      "genotype": [
+        "GIII.2"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Bos taurus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-175"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT372462.1"
+      ],
+      "collection_date": {
+        "max": 2014,
+        "min": 2014
+      },
+      "genotype": [
+        "GI.7[P7]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-178"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AY772730.1"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-179"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AY134748.1"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "serogroup": [
+        "3"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-180"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KJ196295.1"
+      ],
+      "collection_date": {
+        "max": 2010,
+        "min": 2010
+      },
+      "genotype": [
+        "GII.P7_GII.7"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-181"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MW174170.1"
+      ],
+      "collection_date": {
+        "max": 2017,
+        "min": 2017
+      },
+      "genotype": [
+        "GV"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Rattus norvegicus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-182"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MF405169.1"
+      ],
+      "collection_date": {
+        "max": 1971,
+        "min": 1971
+      },
+      "genotype": [
+        "GII.2"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-183"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MZ546182.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2016
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus sp."
+      ],
+      "tax_id": [
+        "1938392"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-184"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH218658.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "genotype": [
+        "GII.P7_GII.7"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-185"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LN854565.1"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-186"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OP686903.1"
+      ],
+      "collection_date": {
+        "max": 2020,
+        "min": 2020
+      },
+      "genotype": [
+        "GII.10[P16]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-187"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC209462.1"
+      ],
+      "collection_date": {
+        "max": 2006,
+        "min": 2006
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-188"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "HQ169542.2"
+      ],
+      "collection_date": {
+        "max": 2005,
+        "min": 2005
+      },
+      "genotype": [
+        "GII.6"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-189"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT731332.1"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 2019
+      },
+      "genotype": [
+        "GII.7[P7]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-192"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB933728.1"
+      ],
+      "collection_date": {
+        "max": 2009,
+        "min": 2009
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-193"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB039780.1"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-195"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB083780.1"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-197"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB126320.1"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-198"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB187514.1"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-199"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB365435.1"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-200"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB541338.1",
+        "KC409252.1",
+        "AB933716.1",
+        "AB541331.1",
+        "AB541229.1",
+        "AB447437.1",
+        "AB541217.1",
+        "AB541205.1",
+        "KC409300.1",
+        "JN400610.1",
+        "KC175405.1",
+        "KC175372.1",
+        "AB541316.1",
+        "KC409277.1",
+        "JN400602.1",
+        "KC175394.1",
+        "AB541204.1",
+        "AB541288.1",
+        "AB933646.1",
+        "AB933645.1",
+        "KC175398.1",
+        "AB541281.1",
+        "AB447441.1",
+        "GU991354.1",
+        "AB541252.1",
+        "AB541294.1",
+        "KC175355.1",
+        "AB541324.1",
+        "KC409269.1",
+        "KC409314.1",
+        "AB447438.1",
+        "AB933666.1",
+        "AB933700.1",
+        "AB541352.1",
+        "AB447428.1",
+        "AB933693.1",
+        "AB933663.1",
+        "KC409253.1",
+        "AB447447.1",
+        "AB541351.1",
+        "AB541230.1",
+        "AB933725.1",
+        "JX459906.1",
+        "KC409306.1",
+        "KC175409.1",
+        "AB541296.1",
+        "AB541298.1",
+        "AB541330.1",
+        "KJ196287.1",
+        "AB933685.1",
+        "AB933702.1",
+        "EF684915.2",
+        "KC409268.1",
+        "AB541306.1",
+        "AB541242.1",
+        "AB541358.1",
+        "AB933648.1",
+        "AB541223.1",
+        "JN400620.1",
+        "KC175403.1",
+        "AB541285.1",
+        "AB933683.1",
+        "AB541297.1",
+        "KC175376.1",
+        "GQ845366.2",
+        "AB447440.1",
+        "AB541286.1",
+        "KC175354.1",
+        "AB541240.1",
+        "AB933694.1",
+        "AB541334.1",
+        "AB933708.1",
+        "KC409310.1",
+        "AB933712.1",
+        "AB541215.1",
+        "AB447443.1",
+        "KF712496.1",
+        "KC409270.1",
+        "AB541212.1",
+        "AB447450.1",
+        "AB541299.1",
+        "AB541282.1",
+        "KC409285.1",
+        "AB933704.1",
+        "AB541293.1",
+        "AB541300.1",
+        "AB541235.1",
+        "AB933690.1",
+        "AB541305.1",
+        "AB447436.1",
+        "AB447431.1",
+        "AB541292.1",
+        "AB933661.1",
+        "KC409309.1",
+        "AB541317.1",
+        "KC409267.1",
+        "AB447452.1",
+        "JN400603.1",
+        "AB933656.1",
+        "AB447429.1",
+        "KC409247.1",
+        "AB933719.1",
+        "KC894943.1",
+        "JN400626.1",
+        "KC409280.1",
+        "AB933703.1",
+        "AB541227.1",
+        "AB541276.1",
+        "KC175369.1",
+        "KC175366.1",
+        "KC409288.1",
+        "AB541208.1",
+        "AB541228.1",
+        "KC175378.1",
+        "KC409264.1",
+        "AB447446.1",
+        "AB447457.1",
+        "KC175348.1",
+        "AB933714.1",
+        "AB541241.1",
+        "AB541218.1",
+        "KC175360.1",
+        "AB933691.1",
+        "KC960615.1",
+        "AB541348.1",
+        "AB933677.1",
+        "KT152148.1",
+        "KC409266.1",
+        "MG548737.1",
+        "AB447439.1",
+        "AB541315.1",
+        "AB541220.1",
+        "KC894942.1",
+        "HM748971.2",
+        "AB933730.1",
+        "KC175397.1",
+        "KC409254.1",
+        "AB933715.1",
+        "KC175362.1",
+        "MG049692.1",
+        "AB933659.1",
+        "KJ541743.1",
+        "AB447463.1",
+        "AB541234.1",
+        "AB933674.1",
+        "AB541336.1",
+        "AB541279.1",
+        "KC409281.1",
+        "AB933647.1",
+        "AB447453.1",
+        "AB541216.1",
+        "AB447430.1",
+        "KC409291.1",
+        "AB541360.1",
+        "AB933676.1",
+        "AB447454.1",
+        "JN400608.1",
+        "KC409278.1",
+        "AB541344.1",
+        "AB933699.1",
+        "AB933696.1",
+        "AB541326.1",
+        "AB541342.1",
+        "KF712510.1",
+        "AB541289.1",
+        "AB543808.1",
+        "AB447456.2",
+        "AB933726.1",
+        "AB933660.1",
+        "AB541341.1",
+        "AB541271.1",
+        "AB541304.1",
+        "AB447434.1",
+        "AB541340.1",
+        "KC409294.1",
+        "KC175375.1",
+        "AB933697.1",
+        "KC409308.1",
+        "KC409248.1",
+        "AB447427.1",
+        "AB541246.1",
+        "JN400607.1",
+        "AB541303.1",
+        "KC409289.1",
+        "KC175391.1",
+        "AB541262.1",
+        "KC409262.1",
+        "AB541255.1",
+        "AB933667.1",
+        "AB933687.1",
+        "AB541346.1",
+        "KC409295.1",
+        "AB541245.1",
+        "AB933689.1",
+        "AB933681.1",
+        "AB933707.1",
+        "KC175356.1",
+        "AB541247.1",
+        "AB541222.1",
+        "KC175365.1",
+        "KC409318.1",
+        "AB541309.1",
+        "JN400615.1",
+        "JQ911596.1",
+        "KC175357.1",
+        "KC409256.1",
+        "AB541203.1",
+        "JQ911595.1",
+        "AB933717.1",
+        "KC175342.1",
+        "KC175346.1",
+        "KC409305.1",
+        "AB933718.1",
+        "AB933701.1",
+        "KC175377.1",
+        "KC409312.1",
+        "AB933675.1",
+        "KC175402.1",
+        "AB447461.1",
+        "AB933654.1",
+        "JN400611.1",
+        "KC409249.1",
+        "KC409257.1",
+        "KC409271.1",
+        "AB541265.1",
+        "AB541354.1",
+        "AB447460.1",
+        "KC175343.1",
+        "KC409317.1",
+        "KC409246.1",
+        "KC409286.1",
+        "KC175399.1",
+        "AB933723.1",
+        "AB933669.1",
+        "AB933706.1",
+        "KC409255.1",
+        "KC175381.1",
+        "KC175408.1",
+        "AB933710.1",
+        "AB933670.1",
+        "AB933679.1",
+        "KC409275.1",
+        "AB541206.1",
+        "AB447445.1",
+        "AB541249.1",
+        "AB933652.1",
+        "AB933709.1",
+        "AB541232.1",
+        "AB933665.1",
+        "AB541361.1",
+        "KC175364.1",
+        "AB541244.1",
+        "JN400605.1",
+        "AB541224.1",
+        "KC175359.1",
+        "JN400606.1",
+        "AB541291.1",
+        "AB541295.1",
+        "AB933649.1",
+        "KC409239.1",
+        "KC175345.1",
+        "JN400601.1",
+        "AB933651.1",
+        "FJ514242.1",
+        "KC175401.1",
+        "AB541345.1",
+        "KC175379.1",
+        "AB541327.1",
+        "AB541308.1",
+        "KC409298.1",
+        "AB447435.1",
+        "AB447442.1",
+        "AB447444.1",
+        "AB447449.1",
+        "AB447451.1",
+        "AB447455.1",
+        "AB447459.1",
+        "AB447462.1",
+        "AB541201.1",
+        "AB541210.1",
+        "AB541211.1",
+        "AB541213.1",
+        "AB541226.1",
+        "AB541231.1",
+        "AB541236.1",
+        "AB541238.1",
+        "AB541239.1",
+        "AB541248.1",
+        "AB541251.1",
+        "AB541253.1",
+        "AB541258.1",
+        "AB541259.1",
+        "AB541260.1",
+        "AB541263.1",
+        "AB541264.1",
+        "AB541269.1",
+        "AB541270.1",
+        "AB541273.1",
+        "AB541277.1",
+        "AB541278.1",
+        "AB541280.1",
+        "AB541301.1",
+        "AB541302.1",
+        "AB541307.1",
+        "AB541311.1",
+        "AB541332.1",
+        "AB541333.1",
+        "AB541335.1",
+        "AB541337.1",
+        "AB541339.1",
+        "AB541343.1",
+        "AB541347.1",
+        "AB541349.1",
+        "AB541350.1",
+        "AB541353.1",
+        "AB541355.1",
+        "AB541357.1",
+        "AB541359.1",
+        "AB933644.1",
+        "AB933653.1",
+        "AB933657.1",
+        "AB933658.1",
+        "AB933662.1",
+        "AB933664.1",
+        "AB933671.1",
+        "AB933672.1",
+        "AB933673.1",
+        "AB933678.1",
+        "AB933680.1",
+        "AB933682.1",
+        "AB933686.1",
+        "AB933688.1",
+        "AB933692.1",
+        "AB933695.1",
+        "AB933711.1",
+        "AB933713.1",
+        "GU991353.1",
+        "JN400600.1",
+        "JN400604.1",
+        "JN400609.1",
+        "JN400612.1",
+        "JN400613.1",
+        "JN400614.1",
+        "JQ622197.1",
+        "AB541243.1",
+        "AB541250.1",
+        "AB541254.1",
+        "AB541328.1",
+        "AB541207.1",
+        "AB541209.1",
+        "AB541214.1",
+        "AB541237.1",
+        "AB541257.1",
+        "AB541283.1",
+        "AB541284.1",
+        "AB541314.1",
+        "AB933650.1",
+        "AB933684.1",
+        "AB933727.1",
+        "GQ845024.2",
+        "GU325839.2",
+        "JN400616.1",
+        "JQ911597.1",
+        "JQ911598.1",
+        "JX989073.1",
+        "KC175344.1",
+        "KC175347.1",
+        "KC175349.1",
+        "KC175350.1",
+        "KC175351.1",
+        "KC175352.1",
+        "KC175353.1",
+        "KC175358.1",
+        "KC175361.1",
+        "KC175363.1",
+        "KC175367.1",
+        "KC175368.1",
+        "KC175370.1",
+        "KC175371.1",
+        "KC175373.1",
+        "KC175374.1",
+        "KC175388.1",
+        "KC175389.1",
+        "KC175390.1",
+        "KC175392.1",
+        "KC175393.1",
+        "KC175395.1",
+        "KC409245.1",
+        "KC175396.1",
+        "KC175400.1",
+        "KC175404.1",
+        "KC175406.1",
+        "KC175407.1",
+        "KC175410.1",
+        "KC409238.1",
+        "KC409244.1",
+        "KC409316.1",
+        "KC409250.1",
+        "KC409251.1",
+        "KC409258.1",
+        "KC409259.1",
+        "KC409260.1",
+        "KC409261.1",
+        "KC409265.1",
+        "KC409272.1",
+        "KC409273.1",
+        "KC409274.1",
+        "KC409276.1",
+        "KC409279.1",
+        "KC409282.1",
+        "KC409283.1",
+        "KC409284.1",
+        "KC409287.1",
+        "KC409290.1",
+        "KC409293.1",
+        "KC409296.1",
+        "KC409297.1",
+        "KC409304.1",
+        "KC409307.1",
+        "KC409313.1",
+        "KC409315.1",
+        "AB541225.1",
+        "AB541233.1",
+        "AB541256.1",
+        "AB541287.1",
+        "AB541290.1",
+        "AB541313.1",
+        "AB541362.1",
+        "AB933668.1",
+        "JN400617.1",
+        "KC409263.1",
+        "AB933705.1",
+        "AB933720.1",
+        "AB933721.1",
+        "AB933722.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2006
+      },
+      "genotype": [
+        "II",
+        "GII.4",
+        "GII.P4_GII.4",
+        "II.4",
+        "GII-4"
+      ],
+      "geographic_region": [
+        "Asia",
+        "Oceania",
+        "North America"
+      ],
+      "group": [
+        "GII"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "serogroup": [
+        "GII-4"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-8"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB933698.1"
+      ],
+      "collection_date": {
+        "max": 2011,
+        "min": 2011
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-207"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB985418.2"
+      ],
+      "collection_date": {
+        "max": 1986,
+        "min": 1986
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-212"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AY126474.2"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-213"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "DQ911368.1"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-215"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "EF531291.1"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-216"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "EU004673.1"
+      ],
+      "collection_date": {
+        "max": 2005,
+        "min": 2005
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Mus musculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-217"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "FJ537135.1"
+      ],
+      "collection_date": {
+        "max": 1974,
+        "min": 1974
+      },
+      "genotype": [
+        "GII.4"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-218"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "FJ537136.1"
+      ],
+      "collection_date": {
+        "max": 1988,
+        "min": 1988
+      },
+      "genotype": [
+        "GII.4"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-219"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "HF952120.1"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-220"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "HQ317203.1"
+      ],
+      "collection_date": {
+        "max": 2009,
+        "min": 2009
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Mus musculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-223"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JF320652.1"
+      ],
+      "collection_date": {
+        "max": 2006,
+        "min": 2006
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Mus musculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-224"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JQ911594.1"
+      ],
+      "collection_date": {
+        "max": 2010,
+        "min": 2010
+      },
+      "genotype": [
+        "I"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-225"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JX048594.1"
+      ],
+      "collection_date": {
+        "max": 2010,
+        "min": 2010
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-226"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB933749.1",
+        "JN595867.1",
+        "JX439819.1",
+        "KP784693.1",
+        "HF952126.1",
+        "KJ407073.1",
+        "HF952123.1",
+        "HF952119.1",
+        "HF952125.1",
+        "AB933742.1",
+        "AB933751.1",
+        "JX459904.1",
+        "HF952122.1",
+        "HF952124.1",
+        "HF952132.1",
+        "KC175380.1",
+        "LN854571.1",
+        "KJ196285.1",
+        "KJ196289.1",
+        "KM258130.1",
+        "KM258131.1",
+        "KJ685408.1",
+        "JX459901.1",
+        "KC409301.1",
+        "HF952127.1",
+        "JN400618.2",
+        "JX459902.1",
+        "AB933754.1",
+        "AB933764.1",
+        "KJ685415.1",
+        "AB933769.1",
+        "AB933745.1",
+        "KC175384.1",
+        "KF429778.1",
+        "AB933755.1",
+        "GQ845367.2",
+        "HF952131.1",
+        "JN400622.1",
+        "AB933750.1",
+        "KC175382.1",
+        "KF429777.1",
+        "AB933766.1",
+        "KC409242.1",
+        "KJ685414.1",
+        "GU445325.2",
+        "KC409292.1",
+        "KC409241.1",
+        "KC409240.1",
+        "HF952128.1",
+        "AB933746.1",
+        "KC409302.1",
+        "KF712497.1",
+        "JN400621.1",
+        "JX989074.1",
+        "KP784698.1",
+        "JN400624.1",
+        "AB933743.1",
+        "MZ233536.1",
+        "AB933761.1",
+        "AB933732.1",
+        "AB933744.1",
+        "AB933737.1",
+        "AB933763.1",
+        "MH218607.1",
+        "AB933762.1",
+        "AB933758.1",
+        "KC175385.1",
+        "HM748972.2",
+        "AB933738.1",
+        "AB933752.1",
+        "AB933753.1",
+        "KC577174.1",
+        "KP784695.1",
+        "AB933731.1",
+        "AB933733.1",
+        "AB933734.1",
+        "AB933735.1",
+        "AB933739.1",
+        "AB933736.1",
+        "AB933741.1",
+        "AB933747.1",
+        "AB933748.1",
+        "AB933756.1",
+        "AB933760.1",
+        "AB933765.1",
+        "AB933767.1",
+        "AB933768.1",
+        "AB933770.1",
+        "AB933771.1",
+        "HF952121.1",
+        "HF952129.1",
+        "HF952130.1",
+        "HF952133.1",
+        "HF952135.1",
+        "JN400619.2",
+        "JN400623.1",
+        "JN400625.1",
+        "JQ613552.2",
+        "JX439817.1",
+        "JX448566.1",
+        "KC175383.1",
+        "KC175386.1",
+        "KC175387.1",
+        "KC409243.1",
+        "KC409299.1",
+        "KC409303.1",
+        "KJ407075.1",
+        "LN854572.1",
+        "KC463910.1",
+        "KJ685405.1",
+        "HF952134.1",
+        "KF429766.1",
+        "KJ685403.1",
+        "KJ685413.1",
+        "KJ685417.1",
+        "AB933757.1",
+        "JQ613570.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2008
+      },
+      "genotype": [
+        "GII",
+        "GII.P4_GII.4_New_Orleans_2009",
+        "GII.4",
+        "II",
+        "GII.Pe_GII.4_Sydney2012",
+        "GII.4 New Orleans[P4 New Orleans]",
+        "GII.P4_GII.4",
+        "4"
+      ],
+      "geographic_region": [
+        "Asia",
+        "North America",
+        "Africa",
+        "Oceania",
+        "Europe"
+      ],
+      "group": [
+        "II"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "serogroup": [
+        "GII-4"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-16"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF712499.1"
+      ],
+      "collection_date": {
+        "max": 2012,
+        "min": 2012
+      },
+      "genotype": [
+        "GII.4"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-231"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF712504.1"
+      ],
+      "collection_date": {
+        "max": 2013,
+        "min": 2013
+      },
+      "genotype": [
+        "GII.4"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-232"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KJ196277.1"
+      ],
+      "collection_date": {
+        "max": 2001,
+        "min": 2001
+      },
+      "genotype": [
+        "GII.P22_GII.5"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-233"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KJ196284.1"
+      ],
+      "collection_date": {
+        "max": 2007,
+        "min": 2007
+      },
+      "genotype": [
+        "GII.P21_GII.21"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-234"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KJ196286.1"
+      ],
+      "collection_date": {
+        "max": 2002,
+        "min": 2002
+      },
+      "genotype": [
+        "GII.P16_GII.17"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-235"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KJ196292.1",
+        "NC_039897.1"
+      ],
+      "collection_date": {
+        "max": 2007,
+        "min": 2007
+      },
+      "genotype": [
+        "GI.P3_GI.3"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-236"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KJ407072.2"
+      ],
+      "collection_date": {
+        "max": 2010,
+        "min": 2010
+      },
+      "genotype": [
+        "GII.6"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-237"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KP407451.1"
+      ],
+      "collection_date": {
+        "max": 2008,
+        "min": 2008
+      },
+      "genotype": [
+        "GI"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-239"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KP784694.1"
+      ],
+      "collection_date": {
+        "max": 2012,
+        "min": 2012
+      },
+      "genotype": [
+        "GII.P4_New_Orleans_2009/GII.4_Sydney_2012"
+      ],
+      "geographic_region": [
+        "Africa"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-240"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KR349276.1"
+      ],
+      "collection_date": {
+        "max": 2012,
+        "min": 2012
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Mus musculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-241"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KX079488.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-242"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KX396056.1",
+        "NC_031324.1"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-243"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KY855443.1",
+        "NC_040674.1"
+      ],
+      "collection_date": {
+        "max": 2013,
+        "min": 2013
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Marmota himalayana"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Marmot norovirus"
+      ],
+      "tax_id": [
+        "2161807"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-244"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KY905331.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2016
+      },
+      "genotype": [
+        "GII.P4 New Orleans 2009/GII.4 Sydney 2012"
+      ],
+      "geographic_region": [
+        "Oceania"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-245"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC048991.2"
+      ],
+      "collection_date": {
+        "max": 1995,
+        "min": 1995
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-246"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC209439.1"
+      ],
+      "collection_date": {
+        "max": 2014,
+        "min": 2014
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-247"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC342059.1"
+      ],
+      "collection_date": {
+        "max": 1999,
+        "min": 1999
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-248"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC646335.1"
+      ],
+      "collection_date": {
+        "max": 2021,
+        "min": 2021
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-249"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB042808.1"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-25"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC769700.1"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 2019
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-252"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC769702.1"
+      ],
+      "collection_date": {
+        "max": 2021,
+        "min": 2021
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-253"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC769703.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2018
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-254"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC769711.1",
+        "LC848163.1",
+        "LC769686.1",
+        "LC769690.1",
+        "LC769687.1",
+        "LC769710.1",
+        "LC848164.1"
+      ],
+      "collection_date": {
+        "max": 2022,
+        "min": 2018
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-24"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LN854563.1"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-256"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LN854564.1"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-257"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MF067043.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2016
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Mus musculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-258"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MW661284.1"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 2019
+      },
+      "genotype": [
+        "GII.6_GII.P7"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-26"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MG746023.1",
+        "LC790062.1",
+        "LC790070.1",
+        "MK753032.1",
+        "MH979229.1",
+        "MG746005.1",
+        "MG746030.1",
+        "MG746036.1",
+        "LC769685.1",
+        "MT031821.1",
+        "MG746022.1",
+        "LC790064.1",
+        "MH218684.1",
+        "NC_039477.1",
+        "OP689557.1",
+        "MG746011.1",
+        "LC175468.1",
+        "LC769693.1",
+        "OK376259.1",
+        "OQ940074.1",
+        "MG892946.3",
+        "MG745995.1",
+        "PQ215543.1",
+        "MG892974.3",
+        "PQ215541.1",
+        "OQ940079.1",
+        "OP037982.1",
+        "OQ940075.1",
+        "LC769683.1",
+        "MT738527.1",
+        "LC769708.1",
+        "MK773584.1",
+        "MN525276.1",
+        "MK762624.1",
+        "KY210980.3",
+        "LC769699.1",
+        "OQ940082.1",
+        "PQ215528.1",
+        "MG746045.1",
+        "MG746032.1",
+        "MK752935.1",
+        "MK073885.1",
+        "OQ940071.1",
+        "MG746003.1",
+        "MG746041.1",
+        "MN897756.1",
+        "MT032004.1",
+        "MG746004.1",
+        "OP037978.1",
+        "PQ215538.1",
+        "LC646332.1",
+        "LC769696.1",
+        "MG746021.1",
+        "MG746027.1",
+        "PV843276.1",
+        "MG745992.1",
+        "LC777250.1",
+        "MG745991.1",
+        "MG746029.1",
+        "OK376253.1",
+        "OK376254.1",
+        "OK376255.1",
+        "OK376258.1",
+        "OK376264.1",
+        "LC769697.1",
+        "OQ940070.1",
+        "LC790067.1",
+        "MG745987.1",
+        "MW661278.1",
+        "MG746007.1",
+        "MG745988.1",
+        "MG745989.1",
+        "OL898512.1",
+        "MK762635.1",
+        "LC790057.1",
+        "MW661264.1",
+        "OK376260.1",
+        "OK376262.1",
+        "OK376263.1",
+        "MG745997.1",
+        "ON329737.1",
+        "OQ940076.1",
+        "MG746015.1",
+        "MK483909.2",
+        "MG746028.1",
+        "LC769691.1",
+        "MG746014.1",
+        "MG746038.1",
+        "MG746044.1",
+        "OQ940069.1",
+        "MW661273.1",
+        "MK752938.1",
+        "OP037979.1",
+        "MG746019.1",
+        "LC769692.1",
+        "MW661282.1",
+        "LC769684.1",
+        "MG746031.1",
+        "OQ940080.1",
+        "MG746016.1",
+        "LC769714.1",
+        "MK752936.1",
+        "OQ940073.1",
+        "MT029316.1",
+        "KY421122.1",
+        "NC_039476.1",
+        "LC790061.1",
+        "PQ215542.1",
+        "OP901694.1",
+        "MG746009.1",
+        "PQ273194.1",
+        "MG746002.1",
+        "LC790059.1",
+        "MH218685.1",
+        "LC790065.1",
+        "MK762621.1",
+        "MG746034.1",
+        "OK376261.1",
+        "LC790063.1",
+        "LC771966.1",
+        "MG746020.1",
+        "MG746010.1",
+        "MG746039.1",
+        "MT238671.1",
+        "MG746000.1",
+        "MG746040.1",
+        "PQ215545.1",
+        "MG745986.1",
+        "KY421121.1",
+        "KY771081.1",
+        "LC646333.1",
+        "MG745985.1",
+        "MG745990.1",
+        "MG745993.1",
+        "MG745994.1",
+        "MG745996.1",
+        "MG745998.1",
+        "MG745999.1",
+        "MG746001.1",
+        "MG746006.1",
+        "MG746008.1",
+        "MG746012.1",
+        "MG746013.1",
+        "MG746017.1",
+        "MG746018.1",
+        "MG746024.1",
+        "MG746025.1",
+        "MG746033.1",
+        "MG746035.1",
+        "MG746037.1",
+        "MG746042.1",
+        "MG746043.1",
+        "MH321825.1",
+        "OL898507.1",
+        "OP689558.1",
+        "MG892908.3",
+        "LC769688.1",
+        "LC769694.1",
+        "LC769695.1",
+        "LC769698.1",
+        "LC769705.1",
+        "LC790058.1",
+        "LC790060.1",
+        "LC790066.1",
+        "LC790068.1",
+        "LC790069.1",
+        "MG892929.3",
+        "MK629457.1",
+        "MK762638.1",
+        "MN897755.1",
+        "MT031761.1",
+        "OL898514.1",
+        "OL898515.1",
+        "OP037976.1",
+        "OP037977.1",
+        "OP037980.1",
+        "OP037981.1",
+        "OP037983.1",
+        "OP712198.1",
+        "OQ940068.1",
+        "OQ940072.1",
+        "OQ940077.1",
+        "OQ940078.1",
+        "OQ940081.1",
+        "MG746026.1",
+        "OK376256.1",
+        "PQ273195.1",
+        "PQ215525.1",
+        "PQ215539.1",
+        "PQ215540.1",
+        "PQ215544.1",
+        "PQ215546.1"
+      ],
+      "collection_date": {
+        "max": 2023,
+        "min": 2015
+      },
+      "genotype": [
+        "GII.P16-GII.2",
+        "GII.P16-GII.4 Sydney",
+        "GIIP16_GII.2",
+        "GII.4 Sydney[P16]",
+        "GII.P16_GII.4",
+        "GII.2[P16]",
+        "GII.2",
+        "GII.P16/GII.3",
+        "GII.P16/GII.2",
+        "GII.P16/GII.4_Sydney 2012",
+        "GII.P16, GII.4 Sydney",
+        "GII.4_Sydney_2012_GII.P16",
+        "GII.4",
+        "GII.P16/GII.4_variant _Sydney_2012",
+        "GII.2_GII.P16",
+        "GII.4_Sydney[P16]",
+        "GII.P16-GII.4",
+        "GII.P16_GII.2",
+        "GII",
+        "GII.P16/GII.13",
+        "GII.P16/GII.4_variant Sydney 2012"
+      ],
+      "geographic_region": [
+        "Asia",
+        "North America",
+        "Europe",
+        "South America",
+        "Africa"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-2"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MG892953.3"
+      ],
+      "collection_date": {
+        "max": 2017,
+        "min": 2017
+      },
+      "genotype": [
+        "GII.P16/GII.3"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-262"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH130046.1",
+        "NC_044856.1"
+      ],
+      "collection_date": {
+        "max": 2011,
+        "min": 2011
+      },
+      "genotype": [
+        "GI.Pg-GI.7",
+        "GI.7[PNA2]"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-263"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OR844373.1",
+        "LC699532.1",
+        "MH218700.1",
+        "MH218614.1",
+        "MH218623.1",
+        "MH218605.1",
+        "LC644993.1",
+        "MW981327.1",
+        "KX158280.1",
+        "MW661281.1",
+        "OR844372.1",
+        "MH218608.1",
+        "MH218627.1",
+        "MH218715.1",
+        "MH218626.1",
+        "LC744878.1",
+        "OL898511.1",
+        "KP784697.1",
+        "LC744876.1",
+        "MH218631.1",
+        "KT202795.1",
+        "MH218616.1",
+        "LC699539.1",
+        "KX158285.1",
+        "LC699530.1",
+        "MH218620.1",
+        "LC744875.1",
+        "LC699527.1",
+        "KJ955493.1",
+        "KY486271.1",
+        "LC744867.1",
+        "LC744868.1",
+        "LC744869.1",
+        "LC744870.1",
+        "LC744871.1",
+        "LC744872.1",
+        "OR844375.1",
+        "MH218699.1",
+        "PP498986.1",
+        "KF306214.1",
+        "MZ546181.1",
+        "LC699531.1",
+        "KT202798.1",
+        "OR844370.1",
+        "KP784696.1",
+        "LC790054.1",
+        "OL913976.1",
+        "KC631827.1",
+        "LC699533.1",
+        "OR844379.1",
+        "MH218638.1",
+        "OL898509.1",
+        "MH218709.1",
+        "LC744873.1",
+        "MK934772.1",
+        "KT202793.1",
+        "MT726225.1",
+        "MK789435.1",
+        "LC790053.1",
+        "MH218615.1",
+        "MH218628.1",
+        "KJ685412.1",
+        "MH218701.1",
+        "KJ649705.1",
+        "MH218622.1",
+        "KJ196283.1",
+        "KM258129.1",
+        "MH218637.1",
+        "KT202796.1",
+        "MH979230.1",
+        "MH218694.1",
+        "LC744880.1",
+        "LC744881.1",
+        "LC699541.1",
+        "LC699534.1",
+        "MZ546177.1",
+        "PP498987.1",
+        "MT712157.1",
+        "KY496327.1",
+        "MH218624.1",
+        "MH218702.1",
+        "LC744879.1",
+        "OR844383.1",
+        "MH218706.1",
+        "JX459907.1",
+        "JX459908.1",
+        "KC175323.1",
+        "KC577175.1",
+        "KJ196279.1",
+        "KJ196280.1",
+        "KJ196281.1",
+        "KJ196293.1",
+        "KJ196296.1",
+        "KM258128.1",
+        "KJ955492.1",
+        "KM272334.1",
+        "KT202794.1",
+        "KT202797.1",
+        "KX158279.1",
+        "KX586330.1",
+        "LC699529.1",
+        "LC699535.1",
+        "LC699536.1",
+        "LC699537.1",
+        "LC744874.1",
+        "LC744877.1",
+        "LN854567.1",
+        "MH218629.1",
+        "MH218632.1",
+        "MH218662.1",
+        "MH218663.1",
+        "MH218674.1",
+        "MH218705.1",
+        "MH218707.1",
+        "MH218708.1",
+        "MH218711.1",
+        "MT232050.1",
+        "MZ546176.1",
+        "MZ546178.1",
+        "MZ546179.1",
+        "MZ546180.1",
+        "MZ546183.1",
+        "OL898508.1",
+        "OL898510.1",
+        "OL913977.1",
+        "OR844371.1",
+        "OR844374.1",
+        "OR844376.1",
+        "OR844377.1",
+        "OR844380.1",
+        "OR844381.1",
+        "PP498988.1",
+        "PP658553.1",
+        "MH218625.1",
+        "LC699526.1",
+        "LC699528.1",
+        "LC699538.1",
+        "LC699540.1",
+        "LC790052.1",
+        "MN897754.1",
+        "OR844378.1",
+        "OR844382.1",
+        "MH218621.1",
+        "MH218634.1",
+        "MH218635.1"
+      ],
+      "collection_date": {
+        "max": 2023,
+        "min": 2012
+      },
+      "genotype": [
+        "GII.4",
+        "GII.Pe_GII.4",
+        "GII",
+        "GII.4_Sydney_2012_GII.P31(GII.Pe)",
+        "GII.4 Sydney[P31]",
+        "GII.Pe/GII.4_Sydney_2012",
+        "GII.Pe_GII.4_Sydney2012",
+        "GII.Pe-GII.4-Sydney",
+        "GII.4[P31]",
+        "GII.Pe_GII.4.Sydney2012",
+        "GIIPe-GII.4 sydney",
+        "GII.Pe_GII4_Sydney2012",
+        "GII-4"
+      ],
+      "geographic_region": [
+        "Asia",
+        "Europe",
+        "North America",
+        "Africa",
+        "Oceania"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense",
+        "Norovirus sp."
+      ],
+      "tax_id": [
+        "3431196",
+        "1938392"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-3"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH218644.1",
+        "MH218643.1",
+        "MH218640.1",
+        "MH218650.1",
+        "MH218719.1",
+        "KU935739.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "genotype": [
+        "GII.P7_GII.6",
+        "GII.6"
+      ],
+      "geographic_region": [
+        "Europe",
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-45"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH218651.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "genotype": [
+        "GII.P21_GII.13"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-269"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH218661.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "genotype": [
+        "GII.P7_GII.7"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-270"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH218667.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "genotype": [
+        "GII.P7_GII.6"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-271"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH218669.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "genotype": [
+        "GII.P4_GII.4"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-272"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH218692.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2016
+      },
+      "genotype": [
+        "GII.P7_GII.7"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-273"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH218730.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "genotype": [
+        "GI.Pf_GI.3"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-274"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH218731.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "genotype": [
+        "GII.Pg_GII.1"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-275"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH671553.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2016
+      },
+      "genotype": [
+        "GII.P2-GII.2"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-276"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MK159169.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2018
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Bos taurus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-277"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN227771.1",
+        "MN227777.1",
+        "MN227774.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2017
+      },
+      "genotype": [
+        "GIX.1-GII.P15"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-278"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN400355.2"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 2019
+      },
+      "genotype": [
+        "GII.4 Hong Kong[P31]"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-280"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN453359.1"
+      ],
+      "collection_date": {
+        "max": 2013,
+        "min": 2013
+      },
+      "genotype": [
+        "GII.24[P24]"
+      ],
+      "geographic_region": [
+        "South America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-282"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN480761.1"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 2019
+      },
+      "genotype": [
+        "GIII"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Bos taurus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-283"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN908340.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2018
+      },
+      "genotype": [
+        "GVI.2"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Canis lupus familiaris"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-284"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN912824.1"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 2019
+      },
+      "genotype": [
+        "GIV.2"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Canis lupus familiaris"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-285"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT031988.1"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 2019
+      },
+      "genotype": [
+        "GI.3[P3]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-286"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT089579.1"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 2019
+      },
+      "genotype": [
+        "GI.P3-GI.3"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-287"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT358379.1"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 2019
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Mus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-288"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT372466.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "genotype": [
+        "GI.3[P13]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-289"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT372467.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "genotype": [
+        "GI.3[P13]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-290"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT372474.1"
+      ],
+      "collection_date": {
+        "max": 2013,
+        "min": 2013
+      },
+      "genotype": [
+        "GI.9[P9]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-291"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT729788.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2018
+      },
+      "genotype": [
+        "GII.4 New Orleans[P4 Yerseke]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-292"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MW661253.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "genotype": [
+        "GII.17_GII.P17"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-293"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MZ312111.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2018
+      },
+      "genotype": [
+        "GII.9[P7]"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-294"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MZ573179.1"
+      ],
+      "collection_date": {
+        "max": 2021,
+        "min": 2021
+      },
+      "genotype": [
+        "GIII"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Bos taurus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-295"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "NC_044047.1"
+      ],
+      "collection_date": {
+        "max": 2007,
+        "min": 2007
+      },
+      "genotype": [
+        "GVII"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Canis lupus familiaris"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-296"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "NC_044855.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2016
+      },
+      "genotype": [
+        "GIV.NA1[PNA1]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-297"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OL757872.1"
+      ],
+      "collection_date": {
+        "max": 2017,
+        "min": 2017
+      },
+      "genotype": [
+        "GVII"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Vulpes"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-298"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OP712197.1",
+        "ON569431.1"
+      ],
+      "collection_date": {
+        "max": 2022,
+        "min": 2020
+      },
+      "genotype": [
+        "GII.3[P12]",
+        "GII.3"
+      ],
+      "geographic_region": [
+        "Europe",
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-301"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OP649638.1"
+      ],
+      "collection_date": {
+        "max": 2021,
+        "min": 2021
+      },
+      "genotype": [
+        "GI.9[P9]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-300"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OR262325.1"
+      ],
+      "collection_date": {
+        "max": 2017,
+        "min": 2017
+      },
+      "genotype": [
+        "GII.4 San Francisco[P31]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-302"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OR536491.1",
+        "OR536492.1",
+        "OR536476.1",
+        "OR536486.1",
+        "OR536482.1",
+        "OR536485.1",
+        "OR536489.1",
+        "OR536484.1",
+        "OR536483.1",
+        "OR536481.1",
+        "OR536480.1",
+        "OR536479.1",
+        "OR536470.1",
+        "OR536472.1",
+        "OR536473.1",
+        "OR536477.1",
+        "OR536478.1",
+        "OR536487.1",
+        "OR536488.1",
+        "OR536490.1",
+        "OR536469.1"
+      ],
+      "collection_date": {
+        "max": 2021,
+        "min": 2018
+      },
+      "genotype": [
+        "GII.3[P21]"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-20"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OR536475.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2018
+      },
+      "genotype": [
+        "GII.3[P21]"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-304"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "PP658552.1"
+      ],
+      "collection_date": {
+        "max": 2023,
+        "min": 2023
+      },
+      "genotype": [
+        "GII"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-305"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "PQ583779.1"
+      ],
+      "collection_date": {
+        "max": 2024,
+        "min": 2024
+      },
+      "genotype": [
+        "GI.6[P11]"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-308"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "PV275062.1"
+      ],
+      "collection_date": {
+        "max": 2023,
+        "min": 2023
+      },
+      "genotype": [
+        "GII.4 Wichita[P4]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-309"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "EU854589.1"
+      ],
+      "collection_date": {
+        "max": 2007,
+        "min": 2007
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-31"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AY823305.2"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Sus scrofa"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-36"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KY934262.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "genotype": [
+        "GI.3"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-40"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB039774.1"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-43"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KP784692.1"
+      ],
+      "collection_date": {
+        "max": 2011,
+        "min": 2011
+      },
+      "genotype": [
+        "GII.P4_Yerseke_2006a/GII.4_Apeldoorn_2007"
+      ],
+      "geographic_region": [
+        "Africa"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-46"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "GU980585.1"
+      ],
+      "collection_date": {
+        "max": 2006,
+        "min": 2006
+      },
+      "genotype": [
+        "GII.3"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-47"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JQ388274.1"
+      ],
+      "collection_date": {
+        "max": 2010,
+        "min": 2010
+      },
+      "genotype": [
+        "GI.6"
+      ],
+      "geographic_region": [
+        "Oceania"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-48"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH218645.1",
+        "MH218666.1",
+        "MH218673.1",
+        "NC_040876.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "genotype": [
+        "GII.P7_GII.6"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-51"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH218689.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2016
+      },
+      "genotype": [
+        "GII.P17_GII.17"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-53"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OP901692.1",
+        "LC790056.1",
+        "OP712196.1"
+      ],
+      "collection_date": {
+        "max": 2022,
+        "min": 2022
+      },
+      "genotype": [
+        "GII.6[P7]"
+      ],
+      "geographic_region": [
+        "Europe",
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-159"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OP690427.1"
+      ],
+      "collection_date": {
+        "max": 2021,
+        "min": 2021
+      },
+      "genotype": [
+        "GII.12[P16]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-60"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF920739.4"
+      ],
+      "collection_date": {
+        "max": 2012,
+        "min": 2012
+      },
+      "genotype": [
+        "GII.16[P16]"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-61"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT372469.1"
+      ],
+      "collection_date": {
+        "max": 2017,
+        "min": 2017
+      },
+      "genotype": [
+        "GI.7[P7]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-62"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH218591.1"
+      ],
+      "collection_date": {
+        "max": 2014,
+        "min": 2014
+      },
+      "genotype": [
+        "GII.P16_GII.17"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-63"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH218641.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "genotype": [
+        "GII.P7_GII.6"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-70"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "PQ218468.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2018
+      },
+      "genotype": [
+        "GII.4 Sydney[P31]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-71"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MG706448.1",
+        "NC_044932.1"
+      ],
+      "collection_date": {
+        "max": 2008,
+        "min": 2008
+      },
+      "genotype": [
+        "GII.PNA4-GII.NA4",
+        "GII.NA2[PNA2]"
+      ],
+      "geographic_region": [
+        "South America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-72"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OL898506.1"
+      ],
+      "collection_date": {
+        "max": 2017,
+        "min": 2017
+      },
+      "genotype": [
+        "GII.1[P33]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-74"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "FJ537137.1"
+      ],
+      "collection_date": {
+        "max": 1987,
+        "min": 1987
+      },
+      "genotype": [
+        "GII.4"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-77"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AF097917.5"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-78"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "FJ515294.1"
+      ],
+      "collection_date": {
+        "max": 2003,
+        "min": 2003
+      },
+      "genotype": [
+        "genogroup I"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "subtype": [
+        "2"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-80"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC769704.1"
+      ],
+      "collection_date": {
+        "max": 2017,
+        "min": 2017
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-82"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AF093797.1"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-83"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC646334.1"
+      ],
+      "collection_date": {
+        "max": 2020,
+        "min": 2020
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-84"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT372468.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "genotype": [
+        "GI.3[P3]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-85"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT372470.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "genotype": [
+        "GI.3[P3]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-86"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "X86557.1"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-87"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH218639.1"
+      ],
+      "collection_date": {
+        "max": 2014,
+        "min": 2014
+      },
+      "genotype": [
+        "GII.P7_GII.6"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-88"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "ON595846.1"
+      ],
+      "collection_date": {
+        "max": 2017,
+        "min": 2017
+      },
+      "geographic_region": [
+        "Oceania"
+      ],
+      "host": [
+        "Felis catus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-89"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MF973199.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2016
+      },
+      "genotype": [
+        "GV"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Mus musculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-91"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KY210920.3",
+        "MZ268408.1",
+        "MT720841.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2013
+      },
+      "genotype": [
+        "GII.P16/GII.13",
+        "GII.13[P16]"
+      ],
+      "geographic_region": [
+        "Europe",
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-122"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "EU310927.1"
+      ],
+      "genotype": [
+        "GII.4"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-93"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "FJ446720.1"
+      ],
+      "collection_date": {
+        "max": 2007,
+        "min": 2007
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Mus musculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-94"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MG601446.1"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-97"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MG572731.1",
+        "MF352143.1",
+        "MG572730.1",
+        "MF352142.1",
+        "MG572719.1",
+        "MF352144.1",
+        "MG572732.1"
+      ],
+      "collection_date": {
+        "max": 2017,
+        "min": 2014
+      },
+      "genotype": [
+        "GII.P26_GII.26"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-10"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JQ237823.1",
+        "EU004676.1"
+      ],
+      "collection_date": {
+        "max": 2005,
+        "min": 2005
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Mus musculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-104"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC209445.1",
+        "LC209466.1",
+        "LC209455.1",
+        "LC209461.1",
+        "LC209433.1",
+        "LC209443.1",
+        "LC209454.1",
+        "LC209442.1",
+        "LC209456.1",
+        "LC209431.1",
+        "LC209432.1",
+        "LC209434.1",
+        "LC209441.1",
+        "LC209444.1",
+        "LC209450.1",
+        "LC209458.1",
+        "LC209470.1",
+        "LC209475.1",
+        "LC209476.1",
+        "LC209477.1"
+      ],
+      "collection_date": {
+        "max": 2014,
+        "min": 2009
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-106"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KJ407076.1",
+        "KC013592.1"
+      ],
+      "collection_date": {
+        "max": 2004,
+        "min": 2001
+      },
+      "genotype": [
+        "GII.4"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-101"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "PQ273200.1",
+        "PQ273185.1",
+        "PQ273182.1",
+        "MG601447.1",
+        "MT755733.1",
+        "OP901693.1",
+        "PQ273184.1",
+        "PQ273190.1"
+      ],
+      "collection_date": {
+        "max": 2022,
+        "min": 2019
+      },
+      "genotype": [
+        "GII.3",
+        "GII.3[P12]"
+      ],
+      "geographic_region": [
+        "North America",
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-11"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MW661275.1",
+        "MT731279.1",
+        "MW661274.1"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 2019
+      },
+      "genotype": [
+        "GII.6_GII.P7",
+        "GII.6[P7]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-111"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "GU594162.1",
+        "KJ196297.1",
+        "GU017903.2",
+        "KJ196278.1"
+      ],
+      "collection_date": {
+        "max": 2008,
+        "min": 2007
+      },
+      "genotype": [
+        "GII.14",
+        "GII.P7_GII.14"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-112"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC769707.1",
+        "MK764016.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2018
+      },
+      "genotype": [
+        "GII.P16-GII.4 Sydney"
+      ],
+      "geographic_region": [
+        "Asia",
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-113"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT724793.1",
+        "MK764040.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2016
+      },
+      "genotype": [
+        "GII.2[P2]",
+        "GII.P2-GII.2"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-116"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "PP549882.1",
+        "PP549884.1",
+        "PP549879.1",
+        "PP549880.1",
+        "PP549878.1",
+        "PP549876.1",
+        "PP549877.1",
+        "PP549881.1",
+        "PP549883.1",
+        "PP549885.1",
+        "PP661667.1"
+      ],
+      "collection_date": {
+        "max": 2024,
+        "min": 2023
+      },
+      "genotype": [
+        "GII.4 Sydney[P16]",
+        "GII.4 Sydney[P16]#",
+        "GII.4[P16]"
+      ],
+      "geographic_region": [
+        "Asia",
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-115"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "FJ537134.1",
+        "FJ537138.1",
+        "JX023286.1"
+      ],
+      "collection_date": {
+        "max": 1977,
+        "min": 1974
+      },
+      "genotype": [
+        "GII.4"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-114"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT372477.1",
+        "MZ227264.1",
+        "MZ227265.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2016
+      },
+      "genotype": [
+        "GI.6[P11]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-119"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT712130.1",
+        "MT712147.1",
+        "KC464499.1",
+        "KC464496.1",
+        "JQ613568.1",
+        "HQ449728.1",
+        "HQ664990.1",
+        "GQ845370.2",
+        "JQ613569.1",
+        "KC464497.1",
+        "KC464498.1",
+        "KC464500.1"
+      ],
+      "collection_date": {
+        "max": 2014,
+        "min": 2008
+      },
+      "genotype": [
+        "GII.6[P7]",
+        "GII.8[P8]",
+        "GII.12",
+        "GII.g-GII.12"
+      ],
+      "geographic_region": [
+        "North America",
+        "Asia",
+        "Oceania"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-12"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH218735.1",
+        "MH218737.1",
+        "MH218655.1",
+        "MH218736.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "genotype": [
+        "GII.P2_GII.2"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-124"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MK483908.2",
+        "MG572182.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2017
+      },
+      "genotype": [
+        "GII.P16/GII.1",
+        "GII.P16-GII.1"
+      ],
+      "geographic_region": [
+        "Europe",
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-134"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AY237415.2",
+        "AF504671.2"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-131"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH218734.1",
+        "MK753015.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2015
+      },
+      "genotype": [
+        "GII.P2_GII.2",
+        "GII.P2-GII.2"
+      ],
+      "geographic_region": [
+        "Europe",
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-128"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OR084254.1",
+        "MH218721.1",
+        "MH218723.1"
+      ],
+      "collection_date": {
+        "max": 2017,
+        "min": 2014
+      },
+      "genotype": [
+        "GI",
+        "GI.Pd_GI.3"
+      ],
+      "geographic_region": [
+        "Asia",
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-141"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KC576909.1",
+        "KC576912.1"
+      ],
+      "collection_date": {
+        "max": 2011,
+        "min": 2011
+      },
+      "genotype": [
+        "GII.4"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-146"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH218656.1",
+        "KF306212.1",
+        "MH218649.1",
+        "MH218720.1",
+        "MZ223426.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2013
+      },
+      "genotype": [
+        "GI.P2_GI.2",
+        "GI.2[P2]"
+      ],
+      "geographic_region": [
+        "Europe",
+        "Asia",
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-15"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT372464.1",
+        "MT372465.1"
+      ],
+      "collection_date": {
+        "max": 2017,
+        "min": 2017
+      },
+      "genotype": [
+        "GI.2[P2]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-155"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OQ342793.1",
+        "OP690505.1",
+        "OL451532.1",
+        "OL451533.1"
+      ],
+      "collection_date": {
+        "max": 2022,
+        "min": 2021
+      },
+      "genotype": [
+        "GII.3/GII.P25",
+        "GII.3[P25]"
+      ],
+      "geographic_region": [
+        "Asia",
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-167"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB084071.1",
+        "AB039776.1",
+        "AB039777.1"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-162"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "PQ215579.1",
+        "MT026582.1",
+        "MT725762.1",
+        "PQ215578.1"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 2017
+      },
+      "genotype": [
+        "GII.4 Sydney[P4]",
+        "GII.4[P4]",
+        "GII.4 Sydney[P4 New Orleans]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-161"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "PQ310459.1",
+        "PQ304633.1"
+      ],
+      "collection_date": {
+        "max": 2023,
+        "min": 2023
+      },
+      "genotype": [
+        "GII.17[P17]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-163"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC769701.1",
+        "LC769681.1"
+      ],
+      "collection_date": {
+        "max": 2021,
+        "min": 2018
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-169"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF944110.2",
+        "OL943801.1",
+        "KT779557.1",
+        "KF944111.3"
+      ],
+      "collection_date": {
+        "max": 2013,
+        "min": 2011
+      },
+      "genotype": [
+        "GII.3[P16]"
+      ],
+      "geographic_region": [
+        "Europe",
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-176"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OR536468.1",
+        "OR536466.1",
+        "OR536467.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2015
+      },
+      "genotype": [
+        "GII.3[P21]"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-172"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "EU004675.1",
+        "EU004672.1"
+      ],
+      "collection_date": {
+        "max": 2005,
+        "min": 2005
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Mus musculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-190"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB541266.1",
+        "AB541219.1",
+        "AB541261.1",
+        "AB541221.1",
+        "AB541275.1",
+        "AB541356.1"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-19"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF113527.1",
+        "KF113526.1"
+      ],
+      "collection_date": {
+        "max": 2008,
+        "min": 2008
+      },
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Mus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-177"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KY442319.1",
+        "KY442320.1"
+      ],
+      "collection_date": {
+        "max": 1972,
+        "min": 1972
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-191"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB039781.1",
+        "AB039782.1"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-196"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC369222.1",
+        "LC369252.1",
+        "LC369221.1",
+        "PP587392.1",
+        "KT970370.1",
+        "LC369224.1",
+        "LC369248.1",
+        "LC369234.1",
+        "KU757051.1",
+        "KU561249.1",
+        "KT970372.1",
+        "LC037415.1",
+        "LC369251.1",
+        "LC043168.1",
+        "KT380915.1",
+        "LC369225.1",
+        "LC848162.1",
+        "LC369218.1",
+        "MK282256.1",
+        "LC369235.1",
+        "LC369245.1",
+        "PQ373124.1",
+        "KU757046.1",
+        "MZ291631.1",
+        "KU757047.1",
+        "LC369229.1",
+        "MF918359.2",
+        "LC369247.1",
+        "MK282258.1",
+        "PQ373127.1",
+        "LC369237.1",
+        "KU561256.1",
+        "PP587393.1",
+        "MK789432.1",
+        "KU561253.1",
+        "LC369244.1",
+        "LC369255.1",
+        "LC369227.1",
+        "KU757048.1",
+        "MT729791.1",
+        "KU757049.1",
+        "KP998539.1",
+        "LC644992.1",
+        "LC369215.1",
+        "KT970375.1",
+        "LC369220.1",
+        "PQ373123.1",
+        "KU757052.1",
+        "LC369233.1",
+        "LC369239.1",
+        "LC369241.1",
+        "LC369228.1",
+        "PQ373122.1",
+        "PQ373121.1",
+        "KX356908.1",
+        "LC369230.1",
+        "AB983218.1",
+        "KT253245.1",
+        "KT970369.1",
+        "KT970371.1",
+        "KT970373.1",
+        "KT970374.1",
+        "KT970376.1",
+        "KT970377.1",
+        "KU561248.1",
+        "KU561250.1",
+        "KU561251.1",
+        "KU561252.1",
+        "KU561254.1",
+        "NC_039475.1",
+        "KU561255.1",
+        "KU757050.1",
+        "LC043167.1",
+        "LC369214.1",
+        "LC369216.1",
+        "LC369217.1",
+        "LC369219.1",
+        "LC369231.1",
+        "LC369232.1",
+        "LC369236.1",
+        "LC369238.1",
+        "LC369240.1",
+        "LC369242.1",
+        "LC369243.1",
+        "LC369246.1",
+        "LC369249.1",
+        "LC369253.1",
+        "LC369254.1",
+        "LC369256.1",
+        "LC369257.1",
+        "LC369258.1",
+        "MG692610.1",
+        "MK282257.1",
+        "MN853414.1",
+        "OR062612.1",
+        "PP381824.1",
+        "PQ273196.1",
+        "PQ373120.1",
+        "PQ373126.1",
+        "PV635313.1"
+      ],
+      "collection_date": {
+        "max": 2024,
+        "min": 2013
+      },
+      "genotype": [
+        "GII",
+        "GII.P17_GII.17",
+        "GII.17",
+        "GIIP.17_GII.17",
+        "GII.17[P17]",
+        "GII.P17-GII.17"
+      ],
+      "geographic_region": [
+        "Asia",
+        "Europe",
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens",
+        "Macaca mulatta"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-1"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB541274.1",
+        "AB541320.1",
+        "AB541268.1",
+        "AB541310.1",
+        "HM748973.2",
+        "AB541202.1",
+        "AB541322.1",
+        "JX459903.1",
+        "JX439815.1",
+        "AB933729.1",
+        "KF429768.1",
+        "AB541272.1",
+        "JX439818.1",
+        "AB933759.1",
+        "AB541312.1",
+        "AB541318.1",
+        "KC409311.1",
+        "HQ009513.1",
+        "JX439816.1"
+      ],
+      "collection_date": {
+        "max": 2012,
+        "min": 2008
+      },
+      "genotype": [
+        "GII.4",
+        "GII",
+        "II"
+      ],
+      "geographic_region": [
+        "Asia",
+        "Oceania",
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-18"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB039778.1",
+        "AB039779.1"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-194"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB541329.1",
+        "AB933655.1"
+      ],
+      "collection_date": {
+        "max": 2009,
+        "min": 2009
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-206"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB933724.1",
+        "JX459905.1"
+      ],
+      "collection_date": {
+        "max": 2011,
+        "min": 2011
+      },
+      "genotype": [
+        "GII.4"
+      ],
+      "geographic_region": [
+        "Asia",
+        "Oceania"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-209"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB933740.1",
+        "KP784691.1"
+      ],
+      "collection_date": {
+        "max": 2009,
+        "min": 2009
+      },
+      "genotype": [
+        "GII.P4_New_Orleans_2009/GII.4_Hunter_2004"
+      ],
+      "geographic_region": [
+        "Asia",
+        "Africa"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-210"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC209469.1",
+        "DQ456824.1",
+        "LC209436.1",
+        "LC209437.1",
+        "LC209438.1",
+        "LC209464.1"
+      ],
+      "collection_date": {
+        "max": 2014,
+        "min": 2004
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-21"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KC662537.1",
+        "KJ196276.1",
+        "LC209435.1"
+      ],
+      "collection_date": {
+        "max": 2004,
+        "min": 2002
+      },
+      "genotype": [
+        "GII",
+        "GII.P12_GII.13"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-228"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC868437.1",
+        "PQ310522.1",
+        "PQ373131.1",
+        "LC868436.1",
+        "LC868427.1",
+        "LC868435.1",
+        "PV765571.1",
+        "LC868438.1",
+        "OP689689.1",
+        "PQ310520.1",
+        "PQ373138.1",
+        "PQ310518.1",
+        "LC868431.1",
+        "LC868430.1",
+        "PQ310521.1",
+        "LC868428.1",
+        "LC868429.1",
+        "LC868432.1",
+        "PQ373132.1",
+        "OP712199.1",
+        "PQ304611.1",
+        "PQ304614.1",
+        "PV765567.1",
+        "LC868426.1",
+        "LC868433.1",
+        "LC868434.1",
+        "PQ310519.1",
+        "PQ373139.1",
+        "PQ373140.1",
+        "PQ373142.1",
+        "PQ304610.1",
+        "PQ310235.1",
+        "PQ373133.1"
+      ],
+      "collection_date": {
+        "max": 2025,
+        "min": 2022
+      },
+      "genotype": [
+        "GII.17[P17]",
+        "GII.17",
+        "GII.p17"
+      ],
+      "geographic_region": [
+        "Asia",
+        "Europe",
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-23"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF306213.1",
+        "OL913975.1"
+      ],
+      "collection_date": {
+        "max": 2013,
+        "min": 2012
+      },
+      "genotype": [
+        "GII.3[P12]"
+      ],
+      "geographic_region": [
+        "Asia",
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-229"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KF429760.1",
+        "KF429787.1"
+      ],
+      "collection_date": {
+        "max": 2012,
+        "min": 2012
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-230"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH218597.1",
+        "MH218690.1",
+        "MH218653.1",
+        "MH218732.1",
+        "MH218675.1",
+        "MH218712.1",
+        "MH218576.1",
+        "MH218588.1",
+        "MH218672.1",
+        "MH218681.1",
+        "MH218571.1",
+        "MH218654.1",
+        "MH218678.1",
+        "MH218589.1",
+        "MH218680.1",
+        "MH218580.1",
+        "MH218593.1",
+        "MH218601.1",
+        "MH218668.1",
+        "MH218688.1",
+        "MH218646.1",
+        "MH218582.1",
+        "MH218604.1",
+        "MH218602.1",
+        "MH218570.1",
+        "MH218738.1",
+        "MH218595.1",
+        "MH218587.1",
+        "MH218676.1",
+        "MH218671.1",
+        "MH218682.1",
+        "MH218630.1",
+        "MH218581.1",
+        "MH218693.1",
+        "LN854569.1",
+        "MH218572.1",
+        "MH218574.1",
+        "MH218575.1",
+        "MH218577.1",
+        "MH218578.1",
+        "MH218579.1",
+        "MH218590.1",
+        "MH218592.1",
+        "MH218594.1",
+        "MH218599.1",
+        "MH218600.1",
+        "MH218660.1",
+        "MH218677.1",
+        "MH218679.1",
+        "MH218683.1",
+        "MH218686.1",
+        "MH218583.1",
+        "MH218596.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2014
+      },
+      "genotype": [
+        "GII.P21_GII.3"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-4"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "PQ215575.1",
+        "MH218704.1",
+        "MH218703.1",
+        "MH218710.1",
+        "MH218713.1",
+        "OL898516.1",
+        "MH218716.1",
+        "MH218606.1",
+        "MH218619.1",
+        "MH218610.1",
+        "MH218718.1",
+        "MH218698.1",
+        "MH218609.1",
+        "MH218611.1",
+        "MH218613.1",
+        "MH218633.1",
+        "MH218636.1",
+        "MH218695.1",
+        "MH218617.1",
+        "MH218714.1"
+      ],
+      "collection_date": {
+        "max": 2017,
+        "min": 2014
+      },
+      "genotype": [
+        "GII.4 Sydney[P4]",
+        "GII.P4_GII.4",
+        "GII.4 Sydney[P4 New Orleans]"
+      ],
+      "geographic_region": [
+        "North America",
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-7"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OR397767.1",
+        "OR397787.1",
+        "OR397785.1",
+        "OR397766.1",
+        "OR397776.1",
+        "OR397777.1",
+        "OR397772.1",
+        "OR397778.1",
+        "OR397783.1",
+        "OR397784.1",
+        "OR397768.1",
+        "OR397769.1",
+        "OR397770.1",
+        "OR397771.1",
+        "OR397773.1",
+        "OR397774.1",
+        "OR397775.1",
+        "OR397779.1",
+        "OR397780.1",
+        "OR397781.1",
+        "OR397782.1",
+        "OR397786.1",
+        "OR397788.1"
+      ],
+      "collection_date": {
+        "max": 2022,
+        "min": 2021
+      },
+      "genotype": [
+        "GII.1"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Macaca mulatta"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-27"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN447470.1",
+        "MN447471.1"
+      ],
+      "collection_date": {
+        "max": 2008,
+        "min": 2008
+      },
+      "genotype": [
+        "GII.16[P16]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-281"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT357991.1",
+        "MT357992.1",
+        "MT357993.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2018
+      },
+      "genotype": [
+        "GI.1[P1]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-28"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "PQ626688.1",
+        "OR050583.1",
+        "MN227772.1",
+        "OR050586.1",
+        "MN227773.1",
+        "OR050585.1",
+        "OR050582.1",
+        "OR050584.1"
+      ],
+      "collection_date": {
+        "max": 2023,
+        "min": 2017
+      },
+      "genotype": [
+        "GIX.1[GII.P15]",
+        "GIX.1-GII.P15"
+      ],
+      "geographic_region": [
+        "Asia",
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-30"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KJ196299.1",
+        "KJ196282.1",
+        "NC_029646.1"
+      ],
+      "collection_date": {
+        "max": 2001,
+        "min": 2001
+      },
+      "genotype": [
+        "GII.P12_GII.12"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-164"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB039775.1",
+        "KJ196294.1",
+        "AB045603.2"
+      ],
+      "collection_date": {
+        "max": 2000,
+        "min": 2000
+      },
+      "genotype": [
+        "GII.P12_GII.12"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-29"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "PQ100946.1",
+        "LC877021.1",
+        "LC877024.1",
+        "PQ100947.1",
+        "LC877034.1",
+        "LC877026.1",
+        "LC877029.1",
+        "LC877031.1",
+        "PQ100949.1",
+        "PQ100948.1",
+        "LC877023.1",
+        "LC877030.1",
+        "LC877025.1",
+        "LC877028.1",
+        "LC877033.1",
+        "LC877022.1",
+        "LC877027.1",
+        "LC877032.1"
+      ],
+      "collection_date": {
+        "max": 2025,
+        "min": 2024
+      },
+      "genotype": [
+        "GII.7[P7]"
+      ],
+      "geographic_region": [
+        "Europe",
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-33"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JQ798158.1",
+        "AY587988.1",
+        "AY587989.1",
+        "JX126912.1",
+        "AY485642.1",
+        "JX126913.1",
+        "AY581254.1",
+        "AY587983.1",
+        "AY587984.1",
+        "AY587985.1",
+        "AY587986.1",
+        "AY587987.1",
+        "DQ658413.1"
+      ],
+      "collection_date": {
+        "max": 2012,
+        "min": 2004
+      },
+      "genotype": [
+        "GII.4"
+      ],
+      "geographic_region": [
+        "North America",
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-34"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB541267.1",
+        "AB447458.1",
+        "AB447432.1",
+        "AB447433.1"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-35"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "OM992315.1",
+        "OR702991.1",
+        "ON076888.1"
+      ],
+      "collection_date": {
+        "max": 2021,
+        "min": 2020
+      },
+      "genotype": [
+        "GIII.2"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Bos taurus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense",
+        "Bovine norovirus"
+      ],
+      "tax_id": [
+        "3431196",
+        "3090774"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-39"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC342058.1",
+        "LC342057.1",
+        "NC_044853.1"
+      ],
+      "collection_date": {
+        "max": 1998,
+        "min": 1998
+      },
+      "genotype": [
+        "GI.6[PNA4]"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-38"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "EU004664.1",
+        "EU004671.1"
+      ],
+      "collection_date": {
+        "max": 2005,
+        "min": 2005
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Mus musculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-37"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MN462922.1",
+        "MN473468.1",
+        "MN227775.1",
+        "MN227770.1",
+        "MN227776.1",
+        "MW228040.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2017
+      },
+      "genotype": [
+        "GII.P15-GIX.1",
+        "GIX.1-GII.P15",
+        "GIX.1[GII.P15]"
+      ],
+      "geographic_region": [
+        "Asia",
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-32"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KT589391.1",
+        "OL943802.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2013
+      },
+      "genotype": [
+        "GII.17[P31]"
+      ],
+      "geographic_region": [
+        "Asia",
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-42"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB435514.1",
+        "AB435515.1"
+      ],
+      "collection_date": {
+        "max": 2005,
+        "min": 2005
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-44"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "PV275060.1",
+        "PV275052.1",
+        "PV275046.1",
+        "PV275040.1",
+        "PV275044.1",
+        "PV275045.1"
+      ],
+      "collection_date": {
+        "max": 2024,
+        "min": 2023
+      },
+      "genotype": [
+        "GII.4 San Francisco[P31]"
+      ],
+      "geographic_region": [
+        "South America",
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-49"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JX023285.1",
+        "KF429761.1",
+        "KF429774.1",
+        "KF429789.1",
+        "KF039731.1",
+        "KF039737.1",
+        "KF039734.1",
+        "KF039725.1",
+        "KF429783.1",
+        "KF039733.1",
+        "KF039729.1",
+        "KF039726.1",
+        "KF039727.1",
+        "KF039728.1",
+        "KF039736.1",
+        "KF039730.1",
+        "KF039732.1",
+        "KF039735.1",
+        "KF429765.1",
+        "KF429770.1",
+        "KF429773.1",
+        "NC_001959.2"
+      ],
+      "collection_date": {
+        "max": 2011,
+        "min": 1968
+      },
+      "genotype": [
+        "GI.1"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-52"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JN400599.1",
+        "MH413070.1",
+        "DQ078814.2"
+      ],
+      "collection_date": {
+        "max": 2008,
+        "min": 2006
+      },
+      "genotype": [
+        "GII.4"
+      ],
+      "geographic_region": [
+        "Asia",
+        "North America",
+        "Oceania"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "serogroup": [
+        "GII-4"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-50"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JX459900.1",
+        "OL943800.1",
+        "KF429776.1",
+        "KF712501.1",
+        "KF429790.1",
+        "KF712491.1",
+        "KF712498.1",
+        "KF712502.1",
+        "OL943799.1",
+        "PQ213436.1",
+        "PQ213437.1"
+      ],
+      "collection_date": {
+        "max": 2013,
+        "min": 2010
+      },
+      "genotype": [
+        "GII.4",
+        "GII.4 New Orleans[P4 New Orleans]",
+        "GII.4 Den Haag[P4 Den Haag]",
+        "GII.4 New Orleans[P4]"
+      ],
+      "geographic_region": [
+        "Oceania",
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-56"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "EU004681.1",
+        "EU004682.1"
+      ],
+      "collection_date": {
+        "max": 2005,
+        "min": 2005
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Mus musculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-54"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MT357996.1",
+        "MT357995.1",
+        "LC646339.1",
+        "PQ583776.1"
+      ],
+      "collection_date": {
+        "max": 2023,
+        "min": 2018
+      },
+      "genotype": [
+        "GI.6[P11]"
+      ],
+      "geographic_region": [
+        "North America",
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-55"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MW661272.1",
+        "MW661266.1",
+        "MW661271.1"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 2019
+      },
+      "genotype": [
+        "GII.1_GII.P16"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-57"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH218657.1",
+        "MH218697.1",
+        "MH218733.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2014
+      },
+      "genotype": [
+        "GII.Pe_GII.2"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-59"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "EU004657.1",
+        "EU004660.1",
+        "KM102450.1",
+        "EU004662.1",
+        "DQ285629.1",
+        "NC_008311.1",
+        "EF014462.1",
+        "EU004656.1",
+        "EU004661.1",
+        "EU004654.1",
+        "AY228235.2",
+        "EU004655.1",
+        "EU004658.1",
+        "EU004659.1",
+        "KC782764.1"
+      ],
+      "collection_date": {
+        "max": 2013,
+        "min": 2002
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Mus musculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-6"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH218603.1",
+        "MH218584.1",
+        "MH218618.1",
+        "MH218573.1",
+        "MH218585.1",
+        "MH218586.1",
+        "MH218598.1",
+        "MH218696.1",
+        "MH218717.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2014
+      },
+      "genotype": [
+        "GII.P21_GII.3"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-64"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KC894731.1",
+        "JQ613567.1",
+        "NC_029647.1"
+      ],
+      "collection_date": {
+        "max": 2011,
+        "min": 2010
+      },
+      "genotype": [
+        "GIV",
+        "GIV.1"
+      ],
+      "geographic_region": [
+        "Asia",
+        "Oceania"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-66"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "AB541319.1",
+        "AB541325.1",
+        "AB541321.1",
+        "AB541323.1",
+        "GQ845369.3"
+      ],
+      "collection_date": {
+        "max": 2008,
+        "min": 2008
+      },
+      "genotype": [
+        "GII.4"
+      ],
+      "geographic_region": [
+        "Asia",
+        "Oceania"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-67"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KY496328.1",
+        "MN453358.1"
+      ],
+      "collection_date": {
+        "max": 2011,
+        "min": 2010
+      },
+      "genotype": [
+        "GII",
+        "GII.23[P23]"
+      ],
+      "geographic_region": [
+        "South America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-68"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "PQ273187.1",
+        "OP690425.1",
+        "OP690426.1"
+      ],
+      "collection_date": {
+        "max": 2022,
+        "min": 2022
+      },
+      "genotype": [
+        "GII.6",
+        "GII.6[P7]"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-69"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC769706.1",
+        "LC769709.1"
+      ],
+      "collection_date": {
+        "max": 2018,
+        "min": 2017
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-73"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC209472.1",
+        "LC209465.1",
+        "LC209473.1",
+        "LC209474.1"
+      ],
+      "collection_date": {
+        "max": 2010,
+        "min": 2010
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-79"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KP407450.1",
+        "MT372476.1",
+        "KJ196298.1"
+      ],
+      "collection_date": {
+        "max": 2010,
+        "min": 2007
+      },
+      "genotype": [
+        "GI.P8_GI.8",
+        "GI.8[P8]"
+      ],
+      "geographic_region": [
+        "Asia",
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-81"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH218647.1",
+        "MH218664.1",
+        "MH218725.1",
+        "MH218722.1",
+        "MH218659.1",
+        "MH218724.1",
+        "MH218726.1",
+        "MH218727.1",
+        "MH218728.1",
+        "MH218729.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2014
+      },
+      "genotype": [
+        "GI.P3_GI.3"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-76"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "DQ369797.1",
+        "AB220921.1",
+        "AB447448.1"
+      ],
+      "geographic_region": [
+        "Asia"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-95"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC769712.1",
+        "LC769713.1",
+        "LC769682.1",
+        "LC769689.1",
+        "LC769715.1"
+      ],
+      "collection_date": {
+        "max": 2019,
+        "min": 2018
+      },
+      "geographic_region": [
+        "Asia"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-98"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "LC209481.1",
+        "LC209471.1",
+        "LC209479.1",
+        "LC209449.1",
+        "LC209468.1",
+        "KJ407074.2",
+        "LC209447.1",
+        "LC209451.1",
+        "LC209448.1",
+        "LC209480.1",
+        "LC209446.1",
+        "LC209452.1",
+        "LC209453.1",
+        "LC209459.1",
+        "LC209460.1",
+        "LC209467.1",
+        "LC209478.1",
+        "MW661246.1"
+      ],
+      "collection_date": {
+        "max": 2012,
+        "min": 2010
+      },
+      "genotype": [
+        "GII.2",
+        "GII.2_GII.P16"
+      ],
+      "geographic_region": [
+        "Asia",
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-9"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "MH218691.1",
+        "MH218612.1",
+        "MH218652.1",
+        "MH218665.1",
+        "MH218670.1"
+      ],
+      "collection_date": {
+        "max": 2016,
+        "min": 2014
+      },
+      "genotype": [
+        "GII.P4_GII.4"
+      ],
+      "geographic_region": [
+        "Europe"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-90"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "JF320651.1",
+        "JF320646.1",
+        "JF320644.1",
+        "JF320645.1",
+        "JF320647.1",
+        "JF320648.1",
+        "JF320649.1",
+        "JF320650.1"
+      ],
+      "collection_date": {
+        "max": 2005,
+        "min": 2005
+      },
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Mus musculus"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-96"
+  },
+  {
+    "metadata": {
+      "accessions": [
+        "KX158281.1",
+        "KX158282.1",
+        "LN854568.1"
+      ],
+      "collection_date": {
+        "max": 2015,
+        "min": 2015
+      },
+      "genotype": [
+        "GII"
+      ],
+      "geographic_region": [
+        "North America"
+      ],
+      "host": [
+        "Homo sapiens"
+      ],
+      "segment": [
+        "wg"
+      ],
+      "species": [
+        "Norovirus norwalkense"
+      ],
+      "tax_id": [
+        "3431196"
+      ],
+      "taxon": [
+        "Norovirus"
+      ]
+    },
+    "method": "consensus",
+    "name": "Norovirus-wg-99"
+  }
+]
