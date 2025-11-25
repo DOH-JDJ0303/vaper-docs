@@ -15,7 +15,7 @@ permalink: /docs/v2.0/pages/usage/overview/
 
 # What is VAPER?
 ## Flowchart
-![](../../../media/VAPER-1.0.drawio.png)
+![](../../../media/vaper-v2.0.png)
 
 ## Key Features
 VAPER (<ins>V</ins>iral <ins>A</ins>ssembly from <ins>P</ins>robe-based <ins>E</ins>n<ins>r</ins>ichment) is a viral (meta-)assembly pipeline that can:
