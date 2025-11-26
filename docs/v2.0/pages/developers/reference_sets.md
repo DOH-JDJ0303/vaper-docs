@@ -10,28 +10,86 @@ permalink: /docs/v2.0/pages/developers/reference_sets/
 # **{{ page.title }}**
 This page provides an overview of the use, structure, and creation of VAPER reference sets.
 
-{: .important}
-Reference sets in VAPER v1.6 will likely using a JSON formatted refsheet.
-
 ## Using Reference Sets
-Reference sets can be specified using the `--refs` parameter (learn more [here](../../../usage/inputs/index.html#--refs))
+Reference sets can be specified using the `--ref_set` parameter (learn more [here](../../../usage/inputs/index.html#--refs))
 
 ## Creating Reference sets
-### The Refsheet
-The _refsheet_ is a comma-separated file containing the paths to each reference assembly file (like a _samplesheet_ but for references 😬). Information about each reference (e.g., species, segment, creation date, source, etc.,) can be supplied by adding extra columns to the _refsheet_ (this is totally optional - name the columns whatever you want!). This extra info will be copied into the `VAPER-summary.csv` each time the reference genome is used.
+VAPER accepts reference sets in comma-separated (`CSV`) or JSON lines (`JSONL`) format. See below for examples of each:
 
-Below is an example of what a `refsheet` looks like:
+---
 
-`refsheet.csv`
+### CSV Format
+The table below show column names that can be supplied when using comma-separated reference sets. The only **required** column is `assembly` - all others are optional. Additional columns can also be included but will always be interpreted as `strings`.
+
+|Column Name|Description|
+|-|-|
+|assembly|Path to reference assembly (*Required*)|
+|taxon|Taxonomic classification (default reference set uses genus level) |
+|species|Species-level classification (default reference set using NCBI taxonomy names) |
+|segment|Genome segment name (defaults to `wg`) |
+|*|All _extra_ columns are placed in the `metadata` field of each reference. All values are interpreted as `strings` |
+
+> #### Example:
+> `references.csv`:
+> ```
+> assembly,taxon,species,segment,serotype
+> /path/to/assembly.fa.gz,Orthoreovirus,Orthoreovirus mammalis,3,T2
+> ```
+
+{: .note}
+Reference sets supplied as CSV files are converted to JSONL format and saved to the `outdir`.
+
+----
+
+### JSONL Format
+Using JSONL format takes a bit more set up but is much more program-friendly and easier to share. In this format, each line represents a single reference genome. This line includes both the reference sequence and any associated metadata. Like the CSV format, `sequence` is the only required field; however, there are multiple other fields that can be included to improve reference filtering and post-assembly interpretation. The example below shows a reference line created using EPITOME:
+
+### Example
+`references.jsonl`
+```json
+{
+  "taxon": "Orthoreovirus",
+  "segment": "3",
+  "variant": "1",
+  "timestamp": "2025-11-22 00:31:27",
+  "sequence": "GCTAATCGTCAGGATGAAGCGGATTCCAAGGAAGACAAAAGGCAAATCCAGCGGAAAAGGTAATGATTCAACATCGAGGTCCGACGATGGCTCGAGTCAATTGCGAGATAAGCAGAGCAATAAGGCTAGTCCGTCTACTGTGGAGCCTGGTACATCCAGTCGTGAGCAATATAAGGCTCGACCAGGAATTGCGTCCGTACAGAAAGCTACTGAGAGCGCAGAACTACCTATGAAAAACAATGATGAAGGGACGCCCGACAAGAAGGGAAATACCAAAGGCGAGTTAGTTAATGAGCATGTTGAGGCCAAAGATGAGGCAGATGATGCGACGAAGAAACAGGCGAAGGATACGGACAAAACCAAAGCACAAGTTACATATTCAGACACTGGCATTAATAATGCGAACGAACTGTCAAGATCAGGAAACGTGGATAACGAGGGCGGTAGTAATCAGAAGCCAATGTCTACTAGGATAGCTGAGGCGACATCTGCTATAGTATCAAAACATCCTGCGCGTGTGGGATTGCCGCCTACAGCCAGCAGTGGCCATGGATATCAATGTCATGTGTGCTCAGCAGTTCTATTCAGTCCTTTAGATTTGGATGCTCACGTTGCTTCACATGGCTTGCACGGGAACATGACACTGACATCGAGCGAGATTCAACGGCATATAACTGAATTTATTAGTTCATGGCAAAATCATCCTATCGTTCAGGTTTCAGCTGACGTCGAAAACAAGAAAACCGCTCAATTGCTGCATGCTGATACTCCTCGACTTGTTACTTGGGATGCAGGCTTATGCACCTCATTCAAGATCGTACCGATCGTGCCGGCACAGGTGCCTCAAGACGTACTGGCGTATACATTCTTCACCTCTTCGTACGCTATTCAGTCTCCGTTTCCTGAGGCTGCAGTGTCTAGAATTGTGGTGCATACGAGATGGGCATCTAACGTTGATTTCGACCGAGACTCATCCGTTATCATGGCGCCGCCCACGGAGAACAACATACATCTGTTTAAACAGTTATTGAATACTGAGACTTTGTCGGTGCGAGGCGCCAATCCGTTAATGTTCCGAGCGAATGTACTGCATATGCTATTAGAATTTGTATTGGACAACTTGTATCTGAATAGGCACACGGGGTTTTCCCAAGATCATACGCCATTCACTGAGGGTGCCAACTTACGCTCGCTTCCAGGCCCTGACGCTGAAAAATGGTACTCGATTATGTATCCAACGCGCATGGGTACGCCGAACGTGTCAAAGATATGCAATTTCGTCGCATCTTGTGTGAGAAATAGGGTTGGGCGATTCGATCGAGCTCAGATGATGAATGGAGCCATGTCGGAATGGGTGGATGTCTTCGAGACCTCAGACGCGTTAACCGTTTCTATTCGAGGCAGATGGATGGCTAGATTGGCTCGGATGAATATAAACCCAACAGAAATTGAGTGGGCGTTAACCGAGTGTGCTCAAGGATATGTAACTGTCACGAGTCCCTATGCGCCTAGCGTAAATAGACTGATGCCGTACCGGATTTCCAATGCCGAGCGACAGATCTCCCAGATAATCAGAATCATGAATATTGGCAATAATGCGACTGTGATACAACCCGTTCTGCAAGACATTTCGGTGCTTCTTCAACGCATATCACCACTCCAGATAGATCCAACCATCATTTCCAACACGATGTCAACAGTCTCTGAATCTACTACCCAAACTCTTAGCCCTGCATCGTCAATTTTGGGTAAATTGCGGCCAAGTAACTCGGATTTCTCTAGCTTCAGGGTCGCATTGGCCGGATGGCTTTATAATGGAGTCGTGACTACGGTGATTGACGATAGTTCATACCCCAAGGATGGTGGTAGCGTGACTTCGCTAGAAAATCTGTGGGATTTCTTCATTCTTGCACTTGCCCTGCCATTGACGACTGATCCGTGCGCTCCTGTGAAAGCGTTTATGACGTTGGCAAACATGATGGTTGGTTTTGAAACGATTCCTATGGATAATCAGATTTATACTCAGTCGCGACGTGCGAGCGCTTTCTCGACGCCTCATACTTGGCCGAGATGCTTCATGAACATTCAATTGATTTCTCCAATCGATGCTCCAATCTTGCGGCAGTGGGCTGAAATCATCCATCGATACTGGCCTAATCCCTCTCAGATTCGTTATGGCGCCCCGAATGTCTTCGGCTCGGCTAATCTGTTCACGCCACCTGAGGTATTGCTGCTACCCATTGACCATCAGCCAGCCAATGTAACTACACCGACTCTGGATTTCACCAATGAGCTGACTAATTGGCGTGCTCGTGTCTGCGAGCTGATGAAGAATCTCGTTGATAATCAACGGTATCAACCTGGATGGACGCAGAGCTTGGTTTCGTCAATGCGCGGAACGCTGGATAAATTGAAGCTGATCAAATCGATGACACCAATGTATCTACAACAGCTCGCTCCAGTGGAATTGGCTGTGATAGCTCCGATGCTGCCTTTTCCACCCTTCCAGGTGCCATACGTCCGTCTTGATCGTGATAGAGTACCCACAATGGTTGGAGTCACCCGTCAGTCCCGAGATACCATTACTCAACCCGCACTATCACTTTCAACAACTAATACTACTGTTGGTGTGCCATTAGCCCTGGATGCGAGAGCCATCACTGTTGCGTTATTATCAGGGAAGTATCCACCGGATCTGGTGACAAATGTGTGGTACGCTGATGCCATCTATCCAATGTATGCTGATACTGAAGTGTTTTCAAACCTTCAGCGAGACATGATTACCTGCGAGGCGGTTCAGACACTGGTGACCCTTGTGGCACAAATATCAGAGACTCAGTACCCCGTGGATAGATATCTTGATTGGATCCCATCATTGAGGGCATCAGCAGCGACAGCGGCGACTTTTGCTGAGTGGGTCAACACTTCGATGAAAACGGCTTTTGACTTGTCTGATATGCTGTTGGAGCCTCTATTGAGCGGTGATCCGAGGATGACTCAATTAGCTATTCAGTACCAGCAATACAATGGCCGGACGTTTAATGTTATACCTGAGATGCCTGGATCAGTTATCGCTGACTGCGTTCAACTGACAGCAGAAGTTTTTAATCATGAATATAATCTGTTCGGGATTGCACGAGGTGACATCATCATCGGACGTGTTCAGTCGACGCATTTGTGGTCACCGCTGGCTCCCCCACCTGATCTGGTCTTCGATCGTGACACACCAGGTGTTCATATTTTTGGGCGAGATTGTCGCATATCGTTTGGAATGAACGGCGCCGCCCCCATGATTAGAGATGAGACTGGCATGATGGTGCCTTTTGAAGGAAACTGGATCTTTCCACTAGCGCTCTGGCAAATGAACACGCGATACTTCAACCAGCAGTTCGATGCATGGATTAAGACGGGAGAACTGCGAATACGTATTGAGATGGGCGCCTACCCGTACATGCTGCATTATTACGATCCGCGTCAGTATGCCAACGCGTGGAACCTGACGTCCGCCTGGCTTGAGGAAATCACGCCGACGAGCATACCGTCTGTGCCTTTTATGGTGCCTATCTCCAGTGATCATGACATCTCCTCCGCTCCCGCTGTTCAATACATCATTTCAACTGAATACAACGATCGATCCCTGTTCTGTACTAACTCCTCATCTCCTCAGACCATCGCTGGACCAGATAAACATATTCCCGTCGAAAGGTACAACATTCTGACCAATCCTGACGCTCCGCCTACGCAAATACAGCTGCCTGAGGTTGTTGACTTGTATAACGTTGTCACACGCTATGCCTATGAGACTCCTCCCATCACCGCTGTTGTTATGGGTGTTCCTTGATCCTCATCCTCCCAACGGGTGCTAGAGCATCGCGCTCGATGCTAGTTGGGCCGATTCATC",
+  "method": "consensus",
+  "metadata": {
+    "collection_date": {
+      "min": 2011,
+      "max": 2011
+    },
+    "geographic_region": [
+      "Asia"
+    ],
+    "host": [
+      "Hipposideros"
+    ],
+    "segment": [
+      "3"
+    ],
+    "serotype": [
+      "T2"
+    ],
+    "species": [
+      "Orthoreovirus mammalis"
+    ],
+    "accessions": [
+      "KT444574.1"
+    ]
+  }
+}
 ```
-assembly,taxon,segment
-Influenza_A_HA.fa.gz,Alphainfluenzavirus,4
-Monkeypox_virus_wg.fa.gz,Orthopoxvirus,wg
-```
-### Compressing the Reference Set
-Although not required, it’s best practice to compress the reference set into a `tar.gz` file. This tarball should include both the _refsheet_ and the reference assemblies. This is especially useful when sharing reference sets. See the [default reference set](https://github.com/DOH-JDJ0303/vaper/tree/637e1fe65c86a964e8ee331f39ca2f14188481d5/assets/reference_sets) for an example of the recommended structure.
+
+{: .important}
+The JSON line in this example has been expanded to a multi-line view to make it readable. Each JSON line in the reference set **must** be provided as a **single** line.
+
+{: .note}
+All `metadata` fields in the example above represent the raw data, as it appeared in NCBI or GISAID. This is why `segment` is included twice. The top-level `segment` is the standardized form, whereas `metadata.segment` are the raw forms.
+
+---
 
 ### The Default Reference Set
-The default reference sets used by VAPER are generated using [EPITOME](https://github.com/DOH-JDJ0303/epitome) with a 2% divergence threshold. This threshold was selected based on results from [varcraft](https://github.com/DOH-HNH0303/varcraft), which showed that assembly quality tends to degrade when sample-reference divergence exceeds 5%.
+The default reference set used by VAPER was created using [EPITOME v2.0](https://github.com/DOH-JDJ0303/epitome) with a 2% divergence threshold. This threshold was selected based on results from [varcraft](https://github.com/DOH-HNH0303/varcraft), which showed that assembly quality tends to degrade when sample-reference divergence exceeds 5%.
 
-EPITOME-derived references include rich metadata about each source sequence, such as `SPECIES`, `COLLECTIONDATE`, `GEOGRAPHICREGION`, and `SEROTYPE`. Because this information is sourced from public databases, its accuracy is not guaranteed—please interpret it with caution ⚠️. Visit the [reference search](../../ref_search/index.html) page to explore available references.
+EPITOME-derived references include rich metadata about each source sequence, such as `species`, `collection_date`, `geographic_region`, and `serotype`. Because this information is sourced from public databases, its accuracy is not guaranteed—please interpret it with caution ⚠️. Visit the [reference search](../../ref_search/index.html) page to explore available references.

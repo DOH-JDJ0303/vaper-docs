@@ -13,6 +13,8 @@ permalink: /docs/v2.0/pages/usage/inputs/
 1. TOC
 {:toc}
 
+---
+
 # Overview
 Pipeline parameters can be adjusted using the following methods:
 
@@ -40,6 +42,8 @@ It is also possible to pass arguments directly to a pipeline process using the `
     }
 ```
 
+---
+
 # Input Options
 ## `--input`
 Path to the samplesheet. 
@@ -60,10 +64,10 @@ sample02,sample02_R1_001.fastq.gz,sample02_R2_001.fastq.gz
 |Column Name|Description|
 |:-|:-|
 |`sample`|Sample name|
-|`fastq_1`|Absolute path to the forward (R1) Illumina read file. Must be supplied with `fastq_2`. Cannot be supplied with `sra` column.|
-|`fastq_2`|Absolute path to the forward (R2) Illumina read file. Must be supplied with `fastq_1`. Cannot be supplied with `sra` column.|
+|`fastq_1`|Absolute path to the forward (R1) Illumina read file (`.fq` or `.fastq`). Must be supplied with `fastq_2`. Cannot be supplied with `sra` column.|
+|`fastq_2`|Absolute path to the forward (R2) Illumina read file (`.fq` or `.fastq`). Must be supplied with `fastq_1`. Cannot be supplied with `sra` column.|
 |`sra`|NCBI SRA accession number. Cannot be used with `fastq_1` or `fastq_2`.|
-|`ref_file`|Semicolon-separated list of reference genome file paths. Reference genomes must be `gz` compressed. |
+|`ref_file`|Semicolon-separated list of reference genome file paths (`.fa`, `.fasta`, or `.fna`). |
 |`ref_name`|Semicolon-separated list of references to use based on their name in the reference set. |
 |`ref_taxon`|Semicolon-separated list of references to select from based on the taxonomy listed in the reference set. |
 |`ref_species`|Semicolon-separated list of references to select from based on the species listed in the reference set. |
@@ -90,7 +94,7 @@ Option to use the SRA Human Read Scrubber tool prior to read processing.
 - Options: `true` or `false`
 - Default: `false`
 
-> Samples with more than this number of reads will be randomly down-sampled using `seqtk sample`. Read counts are based on the sum of the forward and reverse reads.
+---
 
 # Metagenomic Analysis
 ## `--sm_db`
@@ -99,7 +103,7 @@ Path to Sourmash database to use for metagenomic classification
 - Options: Path to database file
 - Default: "${projectDir}/assets/databases/ncbi-viruses-2025.01.dna.k=21.sig.zip"
 
-> Learn more about sourmash databases [here](https://sourmash.readthedocs.io/en/latest/databases-md/).
+> Learn more about sourmash databases [here](https://sourmash.readthedocs.io/en/latest/databases.html).
 
 ## `--sm_taxa`
 Path to taxonomic information for the Sourmash database supplied via `--sm_db`.
@@ -109,19 +113,21 @@ Path to taxonomic information for the Sourmash database supplied via `--sm_db`.
 
 > Learn more about sourmash databases [here](https://sourmash.readthedocs.io/en/latest/databases-md/).
 
+---
+
 # Reference Selection
 ## `--ref_set`
-Path to a compressed reference set in JSON lines format (`gz` compressed) or CSV format.
+Path to a compressed reference set in JSON lines format or CSV format.
 
-- Options: Path to a `.jsonl.gz` or `.csv`
+- Options: Path to a `.jsonl` or `.csv`
 - Default: `${projectDir}/assets/reference_sets/EPITOME_*.jsonl.gz`
 
 > Learn more about reference sets [here](overview.html#reference-sets).
 
 ## `--ref_file`
-Path(s) to a `gz` compressed reference files. References supplied this way will be used to create assemblies for **all** samples.
+Path(s) to reference files in FASTA format. References supplied this way will be used to create assemblies for **all** samples.
 
-- Options: Path to one or more `gz` compressed FASTA file.
+- Options: Path to one or more FASTA file.
 - Default: `null`
 
 > You must use quotes when supplying multiple paths (e.g., `--ref_file "references/*.fa.gz"`), otherwise Nextflow will only recognize the first path as input.
@@ -138,7 +144,7 @@ Reference selection mode
 Minimum genome fraction used for reference selection.
 
 - Options: `0...1`
-- Default: `0.1`
+- Default: `0.5`
 
 > Consensus assemblies will only be generated if the proportion of the reference detected in the sample exceeds this value.  This differs from the genome fraction threshold used for the final quality assessment (`--qc_genfrac`). This value should generally be lower than the QC threshold, to account for gaps in the de novo assembly.
 
@@ -240,6 +246,8 @@ A semi-colon separated list of exclusion patterns to be applied to the reference
 
 > Exclusion patterns are applied before inclusion patterns.
 
+---
+
 # Assembly Options
 ## `--cons_mode`
 Method used for creating the reference-based assembly.
@@ -265,14 +273,37 @@ Minimum allele depth when making the reference-based assembly.
 - Options: `0...Inf`
 - Default: `10`
 
+## `--cons_max_depth`
+Maximum read depth per assembly.
+
+- Options: `0...Inf`
+- Default: `100`
+
+> This paramater controls read subsamples per assembly and is performed after aligning reads to the reference(s). This contrasts `max_reads`, which is applied per sample (not per assembly) and prior to read alignment.
+
 ## `--cons_condist`
 Average nucleotide difference used to condense duplicate assemblies (`1 - ( % ANI / 100 )`).
 
 - Options: `0...1`
 - Default: `0.02`
 
-{: .note}
-Use `--cons_condist 0` to return all duplicated assemblies.
+> Use `--cons_condist 0` to return all duplicated assemblies.
+
+## `--cons_prune_termini`
+Remove N characters from the ends of each assembly.
+
+- Options: `true` or `false`
+- Default: `false`
+
+> This is often required for NCBI submissions
+
+## `--cons_no_mixed_sites`
+Replace all non-ATCGN sites with N
+
+- Options: `true` or `false`
+- Default: `false`
+
+---
 
 # Quality Control
 ## `--qc_depth`
@@ -288,3 +319,5 @@ Minimum genome fraction used for quality assessment of reference-based assemblie
 - Default: `0.8`
 
 > This is separate from the minimum genome fraction used for reference selection (i.e., `--ref_genfrac`) and applies only to the final quality assessment step.
+
+
