@@ -19,7 +19,7 @@ VAPER requires [Nextflow](https://www.nextflow.io/docs/latest/install.html) and 
 Samplesheets should use absolute file paths to avoid path resolution errors.
 
 `samplesheet.csv`:
-```
+```csv
 sample,fastq_1,fastq_2
 sample1,sample1_R1.fastq.gz,sample1_R2.fastq.gz
 sample2,sample2_R1.fastq.gz,sample2_R2.fastq.gz
@@ -29,7 +29,7 @@ sample2,sample2_R1.fastq.gz,sample2_R2.fastq.gz
 
 {: .note}
 This uses the **default reference set**, which includes <span id="taxon-count">[loading]</span> viral taxa ([full list](../../ref_search/index.html)). It is also possible to supply your own reference(s) in the samplesheet or via the `--ref_set` and `--ref_file` parameters ([learn more](../overview/#reference-selection)).
-```
+```bash
 nextflow run doh-jdj0303/vaper \
     -r main \
     -profile docker \

@@ -15,7 +15,7 @@ permalink: /docs/v2.0/pages/usage/outputs/
 
 # Overview
 Below is an overview of the standard outputs produced by VAPER.
-```
+```bash
 `${outdir}` 
 ├── `${sample}`
 │   ├── align
@@ -56,7 +56,7 @@ Below is an overview of the standard outputs produced by VAPER.
 ```
 # Alignment Files
 Read alignments and the corresponding reference(s) and index files are provided for visualization tools like [IGV](https://igv.org/app/).
-```
+```bash
 ├── align
 │   ├── `${sample}`.bam
 │   ├── `${sample}`.bam.bai
@@ -66,14 +66,14 @@ Read alignments and the corresponding reference(s) and index files are provided 
 
 # Assembly Files
 Final assemblies based on selected references.
-```
+```bash
 ├── assembly
 │   └── `${sample}-${reference_name}`.fa.gz
 ```
 
 # Metagenome Files
 Multiple metagenomic outputs are provided. See descriptions below:
-```
+```bash
 ├── metagenome
 │   ├── `${sample}`.all-taxa.csv.gz
 │   ├── `${sample}`.html
@@ -90,7 +90,7 @@ Multiple metagenomic outputs are provided. See descriptions below:
 
 # Quality Files
 Files related to quality control are saved to a common directory. See descriptions below:
-```
+```bash
 ├── qc
 │   ├── `${sample}`-`${reference_name}`.stats.txt
 │   ├── `${sample}`-condensed.csv
@@ -111,7 +111,7 @@ Files related to quality control are saved to a common directory. See descriptio
 
 # Mapped Reads
 Reads that map to each reference genome are exported for downstream use. Human scrubbed reads are also saved here when using `--scrub_reads true`
-```
+```bash
 ├── reads
 │   ├── `${sample}`-`${reference}`_R1.fastq.gz
 │   ├── `${sample}`-`${reference}`_R2.fastq.gz
@@ -120,7 +120,7 @@ Reads that map to each reference genome are exported for downstream use. Human s
 ```
 # Reference selection
 Files related to reference selection are saved to a common directory. See descriptions below:
-```
+```bash
 ├── ref-select
 │   ├── `${sample}`.denovo.fa
 │   └── `${sample}`.ref-summary.csv
@@ -131,7 +131,7 @@ Files related to reference selection are saved to a common directory. See descri
 
 # Summary Files
 Summary files are provided both individually (by sample) or collectively (by run)
-```
+```bash
 │   └── summary
 │       └── `${sample}`.json
 ├── VAPER-summary.csv
@@ -141,8 +141,6 @@ Summary files are provided both individually (by sample) or collectively (by run
 * VAPER-summary.csv and VAPER-summary.json are the combined summaries for all samples included on a run. VAPER-summary.json contains more information than VAPER-summary.csv.
 
 ## VAPER Summary Columns
-
-,,,,,,,,,,,,,,,raw_read2_mean_length,species_summary
 
 |Column Name|Description|
 |:-|:-|

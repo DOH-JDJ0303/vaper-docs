@@ -27,7 +27,7 @@ VAPER (<ins>V</ins>iral <ins>A</ins>ssembly from <ins>P</ins>robe-based <ins>E</
 🧬 Export reads associated with each assembly for downstream use<br>
 </div>
 
-While VAPER was originally designed for hybrid capture data (e.g., [Illumina VSP](https://www.illumina.com/products/by-type/sequencing-kits/library-prep-kits/viral-surveillance-panel.html) or [Twist CVRP](https://www.twistbioscience.com/products/ngs/fixed-panels/comprehensive-viral-research-panel)), it has also been used with shotgun metagenomic and tile-amplicon data. It comes stock with comprehensive reference sets for <span id="taxon-count">[loading]</span> taxa, including influenza A, SARS-CoV-2, and Monkeypox ([full list](../../ref_search/)). Keep on reading to learn more!
+While VAPER was originally designed for hybrid capture data, it has also been used with shotgun metagenomic and tile-amplicon data. It comes stock with a comprehensive reference set for <span id="taxon-count">[loading]</span> viral genera, including **all species targeted by the [Illumina VSP v2.0 panel](https://www.illumina.com/content/dam/illumina/gcs/assembled-assets/marketing-literature/viral-surveillance-panel-v2-data-sheet-m-gl-02882/viral-surveillance-panel-v2-data-sheet-m-gl-02882.pdf)** (see the full list [here](../../ref_search/)). Keep on reading to learn more!
 
 ## Contributors
 VAPER was originally created by the Washington State Department of Health (WA DOH) as part of the Pathogen Genomics Center of Excellence (PGCoE). Check out the links below to learn more:
@@ -51,7 +51,7 @@ Read quality is evaluated and managed using `FastQC` and `fastp`. Fastp metrics 
 VAPER can download **paired-end reads** from the NCBI Sequence Read Archive (SRA) (see example below).
 
 `samplesheet.csv`
-```
+```csv
 sample,sra
 sample01,SRR28460430
 ```
@@ -59,8 +59,8 @@ sample01,SRR28460430
 ---
 
 # Reference Selection
-VAPER can automatically select references for you and/or you can tell VAPER which references to use. Learn more about how to adjust reference selection parameters [here](../inputs/#reference-selection).
- 
+VAPER can automatically select references for you and/or you can tell VAPER which references to use. Learn more about how to adjust reference selection parameters [here](../inputs/#reference-selection). VAPER comes stock is a default reference set that includes **thousands** of viral species (see the full list [here](../../ref_search/)).
+
 ## Automated Reference Selection
 VAPER comes with multiple automated reference selection modes: `--refs_mode ( standard | sensitive | kitchen-sink )`. `standard` and `sensitive` modes use a _reference set_ supplied using the `--ref_set` parameter. `kitchen-sink` mode downloads references from NCBI using the metagenomic summary.
 
@@ -106,7 +106,7 @@ You can specify which references to select from using the `ref_*` filter columns
 > #### Sample-Level Filters
 > The example below shows how you would direct VAPER to only perform reference selection using *Alphainfluenzavirus influenzae* references for `sample01`. This filter would not be applied to `sample02`. You could likewise filter by **taxon**, **segment**, and **reference name** using the `ref_taxon`, `ref_segment`, and `ref_name` columns.
 > `samplesheet.csv`:
-> ```
+> ```csv
 > sample,fastq_1,fastq_2,ref_species
 > sample01,sample01_R1.fq.gz,sample01_R2.fq.gz,Alphainfluenzavirus influenzae
 > sample02,sample02_R1.fq.gz,sample02_R2.fq.gz,
@@ -114,7 +114,7 @@ You can specify which references to select from using the `ref_*` filter columns
 
 > #### Run-Level Filters
 > The example below shows how you would direct VAPER to only perform reference selection using *Alphainfluenzavirus influenzae* references **for all samples on the run**. You could filter by **taxon**, **segment**, or **reference name** using the `--ref_taxon`, `--ref_segment`, or `--ref_name` parameters.
-> ```
+> ```bash
 > nextflow run doh-jdj0303/vaper \
 >   -r v2.0 \
 >   -profile docker \
@@ -131,14 +131,14 @@ References can also be supplied manually as individual file paths with or withou
 
 > #### Sample-Level Reference Files
 > `samplesheet.csv`:
-> ```
+> ```csv
 > sample,fastq_1,fastq_2,ref_file
 > sample01,sample01_R1.fq.gz,sample01_R2.fq.gz,/path/to/reference.fa.gz
 > sample02,sample02_R1.fq.gz,sample02_R2.fq.gz,
 > ```
 
 > #### Run-Level Reference Files
-> ```
+> ```bash
 > nextflow run doh-jdj0303/vaper \
 >   -r v2.0 \
 >   -profile docker \

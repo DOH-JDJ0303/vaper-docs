@@ -123,4 +123,4 @@ nextflow run doh-jdj0303/vaper \
 You can learn more about how the test configuration [here](https://github.com/DOH-JDJ0303/vaper/blob/main/conf/test.config)
 
 # Basic Usage
-Most users will find everything they need to run VAPER on the [quick start](quickstart.html) page and in the various examples over in the [examples](../examples/index.html) section. In-depth overviews of [inputs](inputs.html) and [outputs](outputs.html) are also available. All other questions / issues should be submitted via the VAPER [GitHub issues](https://github.com/DOH-JDJ0303/vaper/issues) page or by [email](mailto:waphl-bioinformatics@doh.wa.gov).
+Most users will find everything they need to run VAPER on the [quick start](../quickstart/) page and in the various examples over in the [examples](../../examples/) section. In-depth overviews of [inputs](../inputs/) and [outputs](../outputs/) are also available. All other questions / issues should be submitted via the VAPER [GitHub issues](https://github.com/DOH-JDJ0303/vaper/issues) page or by [email](mailto:waphl-bioinformatics@doh.wa.gov).

@@ -10,15 +10,49 @@ let dataTable = null;
 // How many characters to show in the table display
 const MAX_DISPLAY_CHARS = 60;
 
-// Flatten a single record from the nested JSON structure
+// Helper function to decompress gzip data
+async function decompressGzip(response) {
+  // Check if the browser supports DecompressionStream
+  if (!window.DecompressionStream) {
+    throw new Error('DecompressionStream not supported in this browser');
+  }
+
+  const stream = response.body
+    .pipeThrough(new DecompressionStream('gzip'));
+  
+  const decompressedResponse = new Response(stream);
+  return await decompressedResponse.text();
+}
+
+// Fetch and parse JSON, handling both regular and gzipped files
+async function fetchJSON(url) {
+  const res = await fetch(url);
+  if (!res.ok) {
+    throw new Error(`HTTP ${res.status}`);
+  }
+
+  // Check if the file is gzipped based on URL or content-type
+  const isGzipped = url.endsWith('.gz') || 
+                    res.headers.get('content-encoding') === 'gzip';
+
+  if (isGzipped && url.endsWith('.gz')) {
+    // Manually decompress .gz files
+    const text = await decompressGzip(res);
+    return JSON.parse(text);
+  } else {
+    // Standard JSON parsing
+    return await res.json();
+  }
+}
+
+// Flatten a single record from a (now non-nested) JSON structure
 function flattenRecord(rec) {
-  const md = rec.metadata || {};
   const out = {};
 
   // Top-level fields
-  out.name = rec.name ?? "";
+  out.name = [rec.taxon, rec.segment, rec.variant].join('-')
 
-  // Arrays in metadata -> comma-separated strings
+  // Arrays at top level -> comma-separated strings
   const arrayFields = [
     "accessions",
     "geographic_region",
@@ -30,20 +64,22 @@ function flattenRecord(rec) {
   ];
 
   arrayFields.forEach(field => {
-    if (Array.isArray(md[field])) {
-      out[field] = md[field].join(", ");
+    const val = rec[field];
+    if (Array.isArray(val)) {
+      out[field] = val.join(", ");
     } else {
-      out[field] = md[field] ?? "";
+      out[field] = val ?? "";
     }
   });
 
-  // collection_date: { min, max }
-  if (md.collection_date) {
-    out.collection_date_min = md.collection_date.min ?? "";
-    out.collection_date_max = md.collection_date.max ?? "";
+  // collection_date can still be an object { min, max } at top level
+  if (rec.collection_date && typeof rec.collection_date === "object") {
+    out.collection_date_min = rec.collection_date.min ?? "";
+    out.collection_date_max = rec.collection_date.max ?? "";
   } else {
-    out.collection_date_min = "";
-    out.collection_date_max = "";
+    // or fall back to flat fields if you have them
+    out.collection_date_min = rec.collection_date_min ?? "";
+    out.collection_date_max = rec.collection_date_max ?? "";
   }
 
   return out;
@@ -71,14 +107,19 @@ function buildColumns(headers) {
 // Load JSON for a specific taxon and render DataTable
 async function loadTaxonData(taxon) {
   try {
-    const url = `data/taxon_jsons/${encodeURIComponent(taxon)}.json`;
-    const res = await fetch(url);
-    if (!res.ok) {
-      console.error('Failed to load taxon data:', res.status);
-      return;
+    // Try .json.gz first, fall back to .json if not found
+    let url = `data/taxon_jsons/${encodeURIComponent(taxon)}.json.gz`;
+    let json;
+    
+    try {
+      json = await fetchJSON(url);
+    } catch (err) {
+      // If .gz fails, try regular .json
+      console.log(`Gzipped file not found, trying uncompressed: ${err.message}`);
+      url = `data/taxon_jsons/${encodeURIComponent(taxon)}.json`;
+      json = await fetchJSON(url);
     }
 
-    const json = await res.json();
     if (!Array.isArray(json) || json.length === 0) {
       console.warn('No data for taxon:', taxon);
       return;
@@ -96,7 +137,6 @@ async function loadTaxonData(taxon) {
     // Preferred column ordering
     const preferredOrder = [
       "name",
-      "taxon",
       "species",
       "segment",
       "host",
@@ -164,13 +204,15 @@ async function loadTaxonData(taxon) {
 // Load list of taxa and build filter buttons
 async function loadTaxonList() {
   try {
-    const res = await fetch('data/taxon_jsons/taxon_list.json');
-    if (!res.ok) {
-      console.error('Failed to load taxon list:', res.status);
-      return;
+    // Try gzipped taxon list first
+    let taxonList;
+    try {
+      taxonList = await fetchJSON('data/taxon_jsons/taxon_list.json.gz');
+    } catch (err) {
+      console.log('Gzipped taxon list not found, trying uncompressed');
+      taxonList = await fetchJSON('data/taxon_jsons/taxon_list.json');
     }
 
-    const taxonList = await res.json();
     if (!Array.isArray(taxonList) || taxonList.length === 0) {
       console.warn('Taxon list is empty.');
       return;

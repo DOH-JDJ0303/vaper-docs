@@ -8,7 +8,7 @@ nav_order: 1
 </p>
 
 # **Welcome to the VAPER Documentation Page!**
-VAPER is a viral (meta-)assembly pipeline with automatic reference selection. Select a pipeline version from the navigation pane on the left to get started!
+VAPER is a viral (meta-)assembly pipeline with automatic reference selection. Select a pipeline version to get started!
 
 
 

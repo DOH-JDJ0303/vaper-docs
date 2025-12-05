@@ -71,7 +71,7 @@ Path to a reference set
 - Options: Path to a `tar.gz` or `.csv` file containing reference info.
 - Default: `${baseDir}/assets/reference_sets/EPITOME_*.tar.gz`
 
-> Learn more about reference sets [here](overview.html#reference-sets).
+> Learn more about reference sets [here](../overview/#reference-sets).
 
 ## `--max_reads`
 The maximum number of reads to include in the analysis.
@@ -88,7 +88,7 @@ Reference selection mode
 - Options: `accurate`, `fast`, `kitchen-sink`, and `none`. 
 - Default: `accurate`
 
-> Learn more about reference selection modes [here](overview.html#reference-selection).
+> Learn more about reference selection modes [here](../overview/#reference-selection).
 
 ## `--ref_genfrac`
 Minimum genome fraction used for reference selection.

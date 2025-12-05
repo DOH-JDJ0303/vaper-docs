@@ -11,7 +11,7 @@ permalink: /docs/v2.0/pages/developers/reference_sets/
 This page provides an overview of the use, structure, and creation of VAPER reference sets.
 
 ## Using Reference Sets
-Reference sets can be specified using the `--ref_set` parameter (learn more [here](../../../usage/inputs/index.html#--refs))
+Reference sets can be specified using the `--ref_set` parameter (learn more [here](../../usage/overview/#reference-selection))
 
 ## Creating Reference sets
 VAPER accepts reference sets in comma-separated (`CSV`) or JSON lines (`JSONL`) format. See below for examples of each:
@@ -90,6 +90,6 @@ All `metadata` fields in the example above represent the raw data, as it appeare
 ---
 
 ### The Default Reference Set
-The default reference set used by VAPER was created using [EPITOME v2.0](https://github.com/DOH-JDJ0303/epitome) with a 2% divergence threshold. This threshold was selected based on results from [varcraft](https://github.com/DOH-HNH0303/varcraft), which showed that assembly quality tends to degrade when sample-reference divergence exceeds 5%.
+The default reference set used by VAPER was created using [EPITOME v2.0](https://doh-jdj0303.github.io/epitome-docs/) with a 2% divergence threshold. This threshold was selected based on results from [varcraft](https://github.com/DOH-HNH0303/varcraft), which showed that assembly quality tends to degrade when sample-reference divergence exceeds 5%.
 
-EPITOME-derived references include rich metadata about each source sequence, such as `species`, `collection_date`, `geographic_region`, and `serotype`. Because this information is sourced from public databases, its accuracy is not guaranteed—please interpret it with caution ⚠️. Visit the [reference search](../../ref_search/index.html) page to explore available references.
+EPITOME-derived references include rich metadata about each source sequence, such as `species`, `collection_date`, `geographic_region`, and `serotype`. Because this information is sourced from public databases, its accuracy is not guaranteed—please interpret it with caution ⚠️. Visit the [reference search](../../ref_search/) page to explore available references.

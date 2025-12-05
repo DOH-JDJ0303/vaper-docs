@@ -50,7 +50,7 @@ Path to the samplesheet.
 
 ### Example samplesheet
 `samplesheet.csv`:
-```csv
+```
 sample,fastq_1,fastq_2
 sample01,sample01_R1_001.fastq.gz,sample01_R2_001.fastq.gz
 sample02,sample02_R1_001.fastq.gz,sample02_R2_001.fastq.gz
@@ -122,7 +122,7 @@ Path to a compressed reference set in JSON lines format or CSV format.
 - Options: Path to a `.jsonl` or `.csv`
 - Default: `${projectDir}/assets/reference_sets/EPITOME_*.jsonl.gz`
 
-> Learn more about reference sets [here](overview.html#reference-sets).
+> Learn more about reference sets [here](../overview/#reference-selection).
 
 ## `--ref_file`
 Path(s) to reference files in FASTA format. References supplied this way will be used to create assemblies for **all** samples.
@@ -138,7 +138,7 @@ Reference selection mode
 - Options: `standard`, `sensitive`, and `kitchen-sink`.
 - Default: `standard`
 
-> You can skip reference selection by setting `ref_mode` to `null`. Learn more about reference selection modes [here](overview.html#reference-selection).
+> You can skip reference selection by setting `ref_mode` to `null`. Learn more about reference selection modes [here](../overview/#reference-selection).
 
 ## `--ref_genfrac`
 Minimum genome fraction used for reference selection.
