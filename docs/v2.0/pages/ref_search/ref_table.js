@@ -10,6 +10,11 @@ let dataTable = null;
 // How many characters to show in the table display
 const MAX_DISPLAY_CHARS = 60;
 
+// Helper function to normalize taxon names (replace spaces with underscores)
+function normalizeTaxonName(taxon) {
+  return String(taxon).replace(/\s+/g, '_');
+}
+
 // Helper function to decompress gzip data
 async function decompressGzip(response) {
   // Check if the browser supports DecompressionStream
@@ -107,8 +112,11 @@ function buildColumns(headers) {
 // Load JSON for a specific taxon and render DataTable
 async function loadTaxonData(taxon) {
   try {
+    // Normalize taxon name for file lookup
+    const normalizedTaxon = normalizeTaxonName(taxon);
+    
     // Try .json.gz first, fall back to .json if not found
-    let url = `data/taxon_jsons/${encodeURIComponent(taxon)}.json.gz`;
+    let url = `data/taxon_jsons/${encodeURIComponent(normalizedTaxon)}.json.gz`;
     let json;
     
     try {
@@ -116,7 +124,7 @@ async function loadTaxonData(taxon) {
     } catch (err) {
       // If .gz fails, try regular .json
       console.log(`Gzipped file not found, trying uncompressed: ${err.message}`);
-      url = `data/taxon_jsons/${encodeURIComponent(taxon)}.json`;
+      url = `data/taxon_jsons/${encodeURIComponent(normalizedTaxon)}.json`;
       json = await fetchJSON(url);
     }
 
@@ -179,7 +187,7 @@ async function loadTaxonData(taxon) {
         {
           extend: 'csvHtml5',
           text: 'Download CSV',
-          title: `VAPER_${taxon}_references`,
+          title: `VAPER_${normalizedTaxon}_references`,
           exportOptions: {
             columns: ':visible',
             // Force CSV to use the full underlying data from flatData,
@@ -221,8 +229,9 @@ async function loadTaxonList() {
     const $buttons = $('#taxonButtons').empty();
     taxonList.forEach(taxon => {
       const label = String(taxon);
+      const normalizedTaxon = normalizeTaxonName(taxon);
       $buttons.append(
-        `<button type="button" class="taxon-filter" data-taxon="${label}">${label}</button>`
+        `<button type="button" class="taxon-filter" data-taxon="${normalizedTaxon}">${label}</button>`
       );
     });
 

@@ -27,7 +27,7 @@ VAPER (<ins>V</ins>iral <ins>A</ins>ssembly from <ins>P</ins>robe-based <ins>E</
 🧬 Export reads associated with each assembly for downstream use<br>
 </div>
 
-While VAPER was originally designed for hybrid capture data, it has also been used with shotgun metagenomic and tile-amplicon data. It comes stock with a comprehensive reference set for <span id="taxon-count">[loading]</span> viral genera, including **all species targeted by the [Illumina VSP v2.0 panel](https://www.illumina.com/content/dam/illumina/gcs/assembled-assets/marketing-literature/viral-surveillance-panel-v2-data-sheet-m-gl-02882/viral-surveillance-panel-v2-data-sheet-m-gl-02882.pdf)** (see the full list [here](../../ref_search/)). Keep on reading to learn more!
+While VAPER was originally designed for hybrid capture data, it has also been used with shotgun metagenomic and tile-amplicon data. It comes stock with a comprehensive reference set for <span id="taxon-count">[loading]</span> viral taxa, including **all species targeted by the [Illumina VSP v2.0 panel](https://www.illumina.com/content/dam/illumina/gcs/assembled-assets/marketing-literature/viral-surveillance-panel-v2-data-sheet-m-gl-02882/viral-surveillance-panel-v2-data-sheet-m-gl-02882.pdf)** (see the full list [here](../../ref_search/)). Keep on reading to learn more!
 
 ## Contributors
 VAPER was originally created by the Washington State Department of Health (WA DOH) as part of the Pathogen Genomics Center of Excellence (PGCoE). Check out the links below to learn more:
