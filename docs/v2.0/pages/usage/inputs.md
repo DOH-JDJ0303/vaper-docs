@@ -97,6 +97,14 @@ Option to use the SRA Human Read Scrubber tool prior to read processing.
 ---
 
 # Metagenomic Analysis
+## `--metagenome`
+Controls if metagenomic analysis is performed.
+
+- Options: `true` or `false`
+- Default: `true`
+
+> Overridden when using `--ref_mode kitchen-sink`
+
 ## `--sm_db`
 Path to Sourmash database to use for metagenomic classification
 
