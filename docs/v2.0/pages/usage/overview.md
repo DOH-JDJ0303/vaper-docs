@@ -206,7 +206,7 @@ VAPER will occasionally produce multiple, *near*-identical assemblies (often >99
 ---
 
 # Metagenomic Classification
-VAPER performs a basic viral _metagenomic_ analysis using `sourmash gather` and `sourmash tax metagenome` with the [21-mer viral NCBI database (Jan 2025)](https://sourmash.readthedocs.io/en/latest/databases-md/ncbi_viruses_2025_01.html). You can supply alternative database files using `--sm_db` and `--sm_taxa`.
+VAPER performs an optional viral _metagenomic_ analysis using `sourmash gather` and `sourmash tax metagenome` with the [21-mer viral NCBI database (Jan 2025)](https://sourmash.readthedocs.io/en/latest/databases-md/ncbi_viruses_2025_01.html). You can skip the metagenomic analysis using `--metagenome false` or supply alternative database files using `--sm_db` and `--sm_taxa`.
 
 {: .note}
 The static image and summary exclude unclassified sequences when calculating relative abundance. Sequences with relative abundance ≤ 1% are grouped into `Other`.

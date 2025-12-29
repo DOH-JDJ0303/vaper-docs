@@ -25,6 +25,8 @@ Below is an overview of the standard outputs produced by VAPER.
 │   │   └── refs.fa.fai
 │   ├── assembly
 │   │   └── `${sample}`_`${reference_name}`.fa.gz
+│   ├── assembly_tidy
+│   │   └── `${sample}`_`${reference_name}`.tidy.fa.gz
 │   ├── metagenome
 │   │   ├── `${sample}`.all-taxa.csv.gz
 │   │   ├── `${sample}`.html
@@ -69,6 +71,12 @@ Final assemblies based on selected references.
 ```bash
 ├── assembly
 │   └── `${sample}-${reference_name}`.fa.gz
+```
+
+A _tidy_ version of the assembly is also saved if you run VAPER using the `--cons_prune_termini` or `--cons_no_mixed_sites`.
+```bash
+├── assembly
+│   └── `${sample}-${reference_name}`.tidy.fa.gz
 ```
 
 # Metagenome Files
