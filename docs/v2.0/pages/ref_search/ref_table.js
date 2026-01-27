@@ -65,7 +65,8 @@ function flattenRecord(rec) {
     "segment",
     "species",
     "tax_id",
-    "taxon"
+    "taxon",
+    "outlier"
   ];
 
   arrayFields.forEach(field => {
@@ -147,6 +148,7 @@ async function loadTaxonData(taxon) {
       "name",
       "species",
       "segment",
+      "outlier",
       "host",
       "geographic_region",
       "accessions",
