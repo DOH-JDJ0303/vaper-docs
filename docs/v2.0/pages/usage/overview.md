@@ -159,13 +159,13 @@ VAPER v2.0 no longer supports the CDC IRMA assembler.
 Learn more about how to adjust assembly parameters [here](../inputs/#assembly-options).
 
 ## Assembly Modes
-VAPER comes with several default assembly modes. These modes primarily differ in how they handle reference positions with mixed read support.
+VAPER comes with multiple default assembly modes. These modes primarily differ in how they handle reference positions with mixed read support.
 
 {: .important}
  The `-t` parameter used by iVar to control the minimum frequency threshold to make a consensus call does not behave as described in the [documentation](https://andersen-lab.github.io/ivar/html/manualpage.html). Instead of controlling the frequency of bases needed to call a consensus, it actually controls the frequency of reads supported by the consensus, as described in this [issue](https://github.com/andersen-lab/ivar/issues/51). Future versions of VAPER will work to address this limitation.
 
 > #### **Standard Mode**
-> `standard` mode returns the most common base observed among the reads (plurality).
+> `standard` mode returns the most common base observed among the reads (the plurality).
 >
 > |parameter|value|
 > |:-|:-|
@@ -175,7 +175,7 @@ VAPER comes with several default assembly modes. These modes primarily differ in
 > |cons_max_depth|100|
 
 > #### **Mixed Mode**
-> `mixed` mode includes minor allele varation in the form of mixed IUPAC codes. This mode may be useful for environmental or pooled samples. The minimum and maximum read depth parameters are increased to account for multiple nucleotide calls at each position.
+> `mixed` mode includes minor allelic varation in the form of mixed IUPAC codes. This mode may be useful for environmental or pooled samples. The minimum and maximum read depth parameters are increased to account for multiple nucleotide calls at each position.
 >
 > |parameter|value|
 > |:-|:-|
