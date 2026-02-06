@@ -153,41 +153,34 @@ References can also be supplied manually as individual file paths with or withou
 VAPER creates genome assemblies by aligning reads to one or more reference and calling the consensus at each reference position. This is accomplished using [BWA MEM](https://github.com/lh3/bwa), [Samtools](https://www.htslib.org/doc/samtools-mpileup.html), and [iVar](https://andersen-lab.github.io/ivar/html/index.html).
 
 {: .important}
-VAPER v2.0 does not support the CDC IRMA assembler.
+VAPER v2.0 no longer supports the CDC IRMA assembler.
 
 {: .note}
 Learn more about how to adjust assembly parameters [here](../inputs/#assembly-options).
 
 ## Assembly Modes
-VAPER comes with several default assembly modes. These modes primarily differ in how they handle reference positions with mixed read support. 
+VAPER comes with multiple default assembly modes. These modes primarily differ in how they handle reference positions with mixed read support.
+
+{: .important}
+ The `-t` parameter used by iVar to control the minimum frequency threshold to make a consensus call does not behave as described in the [documentation](https://andersen-lab.github.io/ivar/html/manualpage.html). Instead of controlling the frequency of bases needed to call a consensus, it actually controls the frequency of reads supported by the consensus, as described in this [issue](https://github.com/andersen-lab/ivar/issues/51). Future versions of VAPER will work to address this limitation.
 
 > #### **Standard Mode**
-> `standard` mode assembles the dominant viral population in sample, ignoring minor allele variation introduced by subpopulations. At least 60% of the reads must support a single nucleotide to make a call.
+> `standard` mode returns the most common base observed among the reads (the plurality).
 >
 > |parameter|value|
 > |:-|:-|
 > |cons_allele_qual|20|
-> |cons_allele_ratio|0.6|
-> |cons_allele_depth|10|
-> |cons_max_depth|100|
-
-> #### **Strict Mode**
-> `strict` does the same thing as `standard` mode but requires that at least 90% of the reads support the same nucleotide to make a call.
->
-> |parameter|value|
-> |:-|:-|
-> |cons_allele_qual|20|
-> |cons_allele_ratio|0.9|
+> |cons_allele_ratio|0.0|
 > |cons_allele_depth|10|
 > |cons_max_depth|100|
 
 > #### **Mixed Mode**
-> `mixed` mode includes minor allele varation in the form of mixed IUPAC codes. This mode can be useful for environmental or pooled samples. The minimum and maximum read depth parameters are increased to account for multiple nucleotide calls at each position.
+> `mixed` mode includes minor allelic varation in the form of mixed IUPAC codes. This mode may be useful for environmental or pooled samples. The minimum and maximum read depth parameters are increased to account for multiple nucleotide calls at each position.
 >
 > |parameter|value|
 > |:-|:-|
 > |cons_allele_qual|20|
-> |cons_allele_ratio|0.2|
+> |cons_allele_ratio|0.8|
 > |cons_allele_depth|20|
 > |cons_max_depth|200|
 
