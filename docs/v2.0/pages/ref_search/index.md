@@ -21,7 +21,7 @@ permalink: /docs/v2.0/pages/ref_search/
 </table>
 
 {: .note}
-All references were created using [EPITOME v2.1](https://doh-jdj0303.github.io/epitome-docs/) at the genus level, except those belonging to Betacoronavirus - Embecovirus, Hibecovirus, Merbecovirus, Nobecovirus, Severe acute respiratory syndrome-related coronavirus, unclassified Sarbecovirus, and Severe acute respiratory syndrome coronavirus 2. Taxonomic names were derived from [NCBI](https://www.ncbi.nlm.nih.gov/taxonomy).
+All references were created at the genus level, except those belonging to Betacoronavirus (Embecovirus, Hibecovirus, Merbecovirus, Nobecovirus, and Sarbecovirus), using [EPITOME v2.1](https://doh-jdj0303.github.io/epitome-docs/). Taxonomic names were derived from [NCBI](https://www.ncbi.nlm.nih.gov/taxonomy). References with unusual lengths, as compared to the global average for that genus, are listed as `outliers`.
 - [Learn more about reference sets](../developers/reference_sets/index.html)
 - [Request a new reference set](https://github.com/DOH-JDJ0303/vaper/issues)
 
